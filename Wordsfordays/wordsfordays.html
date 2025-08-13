@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Words for Days</title>
+	<style>
+		body {
+			font-family: 'Segoe UI', Arial, sans-serif;
+			background: #f3f4f6;
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			max-width: 900px;
+			margin: 40px auto;
+			background: #fff;
+			border-radius: 12px;
+			box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+			padding: 32px 24px;
+		}
+		h1 {
+			text-align: center;
+			color: #2563eb;
+		}
+		table {
+			width: 100%;
+			border-collapse: collapse;
+			margin-top: 24px;
+		}
+		th, td {
+			border: 1px solid #e5e7eb;
+			padding: 10px 8px;
+			text-align: center;
+		}
+		th {
+			background: #f1f5f9;
+			color: #1e293b;
+		}
+		tr:nth-child(even) {
+			background: #f9fafb;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>Words for Days</h1>
+		<table id="words-table">
+			<thead>
+				<tr>
+					<th>Left</th>
+					<th>Operator</th>
+					<th>Right</th>
+					<th>Result</th>
+				</tr>
+			</thead>
+			<tbody>
+				<!-- Data will be inserted here by JS -->
+			</tbody>
+		</table>
+	</div>
+	<script>
+	// JSON data from 2025-08-13.json
+	const data = [{"left":"superhero","operator":"+","right":"avengers","result":"marvel"},{"left":"team","operator":"+","right":"superhero","result":"avengers"},{"left":"superhero","operator":"+","right":"superhero","result":"team"},{"left":"comic strip","operator":"+","right":"big hero 6","result":"superhero"},{"left":"innovation","operator":"+","right":"animated show","result":"big hero 6"},{"left":"technology","operator":"+","right":"comic strip","result":"tech humor"},{"left":"invention","operator":"+","right":"series","result":"the big bang theory"},{"left":"series","operator":"+","right":"innovation","result":"technology"},{"left":"series","operator":"+","right":"cartoon","result":"animated show"},{"left":"series","operator":"+","right":"series","result":"sequel"},{"left":"series","operator":"+","right":"comic strip","result":"graphic novel"},{"left":"animated series","operator":"-","right":"animation","result":"series"},{"left":"anime","operator":"-","right":"animation","result":"japanese cartoons"},{"left":"cartoon","operator":"-","right":"anime","result":"western animation"},{"left":"anime","operator":"-","right":"cartoon","result":"animation style"},{"left":"comic strip","operator":"-","right":"animated series","result":"static cartoon"},{"left":"animated series","operator":"-","right":"comic strip","result":"motion graphics"},{"left":"comic strip","operator":"-","right":"cartoon","result":"sequential art"},{"left":"comic strip","operator":"+","right":"comic strip","result":"newspaper"},{"left":"cartoon","operator":"-","right":"animation","result":"comic strip"},{"left":"anime","operator":"+","right":"anime","result":"otaku"},{"left":"animation","operator":"+","right":"cartoon","result":"anime"},{"left":"animation","operator":"+","right":"animation","result":"cartoon"},{"left":"animated series","operator":"+","right":"animated series","result":"animation"},{"left":"futurama","operator":"-","right":"space opera","result":"animated series"},{"left":"void","operator":"-","right":"kelso","result":"empty space"},{"left":"kelso","operator":"-","right":"void","result":"absence"},{"left":"kelso","operator":"+","right":"void","result":"space"},{"left":"that 70s show","operator":"+","right":"ashton kutcher","result":"kelso"},{"left":"that 70s show","operator":"+","right":"that 70s show","result":"sitcom"},{"left":"scifi comedy","operator":"-","right":"scifi comedy","result":"void"},{"left":"galaxy quest","operator":"-","right":"scifi comedy","result":"space parody"},{"left":"scifi comedy","operator":"+","right":"earthly imagination","result":"galaxy quest"},{"left":"earthly imagination","operator":"+","right":"futurama","result":"scifi comedy"},{"left":"futurama","operator":"-","right":"cosmic","result":"space opera"},{"left":"science fiction","operator":"+","right":"that 70s show","result":"futurama"},{"left":"cosmic creativity","operator":"-","right":"creativity","result":"cosmic"},{"left":"art","operator":"-","right":"cosmic creativity","result":"earthly imagination"},{"left":"space art","operator":"+","right":"inspiration","result":"cosmic creativity"},{"left":"creativity","operator":"+","right":"inspiration","result":"art"},{"left":"planet","operator":"+","right":"artistic inspiration","result":"space art"},{"left":"adult perspective","operator":"+","right":"planet","result":"environmental awareness"},{"left":"earth","operator":"+","right":"earth","result":"planet"},{"left":"pollination","operator":"+","right":"creativity","result":"inspiration"},{"left":"butterfly","operator":"+","right":"wild fox","result":"nature"},{"left":"butterfly","operator":"+","right":"flower","result":"pollination"},{"left":"ashton kutcher","operator":"+","right":"ashton kutcher","result":"that 70s show"},{"left":"butterfly effect","operator":"+","right":"butterfly","result":"ashton kutcher"},{"left":"butterfly","operator":"+","right":"butterfly","result":"butterfly effect"},{"left":"metamorphosis","operator":"+","right":"transformation","result":"butterfly"},{"left":"metamorphosis","operator":"+","right":"metamorphosis","result":"transformation"},{"left":"a tale of transformation","operator":"+","right":"a tale of transformation","result":"metamorphosis"},{"left":"the taming of the shrew","operator":"+","right":"a journey to the stars","result":"a tale of transformation"},{"left":"science fiction","operator":"+","right":"innovation","result":"futurism"},{"left":"space exploration","operator":"+","right":"interstellar travel","result":"science fiction"},{"left":"space exploration","operator":"+","right":"rose","result":"interstellar travel"},{"left":"a journey to the stars","operator":"+","right":"a journey to the stars","result":"space exploration"},{"left":"garden","operator":"-","right":"flower","result":"greenery"},{"left":"flower","operator":"+","right":"flower","result":"garden"},{"left":"rose","operator":"+","right":"rose","result":"flower"},{"left":"creativity","operator":"+","right":"wild fox","result":"artistic inspiration"},{"left":"creativity","operator":"+","right":"innovation","result":"invention"},{"left":"creativity","operator":"+","right":"creativity","result":"innovation"},{"left":"imagination","operator":"+","right":"imagination","result":"creativity"},{"left":"friendship","operator":"+","right":"friendship","result":"bond"},{"left":"adult perspective","operator":"-","right":"wild fox","result":"mature cunning"},{"left":"taming of the fox","operator":"-","right":"tame","result":"wild fox"},{"left":"tame","operator":"+","right":"taming of the fox","result":"the taming of the shrew"},{"left":"friendship","operator":"+","right":"the little prince","result":"the essence of friendship"},{"left":"earth","operator":"-","right":"the little prince","result":"a journey to the stars"},{"left":"wind","operator":"-","right":"the little prince","result":"rose"},{"left":"fire","operator":"-","right":"the little prince","result":"taming of the fox"},{"left":"mars","operator":"-","right":"the little prince","result":"a lonely planet"},{"left":"volcano","operator":"-","right":"the little prince","result":"desert planet"},{"left":"pottery","operator":"-","right":"the little prince","result":"imagination"},{"left":"ocean","operator":"-","right":"the little prince","result":"a vast journey"},{"left":"loneliness","operator":"-","right":"companionship","result":"solitude"},{"left":"loneliness","operator":"-","right":"the little prince","result":"companionship"},{"left":"tame","operator":"-","right":"the little prince","result":"friendship"},{"left":"adult perspective","operator":"-","right":"the little prince","result":"lost innocence"},{"left":"desert","operator":"-","right":"the little prince","result":"loneliness"},{"left":"storm","operator":"-","right":"the little prince","result":"tame"},{"left":"dirt","operator":"-","right":"the little prince","result":"adult perspective"},{"left":"the little prince","operator":"-","right":"wind","result":"stillness"},{"left":"the little prince","operator":"-","right":"storm","result":"calm"},{"left":"the little prince","operator":"-","right":"innocence","result":"lost childhood"},{"left":"the little prince","operator":"-","right":"volcano","result":"desert"},{"left":"the little prince","operator":"+","right":"dirt","result":"innocence"},{"left":"pottery","operator":"+","right":"rock planet","result":"the little prince"},{"left":"mud","operator":"+","right":"fire","result":"pottery"},{"left":"mud","operator":"+","right":"mud","result":"dirt"},{"left":"earth","operator":"+","right":"water","result":"mud"},{"left":"water","operator":"+","right":"water","result":"ocean"},{"left":"wind","operator":"+","right":"water","result":"storm"},{"left":"rock planet","operator":"+","right":"fire","result":"volcano"},{"left":"rock planet","operator":"+","right":"wind","result":"mars"},{"left":"earth","operator":"-","right":"water","result":"rock planet"}];
+	const tbody = document.querySelector('#words-table tbody');
+	data.forEach(row => {
+		const tr = document.createElement('tr');
+		tr.innerHTML = `<td>${row.left}</td><td>${row.operator}</td><td>${row.right}</td><td>${row.result}</td>`;
+		tbody.appendChild(tr);
+	});
+	</script>
+</body>
+</html>
