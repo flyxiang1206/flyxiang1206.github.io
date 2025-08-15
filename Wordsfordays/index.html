@@ -5,107 +5,232 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Words for Days</title>
     <style>
-      body {
-        font-family: "Segoe UI", Arial, sans-serif;
-        background: #f3f4f6;
-        margin: 0;
-        padding: 0;
+      :root {
+      --primary: #2563eb;
+      --bg: #f3f4f6;
+      --white: #fff;
+      --border: #e5e7eb;
+      --header-bg: #f1f5f9;
+      --header-color: #1e293b;
+      --row-alt: #f9fafb;
+      --text: #374151;
+      --muted: #6b7280;
+      --radius: 10px;
+      --shadow: 0 2px 12px rgba(0,0,0,0.07);
+      }
+      html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: var(--text);
       }
       .container {
-        max-width: 900px;
-        margin: 40px auto;
-        background: #fff;
-        border-radius: 12px;
-        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
-        padding: 32px 24px;
+      max-width: 1400px;
+      margin: 40px auto;
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 40px 24px;
       }
       h1 {
-        text-align: center;
-        color: #2563eb;
+      text-align: center;
+      color: var(--primary);
+      margin-bottom: 32px;
+      font-size: 2.2em;
+      letter-spacing: 1px;
+      }
+      .search-row {
+      display: flex;
+      gap: 28px;
+      justify-content: center;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+      }
+      .search-panel, .simple-search-panel {
+      flex: 1 1 350px;
+      min-width: 280px;
+      max-width: 700px;
+      box-sizing: border-box;
+      background: none;
+      padding: 0;
+      }
+      input[type="text"] {
+      width: 100%;
+      margin-bottom: 8px;
+      padding: 9px 13px;
+      font-size: 1em;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      box-sizing: border-box;
+      outline: none;
+      transition: border 0.2s;
+      }
+      input[type="text"]:focus {
+      border-color: var(--primary);
+      }
+      button#simple-search-btn {
+      width: 100%;
+      padding: 9px 0;
+      border-radius: 6px;
+      border: 1px solid var(--primary);
+      background: var(--primary);
+      color: var(--white);
+      font-size: 1em;
+      cursor: pointer;
+      margin-bottom: 10px;
+      transition: background 0.2s, color 0.2s;
+      }
+      button#simple-search-btn:hover {
+      background: #1743b3;
       }
       table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 24px;
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      background: var(--white);
+      font-size: 1em;
+      box-sizing: border-box;
       }
-      th,
-      td {
-        border: 1px solid #e5e7eb;
-        padding: 10px 8px;
-        text-align: center;
+      th, td {
+      border: 1px solid var(--border);
+      padding: 9px 7px;
+      text-align: center;
+      word-break: break-all;
       }
       th {
-        background: #f1f5f9;
-        color: #1e293b;
+      background: var(--header-bg);
+      color: var(--header-color);
+      font-weight: 600;
       }
       tr:nth-child(even) {
-        background: #f9fafb;
+      background: var(--row-alt);
+      }
+      #simple-words-table {
+      margin-bottom: 14px;
+      display: none;
+      }
+      .simple-search-result-panel,
+      #simple-search-result {
+      max-width: 700px;
+      margin: 0 auto 14px auto;
+      padding: 10px 16px 5px 16px;
+      background: var(--row-alt);
+      border-radius: 7px;
+      min-height: 28px;
+      color: var(--text);
+      font-size: 1em;
+      display: none;
+      }
+      #simple-search-result[style*="block"] {
+      display: block !important;
+      }
+      @media (max-width: 1500px) {
+      .container {
+      max-width: 98vw;
+      }
+      .search-panel, .simple-search-panel {
+      max-width: 98vw;
+      }
+      .simple-search-result-panel,
+      #simple-search-result {
+      max-width: 98vw;
+      }
+      }
+      @media (max-width: 1200px) {
+      .container {
+      padding: 24px 2vw;
+      }
+      .search-row {
+      gap: 14px;
+      }
+      }
+      @media (max-width: 900px) {
+      .search-row {
+      flex-direction: column;
+      gap: 10px;
+      }
+      .search-panel, .simple-search-panel {
+      max-width: 100%;
+      min-width: 0;
+      }
+      }
+      @media (max-width: 600px) {
+      .container {
+      padding: 8px 1vw;
+      }
+      table {
+      font-size: 0.95em;
+      }
+      h1 {
+      font-size: 1.3em;
+      }
+      }
+      a {
+      color: var(--primary);
+      text-decoration: none;
+      }
+      a:hover {
+      text-decoration: underline;
+      }
+      p.source {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.92em;
+      margin-top: 14px;
       }
     </style>
-  </head>
-  <body>
+    </head>
+    <body>
     <div class="container">
       <h1>Words for Days</h1>
-      <div style="max-width:400px;margin:0 auto 12px auto;">
-        <input
-          type="text"
-          id="simple-search-input"
-          placeholder="輸入要查的單字（如 clay）"
-          style="
-            width: 100%;
-            margin-bottom: 6px;
-            padding: 8px 12px;
-            font-size: 1em;
-            border: 1px solid #d1d5db;
-            border-radius: 6px;
-          "
-        />
-        <button id="simple-search-btn" style="width:100%;padding:7px 0;border-radius:6px;border:1px solid #2563eb;background:#2563eb;color:#fff;font-size:1em;cursor:pointer;">查詢最簡單組合</button>
-      </div>
-      <div id="simple-search-result" style="max-width:600px;margin:0 auto 18px auto;padding:12px 18px 6px 18px;background:#f9fafb;border-radius:8px;min-height:32px;color:#374151;font-size:1em;display:none;"></div>
-      <table id="simple-words-table" style="margin-bottom:18px; display:none;">
-        <thead>
-          <tr>
-            <th>Left</th>
-            <th>Operator</th>
-            <th>Right</th>
-            <th>Result</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Simple search result will be inserted here -->
-        </tbody>
-      </table>
+      <div class="search-row">
+      <div class="search-panel">
       <input
-        type="text"
-        id="search-input"
-        placeholder="搜尋 Left / Right / Result..."
-        style="
-          width: 100%;
-          max-width: 400px;
-          margin: 0 auto 18px auto;
-          display: block;
-          padding: 8px 12px;
-          font-size: 1em;
-          border: 1px solid #d1d5db;
-          border-radius: 6px;
-        "
+      type="text"
+      id="search-input"
+      placeholder="搜尋裡面資料"
       />
       <table id="words-table">
-        <thead>
-          <tr>
-            <th>Left</th>
-            <th>Operator</th>
-            <th>Right</th>
-            <th>Result</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Data will be inserted here by JS -->
-        </tbody>
+      <thead>
+        <tr>
+        <th>左</th>
+        <th>合</th>
+        <th>右</th>
+        <th>結果</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Data will be inserted here by JS -->
+      </tbody>
       </table>
-      <p style="text-align: center; color: #6b7280; font-size: 0.875em; margin-top: 16px;">
-        Data sourced from <a href="https://flyxiang1206.github.io/Wordsfordays/FilteredData.json">flyxiang1206</a> and <a href="https://zhou970610.github.io/DataSets/WordsDictionary.json">波波(bobo_928)</a>
+      </div>
+      <div class="simple-search-panel">
+      <input
+      type="text"
+      id="simple-search-input"
+      placeholder="輸入要查的單字（如 clay）"
+      />
+      <button id="simple-search-btn">查詢最簡單組合</button>
+      <table id="simple-words-table">
+      <thead>
+        <tr>
+        <th>左</th>
+        <th>合</th>
+        <th>右</th>
+        <th>結果</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Simple search result will be inserted here -->
+      </tbody>
+      </table>
+      </div>
+      </div>
+      <p class="source">
+      Data sourced from <a href="https://flyxiang1206.github.io/Wordsfordays/FilteredData.json">flyxiang1206</a>
+      and <a href="https://zhou970610.github.io/DataSets/WordsDictionary.json">波波(bobo_928)</a>
       </p>
     </div>
     <script>
@@ -227,12 +352,14 @@
         const resultDiv = document.getElementById("simple-search-result");
         if (!steps || steps.length === 0) {
           resultDiv.innerHTML = "<span style='color:#ef4444'>找不到組合</span>";
+          resultDiv.style.display = "block";
           return;
         }
         // 依照範例格式顯示
         resultDiv.innerHTML = steps.map(step =>
           `<div>${step.left} 跟 ${step.right} 出現 ${step.result}</div>`
         ).join("");
+        resultDiv.style.display = "block";
       }
 
       // 顯示查詢結果到新 table
@@ -302,14 +429,17 @@
       document.getElementById("simple-search-btn").addEventListener("click", function () {
         const val = document.getElementById("simple-search-input").value.trim();
         const table = document.getElementById("simple-words-table");
+        const resultDiv = document.getElementById("simple-search-result");
         if (!val) {
           table.style.display = "none";
+          resultDiv.style.display = "none";
           return;
         }
         const target = val.toLowerCase();
         const realTarget = data.find(row => row.result.toLowerCase() === target) ? target : val;
         const steps = findSimpleRecipe(realTarget);
         renderSimpleTable(steps);
+        renderSimpleResult(steps);
       });
 
       // 初始化資料
