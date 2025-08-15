@@ -74,12 +74,49 @@
           <!-- Data will be inserted here by JS -->
         </tbody>
       </table>
+      <p style="text-align: center; color: #6b7280; font-size: 0.875em; margin-top: 16px;">
+        Data sourced from <a href="https://flyxiang1206.github.io/Wordsfordays/FilteredData.json">flyxiang1206</a> and <a href="https://zhou970610.github.io/DataSets/WordsDictionary.json">波波(bobo_928)</a>
+      </p>
     </div>
     <script>
       // JSON data from FilteredData.json
       let data = [];
       const tbody = document.querySelector("#words-table tbody");
       const searchInput = document.getElementById("search-input");
+
+      async function initData() {
+        try {
+          const [filteredRes, dictRes] = await Promise.all([
+            fetch("https://flyxiang1206.github.io/Wordsfordays/FilteredData.json"),
+            fetch("https://zhou970610.github.io/DataSets/WordsDictionary.json")
+          ]);
+          const filteredData = await filteredRes.json();
+          const dictData = await dictRes.json();
+          const mapped = dictData.map(item => ({
+            left: item.craftItem1,
+            operator: item.hist1,
+            right: item.craftItem2,
+            result: item.craftItem3
+          }));
+          // 過濾掉 filteredData 已有的資料
+          const filteredSet = new Set(filteredData.map(row =>
+            `${row.left}|${row.operator}|${row.right}|${row.result}`
+          ));
+          const uniqueMapped = mapped.filter(row =>
+            !filteredSet.has(`${row.left}|${row.operator}|${row.right}|${row.result}`)
+          );
+          data = filteredData.concat(uniqueMapped);
+        } catch (e) {
+          // 若有錯誤只顯示 FilteredData.json
+          try {
+            const filteredRes = await fetch("https://flyxiang1206.github.io/Wordsfordays/FilteredData.json");
+            data = await filteredRes.json();
+          } catch {
+            data = [];
+          }
+        }
+        renderTable(data);
+      }
 
       function renderTable(filteredData) {
         tbody.innerHTML = "";
@@ -105,13 +142,8 @@
         renderTable(filterData(this.value));
       });
 
-      // 取得遠端 JSON 並渲染
-      fetch("https://flyxiang1206.github.io/Wordsfordays/FilteredData.json")
-        .then((response) => response.json())
-        .then((json) => {
-          data = json;
-          renderTable(data);
-        });
+      // 初始化資料
+      initData();
     </script>
   </body>
 </html>
