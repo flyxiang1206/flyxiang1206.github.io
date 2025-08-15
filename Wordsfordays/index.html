@@ -46,6 +46,36 @@
   <body>
     <div class="container">
       <h1>Words for Days</h1>
+      <div style="max-width:400px;margin:0 auto 12px auto;">
+        <input
+          type="text"
+          id="simple-search-input"
+          placeholder="輸入要查的單字（如 clay）"
+          style="
+            width: 100%;
+            margin-bottom: 6px;
+            padding: 8px 12px;
+            font-size: 1em;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+          "
+        />
+        <button id="simple-search-btn" style="width:100%;padding:7px 0;border-radius:6px;border:1px solid #2563eb;background:#2563eb;color:#fff;font-size:1em;cursor:pointer;">查詢最簡單組合</button>
+      </div>
+      <div id="simple-search-result" style="max-width:600px;margin:0 auto 18px auto;padding:12px 18px 6px 18px;background:#f9fafb;border-radius:8px;min-height:32px;color:#374151;font-size:1em;display:none;"></div>
+      <table id="simple-words-table" style="margin-bottom:18px; display:none;">
+        <thead>
+          <tr>
+            <th>Left</th>
+            <th>Operator</th>
+            <th>Right</th>
+            <th>Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Simple search result will be inserted here -->
+        </tbody>
+      </table>
       <input
         type="text"
         id="search-input"
@@ -140,6 +170,146 @@
 
       searchInput.addEventListener("input", function () {
         renderTable(filterData(this.value));
+      });
+
+      // 最底層元素
+      const BASES = ["fire", "water", "earth", "wind"];
+
+      // 查詢最簡單組合
+      function findSimpleRecipe(target, visited) {
+        if (!visited) visited = new Set();
+        // 防止循環
+        if (visited.has(target)) return null;
+        visited.add(target);
+
+        // 找到所有 result 為 target 的組合
+        const recipes = data.filter(row => row.result === target);
+
+        // 如果沒有 recipe 或 target 是底層，直接回傳 null
+        if (BASES.includes(target) || recipes.length === 0) return null;
+
+        for (const recipe of recipes) {
+          // 如果 left/right 都是底層就直接回傳
+          if (BASES.includes(recipe.left) && BASES.includes(recipe.right)) {
+            return [{
+              left: recipe.left,
+              operator: recipe.operator,
+              right: recipe.right,
+              result: recipe.result
+            }];
+          }
+          // 遞迴找 left/right，分別複製 visited 集合
+          const leftPath = findSimpleRecipe(recipe.left, new Set(visited));
+          const rightPath = findSimpleRecipe(recipe.right, new Set(visited));
+          // 若有一邊找不到，這條路徑不成立
+          if ((recipe.left && !BASES.includes(recipe.left) && !leftPath) ||
+              (recipe.right && !BASES.includes(recipe.right) && !rightPath)) {
+            continue;
+          }
+          // 組合所有步驟
+          let steps = [];
+          if (leftPath) steps = steps.concat(leftPath);
+          if (rightPath) steps = steps.concat(rightPath);
+          steps.push({
+            left: recipe.left,
+            operator: recipe.operator,
+            right: recipe.right,
+            result: recipe.result
+          });
+          // 找到第一條可行路徑就直接回傳
+          return steps;
+        }
+        return null;
+      }
+
+      // 顯示查詢結果
+      function renderSimpleResult(steps) {
+        const resultDiv = document.getElementById("simple-search-result");
+        if (!steps || steps.length === 0) {
+          resultDiv.innerHTML = "<span style='color:#ef4444'>找不到組合</span>";
+          return;
+        }
+        // 依照範例格式顯示
+        resultDiv.innerHTML = steps.map(step =>
+          `<div>${step.left} 跟 ${step.right} 出現 ${step.result}</div>`
+        ).join("");
+      }
+
+      // 顯示查詢結果到新 table
+      function renderSimpleTable(steps) {
+        const table = document.getElementById("simple-words-table");
+        const tbody = table.querySelector("tbody");
+        table.style.display = "table";
+        tbody.innerHTML = "";
+        if (!steps || steps.length === 0) {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td colspan="4" style="color:#ef4444">找不到組合</td>`;
+          tbody.appendChild(tr);
+          return;
+        }
+        // 只保留每個 result 最後一次出現的步驟
+        const seen = new Set();
+        const deduped = [];
+        for (let i = steps.length - 1; i >= 0; i--) {
+          const key = steps[i].result;
+          if (!seen.has(key)) {
+            deduped.unshift(steps[i]);
+            seen.add(key);
+          }
+        }
+
+        // 標記每個步驟的深度，BASES組合為1，往上加
+        const BASES = ["fire", "water", "earth", "wind"];
+        const resultToStep = {};
+        deduped.forEach((step, idx) => {
+          resultToStep[step.result] = { step, idx, depth: 0 };
+        });
+
+        // 遞迴計算深度
+        function calcDepth(result) {
+          const entry = resultToStep[result];
+          if (!entry) return 0;
+          if (entry.depth > 0) return entry.depth;
+          if (BASES.includes(entry.step.left) && BASES.includes(entry.step.right)) {
+            entry.depth = 1;
+            return 1;
+          }
+          let leftDepth = BASES.includes(entry.step.left) ? 1 : calcDepth(entry.step.left);
+          let rightDepth = BASES.includes(entry.step.right) ? 1 : calcDepth(entry.step.right);
+          entry.depth = Math.max(leftDepth, rightDepth) + 1;
+          return entry.depth;
+        }
+
+        deduped.forEach(step => {
+          calcDepth(step.result);
+        });
+
+        // 依照 depth 由大到小排序（數字大的在前面）
+        deduped.sort((a, b) => {
+          const da = resultToStep[a.result].depth;
+          const db = resultToStep[b.result].depth;
+          return db - da;
+        });
+
+        deduped.forEach(step => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${step.left}</td><td>${step.operator || ""}</td><td>${step.right}</td><td>${step.result}</td>`;
+          tbody.appendChild(tr);
+        });
+      }
+
+      // 綁定查詢按鈕
+      document.getElementById("simple-search-btn").addEventListener("click", function () {
+        const val = document.getElementById("simple-search-input").value.trim();
+        const table = document.getElementById("simple-words-table");
+        if (!val) {
+          table.style.display = "none";
+          return;
+        }
+        const target = val.toLowerCase();
+        const realTarget = data.find(row => row.result.toLowerCase() === target) ? target : val;
+        const steps = findSimpleRecipe(realTarget);
+        renderSimpleTable(steps);
       });
 
       // 初始化資料
