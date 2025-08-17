@@ -5086,5 +5086,755 @@
     "operator": "+",
     "right": "fish",
     "result": "aquarium"
+  },
+  {
+    "left": "colorful feathers",
+    "operator": "+",
+    "right": "duck",
+    "result": "mallard"
+  },
+  {
+    "left": "double rainbow",
+    "operator": "+",
+    "right": "waterfowl",
+    "result": "natures beauty"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "waterfowl",
+    "result": "colorful feathers"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "color spectrum",
+    "result": "prism"
+  },
+  {
+    "left": "wetland",
+    "operator": "-",
+    "right": "duck",
+    "result": "frog habitat"
+  },
+  {
+    "left": "serenity",
+    "operator": "-",
+    "right": "duck",
+    "result": "calmness"
+  },
+  {
+    "left": "waterfowl",
+    "operator": "-",
+    "right": "pond",
+    "result": "marshland"
+  },
+  {
+    "left": "fire",
+    "operator": "+",
+    "right": "waterfowl",
+    "result": "flamingo"
+  },
+  {
+    "left": "wildfire",
+    "operator": "+",
+    "right": "mud",
+    "result": "volcanic eruption"
+  },
+  {
+    "left": "firenado",
+    "operator": "+",
+    "right": "fire",
+    "result": "wildfire"
+  },
+  {
+    "left": "tornado",
+    "operator": "+",
+    "right": "fire",
+    "result": "firenado"
+  },
+  {
+    "left": "loneliness",
+    "operator": "+",
+    "right": "duck",
+    "result": "quack therapy"
+  },
+  {
+    "left": "no ducks",
+    "operator": "-",
+    "right": "duck",
+    "result": "absence of quacking"
+  },
+  {
+    "left": "quacking",
+    "operator": "+",
+    "right": "no ducks",
+    "result": "echo"
+  },
+  {
+    "left": "no ducks",
+    "operator": "+",
+    "right": "no ducks",
+    "result": "silence"
+  },
+  {
+    "left": "birdwatching without ducks",
+    "operator": "-",
+    "right": "birdwatching",
+    "result": "no ducks"
+  },
+  {
+    "left": "birdwatching without ducks",
+    "operator": "-",
+    "right": "nonbirdwatchers",
+    "result": "nature appreciation"
+  },
+  {
+    "left": "birdwatching without ducks",
+    "operator": "-",
+    "right": "birdwatching enthusiasts",
+    "result": "nonbirdwatchers"
+  },
+  {
+    "left": "birdwatching",
+    "operator": "+",
+    "right": "birdwatching without ducks",
+    "result": "birdwatching enthusiasts"
+  },
+  {
+    "left": "birdwatching",
+    "operator": "-",
+    "right": "ducks",
+    "result": "birdwatching without ducks"
+  },
+  {
+    "left": "birdwatching",
+    "operator": "+",
+    "right": "duck",
+    "result": "birding"
+  },
+  {
+    "left": "ducks",
+    "operator": "+",
+    "right": "birdwatching",
+    "result": "birdwatching tour"
+  },
+  {
+    "left": "pond",
+    "operator": "+",
+    "right": "birdwatching",
+    "result": "nature observation"
+  },
+  {
+    "left": "adorable chaos",
+    "operator": "+",
+    "right": "duck",
+    "result": "quack attack"
+  },
+  {
+    "left": "quirky tranquility",
+    "operator": "+",
+    "right": "duck",
+    "result": "serene pond"
+  },
+  {
+    "left": "adorable chaos",
+    "operator": "+",
+    "right": "quack meditation",
+    "result": "quirky tranquility"
+  },
+  {
+    "left": "pet duck",
+    "operator": "+",
+    "right": "quacking baby",
+    "result": "adorable chaos"
+  },
+  {
+    "left": "mire",
+    "operator": "+",
+    "right": "wild bird",
+    "result": "wetland habitat"
+  },
+  {
+    "left": "mindfulness",
+    "operator": "+",
+    "right": "duck",
+    "result": "quack meditation"
+  },
+  {
+    "left": "yoga",
+    "operator": "+",
+    "right": "duck",
+    "result": "mindfulness"
+  },
+  {
+    "left": "balance",
+    "operator": "+",
+    "right": "duck",
+    "result": "yoga"
+  },
+  {
+    "left": "soil",
+    "operator": "+",
+    "right": "duck",
+    "result": "farm"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "crib",
+    "result": "quacking baby"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "ice",
+    "result": "iceberg"
+  },
+  {
+    "left": "antarctica",
+    "operator": "-",
+    "right": "ice",
+    "result": "desert"
+  },
+  {
+    "left": "flying",
+    "operator": "+",
+    "right": "duck",
+    "result": "aviation"
+  },
+  {
+    "left": "freedom",
+    "operator": "+",
+    "right": "flying",
+    "result": "soaring"
+  },
+  {
+    "left": "wild bird",
+    "operator": "-",
+    "right": "duck",
+    "result": "freedom"
+  },
+  {
+    "left": "animal companion",
+    "operator": "+",
+    "right": "duck",
+    "result": "pet duck"
+  },
+  {
+    "left": "duck",
+    "operator": "-",
+    "right": "pet",
+    "result": "animal companion"
+  },
+  {
+    "left": "pet",
+    "operator": "-",
+    "right": "duck",
+    "result": "wild bird"
+  },
+  {
+    "left": "quack",
+    "operator": "+",
+    "right": "reflection",
+    "result": "duck pond"
+  },
+  {
+    "left": "grace",
+    "operator": "+",
+    "right": "duck",
+    "result": "graceful duck"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "duck",
+    "result": "goose"
+  },
+  {
+    "left": "ballet",
+    "operator": "+",
+    "right": "duck",
+    "result": "swan lake"
+  },
+  {
+    "left": "classy quack",
+    "operator": "+",
+    "right": "elegance",
+    "result": "sophisticated duck"
+  },
+  {
+    "left": "elegance",
+    "operator": "+",
+    "right": "duck",
+    "result": "classy quack"
+  },
+  {
+    "left": "peaceful pond",
+    "operator": "+",
+    "right": "peaceful pond",
+    "result": "tranquility"
+  },
+  {
+    "left": "serenity",
+    "operator": "+",
+    "right": "serenity",
+    "result": "peace"
+  },
+  {
+    "left": "serenity",
+    "operator": "+",
+    "right": "duck",
+    "result": "peaceful pond"
+  },
+  {
+    "left": "stillness",
+    "operator": "+",
+    "right": "duck",
+    "result": "serenity"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "duck",
+    "result": "chicken"
+  },
+  {
+    "left": "quack",
+    "operator": "-",
+    "right": "frog",
+    "result": "ribbit"
+  },
+  {
+    "left": "pond life",
+    "operator": "-",
+    "right": "b",
+    "result": "life"
+  },
+  {
+    "left": "deer",
+    "operator": "-",
+    "right": "hunting",
+    "result": "peaceful forest"
+  },
+  {
+    "left": "hunting",
+    "operator": "-",
+    "right": "duck",
+    "result": "deer"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "duck",
+    "result": "empty quack"
+  },
+  {
+    "left": "existentialism",
+    "operator": "-",
+    "right": "duck",
+    "result": "philosophical quack"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "void",
+    "result": "existentialism"
+  },
+  {
+    "left": "duck",
+    "operator": "-",
+    "right": "duck",
+    "result": "void"
+  },
+  {
+    "left": "mire",
+    "operator": "+",
+    "right": "charlatan",
+    "result": "swindler"
+  },
+  {
+    "left": "mire",
+    "operator": "+",
+    "right": "duck",
+    "result": "swamp"
+  },
+  {
+    "left": "wetland",
+    "operator": "+",
+    "right": "charlatan",
+    "result": "mire"
+  },
+  {
+    "left": "pseudoscience",
+    "operator": "+",
+    "right": "quack",
+    "result": "charlatan"
+  },
+  {
+    "left": "quackery",
+    "operator": "+",
+    "right": "duck",
+    "result": "pseudoscience"
+  },
+  {
+    "left": "quackery",
+    "operator": "+",
+    "right": "quackery",
+    "result": "charlatanism"
+  },
+  {
+    "left": "quack",
+    "operator": "+",
+    "right": "duck",
+    "result": "quackery"
+  },
+  {
+    "left": "waterfowl",
+    "operator": "-",
+    "right": "duck",
+    "result": "geese"
+  },
+  {
+    "left": "wetland",
+    "operator": "+",
+    "right": "duck",
+    "result": "habitat"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "+",
+    "right": "duck",
+    "result": "wetlands"
+  },
+  {
+    "left": "waterfowl",
+    "operator": "-",
+    "right": "fish",
+    "result": "wetland life"
+  },
+  {
+    "left": "pond life",
+    "operator": "-",
+    "right": "duck",
+    "result": "fish"
+  },
+  {
+    "left": "ducks",
+    "operator": "+",
+    "right": "quacking in the garden",
+    "result": "a peaceful morning"
+  },
+  {
+    "left": "garden",
+    "operator": "+",
+    "right": "duck",
+    "result": "quacking in the garden"
+  },
+  {
+    "left": "pond",
+    "operator": "+",
+    "right": "ecosystem",
+    "result": "wetland"
+  },
+  {
+    "left": "ecosystem",
+    "operator": "+",
+    "right": "pond life",
+    "result": "biodiversity"
+  },
+  {
+    "left": "pond life",
+    "operator": "+",
+    "right": "duck",
+    "result": "ecosystem"
+  },
+  {
+    "left": "frog",
+    "operator": "+",
+    "right": "duck",
+    "result": "pond life"
+  },
+  {
+    "left": "quack",
+    "operator": "+",
+    "right": "greenery",
+    "result": "frog"
+  },
+  {
+    "left": "nursery",
+    "operator": "+",
+    "right": "plant",
+    "result": "garden"
+  },
+  {
+    "left": "crib",
+    "operator": "+",
+    "right": "soil",
+    "result": "garden bed"
+  },
+  {
+    "left": "hunting",
+    "operator": "+",
+    "right": "duck",
+    "result": "duck hunting"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "duck call",
+    "result": "hunting"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "quacking",
+    "result": "duck call"
+  },
+  {
+    "left": "duck",
+    "operator": "+",
+    "right": "pond",
+    "result": "quack"
+  },
+  {
+    "left": "quacking",
+    "operator": "+",
+    "right": "quacking",
+    "result": "duck"
+  },
+  {
+    "left": "pond",
+    "operator": "+",
+    "right": "pond",
+    "result": "reflection"
+  },
+  {
+    "left": "pond",
+    "operator": "+",
+    "right": "ducks",
+    "result": "quacking"
+  },
+  {
+    "left": "ducks",
+    "operator": "+",
+    "right": "ducks",
+    "result": "pond"
+  },
+  {
+    "left": "waterfowl",
+    "operator": "+",
+    "right": "waterfowl",
+    "result": "ducks"
+  },
+  {
+    "left": "avian species",
+    "operator": "+",
+    "right": "avian species",
+    "result": "birdwatching"
+  },
+  {
+    "left": "waterfowl",
+    "operator": "+",
+    "right": "bird",
+    "result": "avian species"
+  },
+  {
+    "left": "stay",
+    "operator": "+",
+    "right": "swan",
+    "result": "waterfowl"
+  },
+  {
+    "left": "grace",
+    "operator": "-",
+    "right": "swimming",
+    "result": "drowning"
+  },
+  {
+    "left": "swan",
+    "operator": "-",
+    "right": "swimming",
+    "result": "stillness"
+  },
+  {
+    "left": "parrot",
+    "operator": "-",
+    "right": "swimming",
+    "result": "flying"
+  },
+  {
+    "left": "penguin",
+    "operator": "+",
+    "right": "penguin",
+    "result": "antarctica"
+  },
+  {
+    "left": "flock",
+    "operator": "+",
+    "right": "penguin",
+    "result": "waddle"
+  },
+  {
+    "left": "swimming",
+    "operator": "+",
+    "right": "bird",
+    "result": "penguin"
+  },
+  {
+    "left": "swimming",
+    "operator": "+",
+    "right": "fly",
+    "result": "superpower"
+  },
+  {
+    "left": "swan",
+    "operator": "-",
+    "right": "grace",
+    "result": "awkwardness"
+  },
+  {
+    "left": "swan",
+    "operator": "+",
+    "right": "fly",
+    "result": "graceful flight"
+  },
+  {
+    "left": "swimming",
+    "operator": "+",
+    "right": "parrot",
+    "result": "tropical vacation"
+  },
+  {
+    "left": "swan",
+    "operator": "+",
+    "right": "swan",
+    "result": "ballet"
+  },
+  {
+    "left": "grace",
+    "operator": "+",
+    "right": "grace",
+    "result": "elegance"
+  },
+  {
+    "left": "swimming",
+    "operator": "+",
+    "right": "swan",
+    "result": "grace"
+  },
+  {
+    "left": "bird",
+    "operator": "+",
+    "right": "water",
+    "result": "swan"
+  },
+  {
+    "left": "birds",
+    "operator": "+",
+    "right": "water",
+    "result": "swimming"
+  },
+  {
+    "left": "companionship",
+    "operator": "+",
+    "right": "bird",
+    "result": "parrot"
+  },
+  {
+    "left": "loneliness",
+    "operator": "+",
+    "right": "stay",
+    "result": "companionship"
+  },
+  {
+    "left": "bird",
+    "operator": "+",
+    "right": "stay",
+    "result": "free"
+  },
+  {
+    "left": "flock",
+    "operator": "+",
+    "right": "stay",
+    "result": "herd"
+  },
+  {
+    "left": "stay",
+    "operator": "-",
+    "right": "flock",
+    "result": "loneliness"
+  },
+  {
+    "left": "migration",
+    "operator": "-",
+    "right": "birds",
+    "result": "movement"
+  },
+  {
+    "left": "stay",
+    "operator": "+",
+    "right": "birds",
+    "result": "fly"
+  },
+  {
+    "left": "birds",
+    "operator": "-",
+    "right": "migration",
+    "result": "stay"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "birds",
+    "result": "nothing"
+  },
+  {
+    "left": "birds",
+    "operator": "-",
+    "right": "bird",
+    "result": "empty sky"
+  },
+  {
+    "left": "birds",
+    "operator": "-",
+    "right": "flock",
+    "result": "lonely"
+  },
+  {
+    "left": "flock",
+    "operator": "+",
+    "right": "bird",
+    "result": "sheep"
+  },
+  {
+    "left": "birds",
+    "operator": "+",
+    "right": "flock",
+    "result": "migration"
+  },
+  {
+    "left": "flock",
+    "operator": "+",
+    "right": "flock",
+    "result": "birds"
+  },
+  {
+    "left": "bird",
+    "operator": "+",
+    "right": "bird",
+    "result": "flock"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "pet",
+    "result": "bird"
+  },
+  {
+    "left": "soil",
+    "operator": "+",
+    "right": "rain",
+    "result": "plant"
   }
 ]
