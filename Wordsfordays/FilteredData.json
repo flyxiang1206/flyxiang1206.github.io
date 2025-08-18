@@ -5836,5 +5836,359 @@
     "operator": "+",
     "right": "rain",
     "result": "plant"
+  },
+  {
+    "left": "lute music",
+    "operator": "-",
+    "right": "music",
+    "result": "lute"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "music"
+  },
+  {
+    "left": "traditional tunes",
+    "operator": "+",
+    "right": "plucked strings",
+    "result": "lute music"
+  },
+  {
+    "left": "traditional melodies",
+    "operator": "-",
+    "right": "melody",
+    "result": "traditional tunes"
+  },
+  {
+    "left": "plucked strings",
+    "operator": "-",
+    "right": "chinese music",
+    "result": "traditional melodies"
+  },
+  {
+    "left": "chinese music",
+    "operator": "-",
+    "right": "bowed strings",
+    "result": "plucked strings"
+  },
+  {
+    "left": "string instrument",
+    "operator": "-",
+    "right": "erhu",
+    "result": "orchestral sound"
+  },
+  {
+    "left": "erhu",
+    "operator": "-",
+    "right": "string instrument",
+    "result": "bowed strings"
+  },
+  {
+    "left": "fusion music",
+    "operator": "+",
+    "right": "chinese traditional music",
+    "result": "world music"
+  },
+  {
+    "left": "string instruments",
+    "operator": "-",
+    "right": "erhu",
+    "result": "orchestral music"
+  },
+  {
+    "left": "erhu",
+    "operator": "+",
+    "right": "silk string melodies",
+    "result": "traditional chinese music"
+  },
+  {
+    "left": "erhu",
+    "operator": "-",
+    "right": "sitar",
+    "result": "string instruments"
+  },
+  {
+    "left": "silk string melodies",
+    "operator": "+",
+    "right": "string instrument",
+    "result": "sitar"
+  },
+  {
+    "left": "string instrument",
+    "operator": "-",
+    "right": "chinese music",
+    "result": "silk string melodies"
+  },
+  {
+    "left": "cpop",
+    "operator": "+",
+    "right": "chinese music",
+    "result": "mandopop"
+  },
+  {
+    "left": "chinese music",
+    "operator": "+",
+    "right": "china",
+    "result": "cpop"
+  },
+  {
+    "left": "melody",
+    "operator": "+",
+    "right": "erhu",
+    "result": "chinese music"
+  },
+  {
+    "left": "erhu",
+    "operator": "-",
+    "right": "chinese traditional music",
+    "result": "melody"
+  },
+  {
+    "left": "string instrument",
+    "operator": "+",
+    "right": "chinese traditional music",
+    "result": "erhu"
+  },
+  {
+    "left": "modern sound",
+    "operator": "+",
+    "right": "chinese traditional music",
+    "result": "fusion music"
+  },
+  {
+    "left": "chinese traditional music",
+    "operator": "-",
+    "right": "guqin",
+    "result": "string instrument"
+  },
+  {
+    "left": "guqin",
+    "operator": "-",
+    "right": "chinese traditional music",
+    "result": "melodic heritage"
+  },
+  {
+    "left": "guqin",
+    "operator": "-",
+    "right": "traditional music",
+    "result": "modern sound"
+  },
+  {
+    "left": "guqin",
+    "operator": "+",
+    "right": "guqin",
+    "result": "musical harmony"
+  },
+  {
+    "left": "cultural heritage",
+    "operator": "+",
+    "right": "guqin",
+    "result": "chinese traditional music"
+  },
+  {
+    "left": "traditional music",
+    "operator": "-",
+    "right": "guqin",
+    "result": "cultural heritage"
+  },
+  {
+    "left": "traditional music",
+    "operator": "+",
+    "right": "china",
+    "result": "guqin"
+  },
+  {
+    "left": "folk music",
+    "operator": "+",
+    "right": "musical",
+    "result": "folk band"
+  },
+  {
+    "left": "traditional music",
+    "operator": "+",
+    "right": "musical",
+    "result": "folk music"
+  },
+  {
+    "left": "asia",
+    "operator": "-",
+    "right": "kpop",
+    "result": "traditional music"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "continent",
+    "result": "africa"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "country",
+    "result": "nashville"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "impossible dream",
+    "result": "man of la mancha"
+  },
+  {
+    "left": "broadway",
+    "operator": "+",
+    "right": "musical",
+    "result": "hamilton"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "musical",
+    "result": "broadway"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "great wall",
+    "result": "the king and i"
+  },
+  {
+    "left": "great wall",
+    "operator": "-",
+    "right": "musical",
+    "result": "silent barrier"
+  },
+  {
+    "left": "china",
+    "operator": "-",
+    "right": "chinese opera",
+    "result": "great wall"
+  },
+  {
+    "left": "chinese opera",
+    "operator": "-",
+    "right": "china",
+    "result": "art form"
+  },
+  {
+    "left": "china",
+    "operator": "-",
+    "right": "china",
+    "result": "void"
+  },
+  {
+    "left": "chinese opera",
+    "operator": "-",
+    "right": "peking opera",
+    "result": "regional variation"
+  },
+  {
+    "left": "chinese opera",
+    "operator": "+",
+    "right": "chinese opera",
+    "result": "peking opera"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "musical",
+    "result": "chinese opera"
+  },
+  {
+    "left": "earthbound creature",
+    "operator": "+",
+    "right": "earthbound creature",
+    "result": "spirit"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "dragon",
+    "result": "china"
+  },
+  {
+    "left": "land",
+    "operator": "-",
+    "right": "dragon",
+    "result": "earthbound creature"
+  },
+  {
+    "left": "asia",
+    "operator": "-",
+    "right": "dragon",
+    "result": "mythical creature"
+  },
+  {
+    "left": "the dragons song",
+    "operator": "+",
+    "right": "the dragons song",
+    "result": "the hobbit"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "musical",
+    "result": "kpop"
+  },
+  {
+    "left": "dragon",
+    "operator": "+",
+    "right": "musical",
+    "result": "the dragons song"
+  },
+  {
+    "left": "the impossible dream",
+    "operator": "+",
+    "right": "the impossible dream",
+    "result": "musical"
+  },
+  {
+    "left": "impossible dream",
+    "operator": "+",
+    "right": "impossible dream",
+    "result": "the impossible dream"
+  },
+  {
+    "left": "not possible",
+    "operator": "-",
+    "right": "rainbow",
+    "result": "impossible dream"
+  },
+  {
+    "left": "vapor",
+    "operator": "+",
+    "right": "not possible",
+    "result": "cloud"
+  },
+  {
+    "left": "not possible",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "unicorn"
+  },
+  {
+    "left": "life",
+    "operator": "+",
+    "right": "life",
+    "result": "not possible"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "energy",
+    "result": "life"
+  },
+  {
+    "left": "pet",
+    "operator": "-",
+    "right": "dog",
+    "result": "cat"
+  },
+  {
+    "left": "steam",
+    "operator": "-",
+    "right": "water",
+    "result": "vapor"
   }
 ]
