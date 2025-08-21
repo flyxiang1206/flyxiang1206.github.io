@@ -6190,5 +6190,3275 @@
     "operator": "-",
     "right": "water",
     "result": "vapor"
+  },
+  {
+    "left": "soldiers ration",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "hardtack"
+  },
+  {
+    "left": "siege",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "biscuit"
+  },
+  {
+    "left": "strategic warfare",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "siege"
+  },
+  {
+    "left": "cookie wars",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "biscotti"
+  },
+  {
+    "left": "field meal",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "soldiers ration"
+  },
+  {
+    "left": "soldiers rations",
+    "operator": "-",
+    "right": "hard bread",
+    "result": "field meal"
+  },
+  {
+    "left": "warrior",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "battle rations"
+  },
+  {
+    "left": "survival food",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "ration packs"
+  },
+  {
+    "left": "soldiers rations",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "military meal"
+  },
+  {
+    "left": "trench warfare",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "soldiers rations"
+  },
+  {
+    "left": "warfare",
+    "operator": "+",
+    "right": "hard bread",
+    "result": "trench warfare"
+  },
+  {
+    "left": "rock",
+    "operator": "-",
+    "right": "rock hard bread",
+    "result": "soft bread"
+  },
+  {
+    "left": "rock hard bread",
+    "operator": "-",
+    "right": "rock",
+    "result": "hard bread"
+  },
+  {
+    "left": "baking",
+    "operator": "+",
+    "right": "hard place",
+    "result": "rock hard bread"
+  },
+  {
+    "left": "hard place",
+    "operator": "-",
+    "right": "bread",
+    "result": "rock sandwich"
+  },
+  {
+    "left": "battleground",
+    "operator": "+",
+    "right": "hard place",
+    "result": "rock and a hard place"
+  },
+  {
+    "left": "peace zone",
+    "operator": "+",
+    "right": "warfare",
+    "result": "ceasefire"
+  },
+  {
+    "left": "warfare",
+    "operator": "-",
+    "right": "battleground",
+    "result": "peace zone"
+  },
+  {
+    "left": "cookie",
+    "operator": "-",
+    "right": "cookie fight",
+    "result": "sweet chaos"
+  },
+  {
+    "left": "cookie",
+    "operator": "-",
+    "right": "cookie battle",
+    "result": "sweet competition"
+  },
+  {
+    "left": "cookie",
+    "operator": "-",
+    "right": "cookie monster",
+    "result": "childhood nostalgia"
+  },
+  {
+    "left": "cookie",
+    "operator": "-",
+    "right": "cookie wars",
+    "result": "baking battle"
+  },
+  {
+    "left": "cookie monster",
+    "operator": "-",
+    "right": "cookie",
+    "result": "monster"
+  },
+  {
+    "left": "cookie fight",
+    "operator": "-",
+    "right": "cookie",
+    "result": "crumble"
+  },
+  {
+    "left": "cookie wars",
+    "operator": "-",
+    "right": "cookie",
+    "result": "battleground"
+  },
+  {
+    "left": "cookie wars",
+    "operator": "+",
+    "right": "cookie",
+    "result": "cookie battle"
+  },
+  {
+    "left": "cookie",
+    "operator": "+",
+    "right": "combat",
+    "result": "cookie fight"
+  },
+  {
+    "left": "cookie",
+    "operator": "+",
+    "right": "danger",
+    "result": "cookie monster"
+  },
+  {
+    "left": "cookie",
+    "operator": "+",
+    "right": "war",
+    "result": "cookie wars"
+  },
+  {
+    "left": "nutritional boost",
+    "operator": "+",
+    "right": "mre dessert",
+    "result": "trail mix"
+  },
+  {
+    "left": "nutritional boost",
+    "operator": "-",
+    "right": "mre dessert",
+    "result": "sustenance"
+  },
+  {
+    "left": "mre dessert",
+    "operator": "-",
+    "right": "nutritional boost",
+    "result": "sweet energy"
+  },
+  {
+    "left": "battlefield strategy",
+    "operator": "+",
+    "right": "cookie",
+    "result": "cookie strategy"
+  },
+  {
+    "left": "mre meal readytoeat",
+    "operator": "+",
+    "right": "cookie",
+    "result": "camping snack"
+  },
+  {
+    "left": "survival toast",
+    "operator": "+",
+    "right": "cookie",
+    "result": "snack"
+  },
+  {
+    "left": "survival snack",
+    "operator": "+",
+    "right": "energy bar",
+    "result": "nutritional boost"
+  },
+  {
+    "left": "survival snack",
+    "operator": "+",
+    "right": "mre dessert",
+    "result": "energy bar"
+  },
+  {
+    "left": "military rations",
+    "operator": "+",
+    "right": "cookie",
+    "result": "mre dessert"
+  },
+  {
+    "left": "ration",
+    "operator": "+",
+    "right": "cookie",
+    "result": "survival snack"
+  },
+  {
+    "left": "emergency food supply",
+    "operator": "+",
+    "right": "cookie",
+    "result": "survival cookie"
+  },
+  {
+    "left": "military preparedness",
+    "operator": "+",
+    "right": "cookie",
+    "result": "ration"
+  },
+  {
+    "left": "tactics",
+    "operator": "+",
+    "right": "cookie",
+    "result": "strategy game"
+  },
+  {
+    "left": "cookie crumble",
+    "operator": "-",
+    "right": "crumbs",
+    "result": "cookie"
+  },
+  {
+    "left": "cookies",
+    "operator": "+",
+    "right": "crumbs",
+    "result": "cookie crumble"
+  },
+  {
+    "left": "toast",
+    "operator": "-",
+    "right": "cookies",
+    "result": "breakfast treat"
+  },
+  {
+    "left": "mess",
+    "operator": "-",
+    "right": "cookies",
+    "result": "clean kitchen"
+  },
+  {
+    "left": "cookies",
+    "operator": "-",
+    "right": "sweet treats",
+    "result": "milk"
+  },
+  {
+    "left": "cookies",
+    "operator": "-",
+    "right": "baking",
+    "result": "sweet treats"
+  },
+  {
+    "left": "crumbs",
+    "operator": "+",
+    "right": "crumbs",
+    "result": "cookies"
+  },
+  {
+    "left": "crumbs",
+    "operator": "+",
+    "right": "dust",
+    "result": "mess"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "bread",
+    "result": "crumbs"
+  },
+  {
+    "left": "dry dirt",
+    "operator": "-",
+    "right": "desolation",
+    "result": "abandonment"
+  },
+  {
+    "left": "barren landscape",
+    "operator": "-",
+    "right": "barren land",
+    "result": "desolation"
+  },
+  {
+    "left": "breadwinner",
+    "operator": "-",
+    "right": "bread",
+    "result": "winner"
+  },
+  {
+    "left": "dry dirt",
+    "operator": "-",
+    "right": "desert",
+    "result": "barren land"
+  },
+  {
+    "left": "dry dirt",
+    "operator": "-",
+    "right": "arid land",
+    "result": "barren landscape"
+  },
+  {
+    "left": "dry dirt",
+    "operator": "-",
+    "right": "dirt",
+    "result": "arid land"
+  },
+  {
+    "left": "dry desert",
+    "operator": "+",
+    "right": "void",
+    "result": "nothingness"
+  },
+  {
+    "left": "oasis",
+    "operator": "-",
+    "right": "dry desert",
+    "result": "watering hole"
+  },
+  {
+    "left": "dry desert",
+    "operator": "+",
+    "right": "desert",
+    "result": "arid"
+  },
+  {
+    "left": "desert",
+    "operator": "-",
+    "right": "dry desert",
+    "result": "oasis"
+  },
+  {
+    "left": "soil",
+    "operator": "+",
+    "right": "fire",
+    "result": "volcano"
+  },
+  {
+    "left": "landscape",
+    "operator": "-",
+    "right": "water",
+    "result": "dry desert"
+  },
+  {
+    "left": "wildfire",
+    "operator": "+",
+    "right": "loaf",
+    "result": "charred bread"
+  },
+  {
+    "left": "wind",
+    "operator": "+",
+    "right": "fire",
+    "result": "wildfire"
+  },
+  {
+    "left": "life sustenance",
+    "operator": "-",
+    "right": "war machine",
+    "result": "peaceful existence"
+  },
+  {
+    "left": "bread",
+    "operator": "-",
+    "right": "breathing",
+    "result": "life sustenance"
+  },
+  {
+    "left": "steam",
+    "operator": "+",
+    "right": "bread",
+    "result": "dough"
+  },
+  {
+    "left": "hunger",
+    "operator": "+",
+    "right": "bread",
+    "result": "satisfaction"
+  },
+  {
+    "left": "food scarcity",
+    "operator": "+",
+    "right": "bread",
+    "result": "hunger"
+  },
+  {
+    "left": "rationing",
+    "operator": "+",
+    "right": "bread",
+    "result": "food scarcity"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "burnt offering",
+    "result": "sacrifice"
+  },
+  {
+    "left": "burnt toast",
+    "operator": "-",
+    "right": "toast",
+    "result": "burnt offering"
+  },
+  {
+    "left": "burnt toast",
+    "operator": "+",
+    "right": "fire",
+    "result": "kitchen disaster"
+  },
+  {
+    "left": "toast",
+    "operator": "+",
+    "right": "inferno",
+    "result": "burnt toast"
+  },
+  {
+    "left": "bakery",
+    "operator": "-",
+    "right": "bread",
+    "result": "pastries"
+  },
+  {
+    "left": "toast",
+    "operator": "-",
+    "right": "bread",
+    "result": "toaster"
+  },
+  {
+    "left": "survival rations",
+    "operator": "+",
+    "right": "military provisions",
+    "result": "mres"
+  },
+  {
+    "left": "battle",
+    "operator": "+",
+    "right": "survival rations",
+    "result": "military provisions"
+  },
+  {
+    "left": "war",
+    "operator": "+",
+    "right": "survival rations",
+    "result": "military supplies"
+  },
+  {
+    "left": "survival rations",
+    "operator": "+",
+    "right": "conflict",
+    "result": "refugee"
+  },
+  {
+    "left": "survival rations",
+    "operator": "+",
+    "right": "emergency food supply",
+    "result": "preparedness kit"
+  },
+  {
+    "left": "combat readiness",
+    "operator": "+",
+    "right": "emergency food supply",
+    "result": "disaster preparedness"
+  },
+  {
+    "left": "combat readiness",
+    "operator": "+",
+    "right": "survival rations",
+    "result": "military preparedness"
+  },
+  {
+    "left": "strategic warfare",
+    "operator": "+",
+    "right": "military rations",
+    "result": "logistics"
+  },
+  {
+    "left": "emergency food supply",
+    "operator": "+",
+    "right": "bread",
+    "result": "survival rations"
+  },
+  {
+    "left": "loaf",
+    "operator": "+",
+    "right": "military rations",
+    "result": "emergency food supply"
+  },
+  {
+    "left": "rationing",
+    "operator": "+",
+    "right": "military rations",
+    "result": "canteen"
+  },
+  {
+    "left": "baked bread",
+    "operator": "+",
+    "right": "military rations",
+    "result": "field sandwich"
+  },
+  {
+    "left": "combat readiness",
+    "operator": "+",
+    "right": "loaf",
+    "result": "military rations"
+  },
+  {
+    "left": "survival tactics",
+    "operator": "+",
+    "right": "mre",
+    "result": "emergency preparedness"
+  },
+  {
+    "left": "military meals",
+    "operator": "+",
+    "right": "battlefield strategy",
+    "result": "combat readiness"
+  },
+  {
+    "left": "emergency rations",
+    "operator": "+",
+    "right": "battlefield strategy",
+    "result": "survival tactics"
+  },
+  {
+    "left": "survival",
+    "operator": "+",
+    "right": "ration pack",
+    "result": "emergency supplies"
+  },
+  {
+    "left": "military meals",
+    "operator": "+",
+    "right": "mre",
+    "result": "ration pack"
+  },
+  {
+    "left": "field rations",
+    "operator": "+",
+    "right": "mre",
+    "result": "military meals"
+  },
+  {
+    "left": "strategic warfare",
+    "operator": "+",
+    "right": "mre",
+    "result": "military logistics"
+  },
+  {
+    "left": "survival meal",
+    "operator": "+",
+    "right": "battlefield",
+    "result": "mre"
+  },
+  {
+    "left": "survival toast",
+    "operator": "+",
+    "right": "battlefield",
+    "result": "victory"
+  },
+  {
+    "left": "field rations",
+    "operator": "+",
+    "right": "rationing",
+    "result": "survival kit"
+  },
+  {
+    "left": "mre meal readytoeat",
+    "operator": "+",
+    "right": "mre meal readytoeat",
+    "result": "survival food"
+  },
+  {
+    "left": "survival toast",
+    "operator": "+",
+    "right": "mre meal readytoeat",
+    "result": "emergency rations"
+  },
+  {
+    "left": "survival meal",
+    "operator": "+",
+    "right": "mre meal readytoeat",
+    "result": "emergency food"
+  },
+  {
+    "left": "loaf",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "breadwinner"
+  },
+  {
+    "left": "survival meal",
+    "operator": "+",
+    "right": "toast",
+    "result": "survival toast"
+  },
+  {
+    "left": "field rations",
+    "operator": "+",
+    "right": "bread",
+    "result": "survival meal"
+  },
+  {
+    "left": "baking",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "field rations"
+  },
+  {
+    "left": "sandwich",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "mre meal readytoeat"
+  },
+  {
+    "left": "toast",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "battlefield strategy"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "rationing"
+  },
+  {
+    "left": "recipe development",
+    "operator": "+",
+    "right": "tactics",
+    "result": "culinary strategy"
+  },
+  {
+    "left": "baking strategy",
+    "operator": "+",
+    "right": "tactics",
+    "result": "recipe development"
+  },
+  {
+    "left": "sourdough",
+    "operator": "+",
+    "right": "tactics",
+    "result": "baking strategy"
+  },
+  {
+    "left": "sourdough",
+    "operator": "+",
+    "right": "oven",
+    "result": "baked bread"
+  },
+  {
+    "left": "artisan bread",
+    "operator": "+",
+    "right": "artisan bread",
+    "result": "artisan sandwich"
+  },
+  {
+    "left": "sourdough starter",
+    "operator": "+",
+    "right": "sourdough bread",
+    "result": "artisan bread"
+  },
+  {
+    "left": "sourdough bread",
+    "operator": "+",
+    "right": "sourdough",
+    "result": "sourdough starter"
+  },
+  {
+    "left": "sourdough",
+    "operator": "+",
+    "right": "sourdough",
+    "result": "sourdough bread"
+  },
+  {
+    "left": "loaf",
+    "operator": "+",
+    "right": "bread",
+    "result": "sourdough"
+  },
+  {
+    "left": "bread",
+    "operator": "-",
+    "right": "baking",
+    "result": "loaf"
+  },
+  {
+    "left": "butter",
+    "operator": "+",
+    "right": "butter",
+    "result": "butterfly"
+  },
+  {
+    "left": "bread",
+    "operator": "-",
+    "right": "toast",
+    "result": "butter"
+  },
+  {
+    "left": "treat",
+    "operator": "+",
+    "right": "toast",
+    "result": "brunch"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "baking",
+    "result": "treat"
+  },
+  {
+    "left": "oven",
+    "operator": "+",
+    "right": "bread",
+    "result": "baking"
+  },
+  {
+    "left": "bakery",
+    "operator": "+",
+    "right": "bread",
+    "result": "oven"
+  },
+  {
+    "left": "sandwich",
+    "operator": "+",
+    "right": "bread",
+    "result": "lunch"
+  },
+  {
+    "left": "sandwich",
+    "operator": "+",
+    "right": "toast",
+    "result": "grilled cheese"
+  },
+  {
+    "left": "battle",
+    "operator": "+",
+    "right": "bread",
+    "result": "sandwich"
+  },
+  {
+    "left": "toast",
+    "operator": "+",
+    "right": "bread",
+    "result": "breakfast"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "bread",
+    "result": "toast"
+  },
+  {
+    "left": "bakery",
+    "operator": "-",
+    "right": "pastry",
+    "result": "bread"
+  },
+  {
+    "left": "bakery",
+    "operator": "-",
+    "right": "tart",
+    "result": "pastry shop"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "pastry",
+    "result": "bakery"
+  },
+  {
+    "left": "pastry",
+    "operator": "+",
+    "right": "pastry",
+    "result": "tart"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "baking ingredient",
+    "result": "pastry"
+  },
+  {
+    "left": "baking ingredient",
+    "operator": "-",
+    "right": "baking ingredient",
+    "result": "void"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "sweet treat",
+    "result": "baking ingredient"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "sugar rush",
+    "result": "energy crash"
+  },
+  {
+    "left": "sugar rush",
+    "operator": "-",
+    "right": "sugar",
+    "result": "rush"
+  },
+  {
+    "left": "sugar rush",
+    "operator": "+",
+    "right": "sugar rush",
+    "result": "hyperactivity"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "sweet treat",
+    "result": "healthy snack"
+  },
+  {
+    "left": "dessert",
+    "operator": "-",
+    "right": "sweet treat",
+    "result": "fruit"
+  },
+  {
+    "left": "candy",
+    "operator": "-",
+    "right": "sugar",
+    "result": "sweet treat"
+  },
+  {
+    "left": "celebration",
+    "operator": "-",
+    "right": "sugar",
+    "result": "joy"
+  },
+  {
+    "left": "party",
+    "operator": "-",
+    "right": "candy",
+    "result": "sugar rush"
+  },
+  {
+    "left": "birthday",
+    "operator": "+",
+    "right": "birthday",
+    "result": "party"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "birthday",
+    "result": "celebration"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "cake",
+    "result": "birthday"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "sugar",
+    "result": "cake"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "candy",
+    "result": "sugar"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "sweets",
+    "result": "candy"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "dessert",
+    "result": "sweets"
+  },
+  {
+    "left": "baked alaska",
+    "operator": "+",
+    "right": "baked alaska",
+    "result": "dessert"
+  },
+  {
+    "left": "flower",
+    "operator": "+",
+    "right": "flaming dessert",
+    "result": "edible arrangement"
+  },
+  {
+    "left": "flaming dessert",
+    "operator": "+",
+    "right": "military conflict",
+    "result": "napalm"
+  },
+  {
+    "left": "fire",
+    "operator": "+",
+    "right": "flaming dessert",
+    "result": "baked alaska"
+  },
+  {
+    "left": "grilling",
+    "operator": "+",
+    "right": "warfare",
+    "result": "barbecue battle"
+  },
+  {
+    "left": "smores",
+    "operator": "+",
+    "right": "warfare",
+    "result": "campfire battle"
+  },
+  {
+    "left": "smores",
+    "operator": "+",
+    "right": "chef",
+    "result": "campfire treat"
+  },
+  {
+    "left": "barbecue",
+    "operator": "+",
+    "right": "barbecue",
+    "result": "grilling"
+  },
+  {
+    "left": "outdoor cuisine",
+    "operator": "+",
+    "right": "chef",
+    "result": "barbecue"
+  },
+  {
+    "left": "campfire cooking",
+    "operator": "+",
+    "right": "chef",
+    "result": "outdoor cuisine"
+  },
+  {
+    "left": "bonfire",
+    "operator": "+",
+    "right": "recipe",
+    "result": "campfire cooking"
+  },
+  {
+    "left": "bonfire",
+    "operator": "+",
+    "right": "campfire",
+    "result": "fire pit"
+  },
+  {
+    "left": "campfire",
+    "operator": "+",
+    "right": "campfire",
+    "result": "bonfire"
+  },
+  {
+    "left": "food fraud",
+    "operator": "+",
+    "right": "food fraud",
+    "result": "scandal"
+  },
+  {
+    "left": "smores",
+    "operator": "+",
+    "right": "smores",
+    "result": "campfire"
+  },
+  {
+    "left": "flaming dessert",
+    "operator": "-",
+    "right": "flambé",
+    "result": "smores"
+  },
+  {
+    "left": "flambé",
+    "operator": "+",
+    "right": "flambé",
+    "result": "flaming dessert"
+  },
+  {
+    "left": "culinary crime",
+    "operator": "+",
+    "right": "culinary crime",
+    "result": "food fraud"
+  },
+  {
+    "left": "culinary art",
+    "operator": "+",
+    "right": "arson",
+    "result": "culinary crime"
+  },
+  {
+    "left": "flambé dish",
+    "operator": "+",
+    "right": "chef",
+    "result": "culinary art"
+  },
+  {
+    "left": "flambé",
+    "operator": "+",
+    "right": "recipe",
+    "result": "flambé dish"
+  },
+  {
+    "left": "warfare",
+    "operator": "+",
+    "right": "fire",
+    "result": "arson"
+  },
+  {
+    "left": "fusion cooking",
+    "operator": "+",
+    "right": "fire",
+    "result": "flambé"
+  },
+  {
+    "left": "healing",
+    "operator": "+",
+    "right": "crisis",
+    "result": "resilience"
+  },
+  {
+    "left": "pandemic",
+    "operator": "+",
+    "right": "peace",
+    "result": "healing"
+  },
+  {
+    "left": "crisis",
+    "operator": "+",
+    "right": "world",
+    "result": "pandemic"
+  },
+  {
+    "left": "danger",
+    "operator": "+",
+    "right": "world",
+    "result": "crisis"
+  },
+  {
+    "left": "global diplomacy",
+    "operator": "-",
+    "right": "diplomacy",
+    "result": "global politics"
+  },
+  {
+    "left": "world",
+    "operator": "-",
+    "right": "international relations",
+    "result": "global diplomacy"
+  },
+  {
+    "left": "military strategy",
+    "operator": "+",
+    "right": "strategic warfare",
+    "result": "tactics"
+  },
+  {
+    "left": "strategic warfare",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "military strategy"
+  },
+  {
+    "left": "geopolitics",
+    "operator": "+",
+    "right": "military tactics",
+    "result": "strategic warfare"
+  },
+  {
+    "left": "strategy",
+    "operator": "+",
+    "right": "warfare",
+    "result": "military tactics"
+  },
+  {
+    "left": "geopolitics",
+    "operator": "+",
+    "right": "warfare",
+    "result": "international relations"
+  },
+  {
+    "left": "strategy",
+    "operator": "+",
+    "right": "world",
+    "result": "geopolitics"
+  },
+  {
+    "left": "battle royale",
+    "operator": "+",
+    "right": "survivor",
+    "result": "fortnite"
+  },
+  {
+    "left": "combat",
+    "operator": "+",
+    "right": "survivor",
+    "result": "battle royale"
+  },
+  {
+    "left": "survivor",
+    "operator": "+",
+    "right": "world",
+    "result": "survivor the ultimate game"
+  },
+  {
+    "left": "fighter",
+    "operator": "+",
+    "right": "world",
+    "result": "mma"
+  },
+  {
+    "left": "survivor",
+    "operator": "+",
+    "right": "warrior",
+    "result": "fighter"
+  },
+  {
+    "left": "warrior",
+    "operator": "+",
+    "right": "survival",
+    "result": "survivor"
+  },
+  {
+    "left": "combat",
+    "operator": "+",
+    "right": "survival",
+    "result": "warrior"
+  },
+  {
+    "left": "military conflict",
+    "operator": "+",
+    "right": "survival",
+    "result": "warfare"
+  },
+  {
+    "left": "world",
+    "operator": "+",
+    "right": "survival",
+    "result": "apocalypse"
+  },
+  {
+    "left": "warzone",
+    "operator": "-",
+    "right": "destruction",
+    "result": "survival"
+  },
+  {
+    "left": "continent",
+    "operator": "+",
+    "right": "continent",
+    "result": "world"
+  },
+  {
+    "left": "warzone",
+    "operator": "+",
+    "right": "warzone",
+    "result": "call of duty"
+  },
+  {
+    "left": "warzone",
+    "operator": "+",
+    "right": "earth",
+    "result": "destruction"
+  },
+  {
+    "left": "warzone",
+    "operator": "+",
+    "right": "battlefield",
+    "result": "military conflict"
+  },
+  {
+    "left": "warzone",
+    "operator": "+",
+    "right": "danger",
+    "result": "battlefield"
+  },
+  {
+    "left": "conflict",
+    "operator": "+",
+    "right": "danger",
+    "result": "warzone"
+  },
+  {
+    "left": "recipe",
+    "operator": "+",
+    "right": "fusion cuisine",
+    "result": "fusion cuisine recipe"
+  },
+  {
+    "left": "fusion",
+    "operator": "+",
+    "right": "battle",
+    "result": "dragon ball z"
+  },
+  {
+    "left": "fusion cuisine",
+    "operator": "-",
+    "right": "cuisine",
+    "result": "fusion"
+  },
+  {
+    "left": "fusion cooking",
+    "operator": "+",
+    "right": "fusion cuisine",
+    "result": "fusion restaurant"
+  },
+  {
+    "left": "chaos",
+    "operator": "+",
+    "right": "cuisine",
+    "result": "fusion cooking"
+  },
+  {
+    "left": "chaos",
+    "operator": "+",
+    "right": "chaos",
+    "result": "entropy"
+  },
+  {
+    "left": "food fight",
+    "operator": "+",
+    "right": "food fight",
+    "result": "chaos"
+  },
+  {
+    "left": "dish",
+    "operator": "+",
+    "right": "combat",
+    "result": "food fight"
+  },
+  {
+    "left": "negotiation",
+    "operator": "-",
+    "right": "battle",
+    "result": "compromise"
+  },
+  {
+    "left": "diplomacy",
+    "operator": "-",
+    "right": "battle",
+    "result": "negotiation"
+  },
+  {
+    "left": "battle",
+    "operator": "+",
+    "right": "war",
+    "result": "combat"
+  },
+  {
+    "left": "strategy",
+    "operator": "+",
+    "right": "war",
+    "result": "battle"
+  },
+  {
+    "left": "war",
+    "operator": "+",
+    "right": "recipe",
+    "result": "strategy"
+  },
+  {
+    "left": "chef",
+    "operator": "+",
+    "right": "war",
+    "result": "cooking competition"
+  },
+  {
+    "left": "cuisine",
+    "operator": "+",
+    "right": "cuisine",
+    "result": "fusion cuisine"
+  },
+  {
+    "left": "dish",
+    "operator": "+",
+    "right": "meal",
+    "result": "cuisine"
+  },
+  {
+    "left": "recipe",
+    "operator": "+",
+    "right": "cooking",
+    "result": "chef"
+  },
+  {
+    "left": "recipe",
+    "operator": "+",
+    "right": "meal",
+    "result": "cooking"
+  },
+  {
+    "left": "dish",
+    "operator": "+",
+    "right": "dish",
+    "result": "meal"
+  },
+  {
+    "left": "recipe",
+    "operator": "+",
+    "right": "ingredients",
+    "result": "dish"
+  },
+  {
+    "left": "ingredients",
+    "operator": "+",
+    "right": "ingredients",
+    "result": "recipe"
+  },
+  {
+    "left": "continent",
+    "operator": "+",
+    "right": "country",
+    "result": "asia"
+  },
+  {
+    "left": "diplomacy",
+    "operator": "+",
+    "right": "war",
+    "result": "peace treaty"
+  },
+  {
+    "left": "peace",
+    "operator": "+",
+    "right": "war",
+    "result": "diplomacy"
+  },
+  {
+    "left": "resolution",
+    "operator": "+",
+    "right": "war",
+    "result": "peace"
+  },
+  {
+    "left": "conflict",
+    "operator": "+",
+    "right": "conflict",
+    "result": "resolution"
+  },
+  {
+    "left": "war",
+    "operator": "+",
+    "right": "war",
+    "result": "conflict"
+  },
+  {
+    "left": "danger",
+    "operator": "+",
+    "right": "continent",
+    "result": "war"
+  },
+  {
+    "left": "electric shock",
+    "operator": "+",
+    "right": "water",
+    "result": "danger"
+  },
+  {
+    "left": "baby",
+    "operator": "+",
+    "right": "eel",
+    "result": "electric shock"
+  },
+  {
+    "left": "electric eel",
+    "operator": "-",
+    "right": "electricity",
+    "result": "eel"
+  },
+  {
+    "left": "generator",
+    "operator": "+",
+    "right": "fish",
+    "result": "electric eel"
+  },
+  {
+    "left": "wind power",
+    "operator": "+",
+    "right": "energy",
+    "result": "electricity"
+  },
+  {
+    "left": "creation",
+    "operator": "+",
+    "right": "tank",
+    "result": "war machine"
+  },
+  {
+    "left": "evolution",
+    "operator": "+",
+    "right": "heaven",
+    "result": "creation"
+  },
+  {
+    "left": "fossils",
+    "operator": "+",
+    "right": "human",
+    "result": "paleoanthropology"
+  },
+  {
+    "left": "aquarium",
+    "operator": "+",
+    "right": "fish",
+    "result": "tank"
+  },
+  {
+    "left": "rock planet",
+    "operator": "-",
+    "right": "hell",
+    "result": "heaven"
+  },
+  {
+    "left": "inferno",
+    "operator": "+",
+    "right": "fire",
+    "result": "hell"
+  },
+  {
+    "left": "fire",
+    "operator": "+",
+    "right": "fire",
+    "result": "inferno"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "animal",
+    "result": "mouse"
+  },
+  {
+    "left": "life",
+    "operator": "+",
+    "right": "rock",
+    "result": "evolution"
+  },
+  {
+    "left": "planet",
+    "operator": "-",
+    "right": "water",
+    "result": "rock"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "breath",
+    "result": "life"
+  },
+  {
+    "left": "stables",
+    "operator": "+",
+    "right": "stables",
+    "result": "tables"
+  },
+  {
+    "left": "horse",
+    "operator": "+",
+    "right": "stables",
+    "result": "barn"
+  },
+  {
+    "left": "horse",
+    "operator": "+",
+    "right": "horse",
+    "result": "stables"
+  },
+  {
+    "left": "therapy animal",
+    "operator": "+",
+    "right": "horse",
+    "result": "therapy horse"
+  },
+  {
+    "left": "wildness",
+    "operator": "+",
+    "right": "therapy animal",
+    "result": "horse"
+  },
+  {
+    "left": "console",
+    "operator": "+",
+    "right": "computer",
+    "result": "keyboard"
+  },
+  {
+    "left": "video game system",
+    "operator": "+",
+    "right": "hardware",
+    "result": "console"
+  },
+  {
+    "left": "gaming console",
+    "operator": "+",
+    "right": "hardware",
+    "result": "video game system"
+  },
+  {
+    "left": "personalized gameplay",
+    "operator": "+",
+    "right": "hardware",
+    "result": "gaming console"
+  },
+  {
+    "left": "tailored experience",
+    "operator": "-",
+    "right": "tailored gaming rig",
+    "result": "personalized gameplay"
+  },
+  {
+    "left": "tailored gaming rig",
+    "operator": "-",
+    "right": "gaming rig",
+    "result": "tailored experience"
+  },
+  {
+    "left": "highperformance setup",
+    "operator": "-",
+    "right": "custom pc",
+    "result": "tailored gaming rig"
+  },
+  {
+    "left": "custom pc",
+    "operator": "-",
+    "right": "gaming rig",
+    "result": "highperformance setup"
+  },
+  {
+    "left": "gaming rig",
+    "operator": "+",
+    "right": "hardware",
+    "result": "custom pc"
+  },
+  {
+    "left": "computer setup",
+    "operator": "+",
+    "right": "hardware",
+    "result": "gaming rig"
+  },
+  {
+    "left": "workstation",
+    "operator": "+",
+    "right": "hardware",
+    "result": "computer setup"
+  },
+  {
+    "left": "office setup",
+    "operator": "+",
+    "right": "computer",
+    "result": "workstation"
+  },
+  {
+    "left": "workspace essentials",
+    "operator": "+",
+    "right": "computer",
+    "result": "office setup"
+  },
+  {
+    "left": "office supplies",
+    "operator": "+",
+    "right": "productivity tools",
+    "result": "workspace essentials"
+  },
+  {
+    "left": "office",
+    "operator": "+",
+    "right": "hardware",
+    "result": "office supplies"
+  },
+  {
+    "left": "hardware",
+    "operator": "+",
+    "right": "office equipment",
+    "result": "computer"
+  },
+  {
+    "left": "computers",
+    "operator": "-",
+    "right": "software",
+    "result": "hardware"
+  },
+  {
+    "left": "productivity tools",
+    "operator": "+",
+    "right": "computers",
+    "result": "software"
+  },
+  {
+    "left": "office",
+    "operator": "+",
+    "right": "office technology",
+    "result": "productivity tools"
+  },
+  {
+    "left": "office technology",
+    "operator": "-",
+    "right": "technology",
+    "result": "office"
+  },
+  {
+    "left": "computers",
+    "operator": "+",
+    "right": "office equipment",
+    "result": "office technology"
+  },
+  {
+    "left": "computers",
+    "operator": "+",
+    "right": "file management",
+    "result": "data organization"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "office equipment",
+    "result": "computers"
+  },
+  {
+    "left": "cloud computing",
+    "operator": "+",
+    "right": "cloud computing",
+    "result": "technology"
+  },
+  {
+    "left": "file management",
+    "operator": "+",
+    "right": "data storage",
+    "result": "cloud computing"
+  },
+  {
+    "left": "filesystem",
+    "operator": "+",
+    "right": "filesystem",
+    "result": "data storage"
+  },
+  {
+    "left": "directory",
+    "operator": "+",
+    "right": "file",
+    "result": "filesystem"
+  },
+  {
+    "left": "workspace",
+    "operator": "+",
+    "right": "folder",
+    "result": "directory"
+  },
+  {
+    "left": "office equipment",
+    "operator": "+",
+    "right": "office equipment",
+    "result": "workspace"
+  },
+  {
+    "left": "folder",
+    "operator": "+",
+    "right": "folder",
+    "result": "file management"
+  },
+  {
+    "left": "file",
+    "operator": "+",
+    "right": "file",
+    "result": "folder"
+  },
+  {
+    "left": "paper",
+    "operator": "+",
+    "right": "document",
+    "result": "file"
+  },
+  {
+    "left": "document",
+    "operator": "+",
+    "right": "printing",
+    "result": "paper"
+  },
+  {
+    "left": "printing",
+    "operator": "+",
+    "right": "printer",
+    "result": "document"
+  },
+  {
+    "left": "electricity",
+    "operator": "+",
+    "right": "printer",
+    "result": "printing"
+  },
+  {
+    "left": "energy",
+    "operator": "+",
+    "right": "tornado",
+    "result": "wind power"
+  },
+  {
+    "left": "photocopier",
+    "operator": "+",
+    "right": "printer",
+    "result": "office equipment"
+  },
+  {
+    "left": "printer",
+    "operator": "+",
+    "right": "copy",
+    "result": "photocopier"
+  },
+  {
+    "left": "photocopy",
+    "operator": "+",
+    "right": "copy",
+    "result": "printer"
+  },
+  {
+    "left": "copy",
+    "operator": "+",
+    "right": "copy",
+    "result": "photocopy"
+  },
+  {
+    "left": "original",
+    "operator": "+",
+    "right": "original",
+    "result": "copy"
+  },
+  {
+    "left": "source",
+    "operator": "+",
+    "right": "source",
+    "result": "original"
+  },
+  {
+    "left": "origin",
+    "operator": "+",
+    "right": "origin",
+    "result": "source"
+  },
+  {
+    "left": "0 zero",
+    "operator": "+",
+    "right": "0 zero",
+    "result": "origin"
+  },
+  {
+    "left": "savings",
+    "operator": "-",
+    "right": "saving",
+    "result": "0 zero"
+  },
+  {
+    "left": "money management",
+    "operator": "-",
+    "right": "spending",
+    "result": "saving"
+  },
+  {
+    "left": "savings",
+    "operator": "-",
+    "right": "budgeting",
+    "result": "spending"
+  },
+  {
+    "left": "savings",
+    "operator": "-",
+    "right": "financial planning",
+    "result": "money management"
+  },
+  {
+    "left": "budgeting",
+    "operator": "+",
+    "right": "financial planning",
+    "result": "savings"
+  },
+  {
+    "left": "financial planning",
+    "operator": "+",
+    "right": "financial planning",
+    "result": "budgeting"
+  },
+  {
+    "left": "travel budget",
+    "operator": "+",
+    "right": "travel budget",
+    "result": "financial planning"
+  },
+  {
+    "left": "travel advice",
+    "operator": "+",
+    "right": "balance",
+    "result": "travel budget"
+  },
+  {
+    "left": "travel guide",
+    "operator": "+",
+    "right": "travel tips",
+    "result": "travel advice"
+  },
+  {
+    "left": "travel tips",
+    "operator": "+",
+    "right": "travel tips",
+    "result": "travel guide"
+  },
+  {
+    "left": "travel vlog",
+    "operator": "+",
+    "right": "advice",
+    "result": "travel tips"
+  },
+  {
+    "left": "counsel",
+    "operator": "+",
+    "right": "counsel",
+    "result": "advice"
+  },
+  {
+    "left": "trouble",
+    "operator": "+",
+    "right": "wisdom",
+    "result": "counsel"
+  },
+  {
+    "left": "philosophy",
+    "operator": "+",
+    "right": "philosophy",
+    "result": "wisdom"
+  },
+  {
+    "left": "existential crisis",
+    "operator": "+",
+    "right": "void",
+    "result": "philosophy"
+  },
+  {
+    "left": "memes",
+    "operator": "+",
+    "right": "void",
+    "result": "existential crisis"
+  },
+  {
+    "left": "double",
+    "operator": "+",
+    "right": "double",
+    "result": "trouble"
+  },
+  {
+    "left": "double rainbow",
+    "operator": "-",
+    "right": "rainbow",
+    "result": "double"
+  },
+  {
+    "left": "viral video",
+    "operator": "+",
+    "right": "hot spring",
+    "result": "travel vlog"
+  },
+  {
+    "left": "mud",
+    "operator": "+",
+    "right": "steam",
+    "result": "hot spring"
+  },
+  {
+    "left": "double rainbow",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "viral video"
+  },
+  {
+    "left": "rain",
+    "operator": "-",
+    "right": "soil",
+    "result": "rainbow"
+  },
+  {
+    "left": "companionship",
+    "operator": "+",
+    "right": "home",
+    "result": "family"
+  },
+  {
+    "left": "circle",
+    "operator": "+",
+    "right": "circle",
+    "result": "venn diagram"
+  },
+  {
+    "left": "abcdefghijklmnopqrstuvwxyz",
+    "operator": "-",
+    "right": "o",
+    "result": "abcdefghijklmnopqrstuvwxyz without o"
+  },
+  {
+    "left": "abcdefghijklmnopqrstuvwxyz",
+    "operator": "-",
+    "right": "a",
+    "result": "bcdefghijklmnopqrstuvwxyz"
+  },
+  {
+    "left": "alphabet",
+    "operator": "+",
+    "right": "alphabet",
+    "result": "abcdefghijklmnopqrstuvwxyz"
+  },
+  {
+    "left": "bet",
+    "operator": "+",
+    "right": "bet",
+    "result": "gambling"
+  },
+  {
+    "left": "alphabet",
+    "operator": "-",
+    "right": "o",
+    "result": "bet"
+  },
+  {
+    "left": "a",
+    "operator": "+",
+    "right": "a",
+    "result": "alphabet"
+  },
+  {
+    "left": "o",
+    "operator": "+",
+    "right": "o",
+    "result": "circle"
+  },
+  {
+    "left": "owl",
+    "operator": "+",
+    "right": "owl",
+    "result": "hoot"
+  },
+  {
+    "left": "discord",
+    "operator": "+",
+    "right": "discord",
+    "result": "communication"
+  },
+  {
+    "left": "musical therapy",
+    "operator": "-",
+    "right": "harmony",
+    "result": "melodic balance"
+  },
+  {
+    "left": "owl",
+    "operator": "-",
+    "right": "harmony",
+    "result": "discord"
+  },
+  {
+    "left": "harmony",
+    "operator": "-",
+    "right": "emotional support",
+    "result": "musical therapy"
+  },
+  {
+    "left": "silence",
+    "operator": "+",
+    "right": "bird",
+    "result": "owl"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "song",
+    "result": "silence"
+  },
+  {
+    "left": "bull riding",
+    "operator": "+",
+    "right": "wild wild west",
+    "result": "cowboy culture"
+  },
+  {
+    "left": "entertainment",
+    "operator": "+",
+    "right": "rodeo clown",
+    "result": "bull riding"
+  },
+  {
+    "left": "rodeo clown",
+    "operator": "+",
+    "right": "rodeo",
+    "result": "entertainment"
+  },
+  {
+    "left": "rodeo",
+    "operator": "+",
+    "right": "pet",
+    "result": "rodeo clown"
+  },
+  {
+    "left": "care",
+    "operator": "+",
+    "right": "wild wild west",
+    "result": "cowboy"
+  },
+  {
+    "left": "cowboys and wildlife",
+    "operator": "+",
+    "right": "animal",
+    "result": "rodeo"
+  },
+  {
+    "left": "wild wild west",
+    "operator": "+",
+    "right": "animals",
+    "result": "cowboys and wildlife"
+  },
+  {
+    "left": "wild",
+    "operator": "+",
+    "right": "wild",
+    "result": "wild wild west"
+  },
+  {
+    "left": "ild animal",
+    "operator": "-",
+    "right": "animal",
+    "result": "wild"
+  },
+  {
+    "left": "nest",
+    "operator": "+",
+    "right": "animal",
+    "result": "habitat"
+  },
+  {
+    "left": "bird",
+    "operator": "+",
+    "right": "home",
+    "result": "nest"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "bird",
+    "result": "beak"
+  },
+  {
+    "left": "ird",
+    "operator": "+",
+    "right": "ird",
+    "result": "birdwatching"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "a",
+    "result": "ird"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "at",
+    "result": "flying"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "o",
+    "result": "song"
+  },
+  {
+    "left": "wing",
+    "operator": "-",
+    "right": "at",
+    "result": "flight"
+  },
+  {
+    "left": "wing",
+    "operator": "-",
+    "right": "bat",
+    "result": "bird"
+  },
+  {
+    "left": "dog park",
+    "operator": "-",
+    "right": "og",
+    "result": "canine playground"
+  },
+  {
+    "left": "o",
+    "operator": "+",
+    "right": "a",
+    "result": "ocean"
+  },
+  {
+    "left": "og",
+    "operator": "-",
+    "right": "b",
+    "result": "o"
+  },
+  {
+    "left": "at",
+    "operator": "-",
+    "right": "b",
+    "result": "a"
+  },
+  {
+    "left": "pet therapy",
+    "operator": "+",
+    "right": "friendship",
+    "result": "emotional support"
+  },
+  {
+    "left": "repetition",
+    "operator": "+",
+    "right": "og",
+    "result": "memes"
+  },
+  {
+    "left": "routine",
+    "operator": "+",
+    "right": "og",
+    "result": "daily grind"
+  },
+  {
+    "left": "repetition",
+    "operator": "+",
+    "right": "at",
+    "result": "echo"
+  },
+  {
+    "left": "etting",
+    "operator": "+",
+    "right": "repetition",
+    "result": "routine"
+  },
+  {
+    "left": "big cat",
+    "operator": "-",
+    "right": "lion",
+    "result": "tiger"
+  },
+  {
+    "left": "big cat",
+    "operator": "+",
+    "right": "big cat",
+    "result": "lion"
+  },
+  {
+    "left": "feline",
+    "operator": "-",
+    "right": "cat",
+    "result": "big cat"
+  },
+  {
+    "left": "dog park",
+    "operator": "+",
+    "right": "picnic",
+    "result": "fun day out"
+  },
+  {
+    "left": "og",
+    "operator": "+",
+    "right": "park",
+    "result": "dog park"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "park",
+    "result": "picnic"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "+",
+    "right": "at",
+    "result": "family fun"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "farm",
+    "result": "livestock"
+  },
+  {
+    "left": "farm",
+    "operator": "+",
+    "right": "og",
+    "result": "farmers market"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "music",
+    "result": "concert"
+  },
+  {
+    "left": "og",
+    "operator": "+",
+    "right": "music",
+    "result": "hiphop"
+  },
+  {
+    "left": "bat",
+    "operator": "-",
+    "right": "og",
+    "result": "winged mammal"
+  },
+  {
+    "left": "at",
+    "operator": "-",
+    "right": "bat",
+    "result": "strike"
+  },
+  {
+    "left": "bat",
+    "operator": "-",
+    "right": "at",
+    "result": "wing"
+  },
+  {
+    "left": "bat",
+    "operator": "+",
+    "right": "og",
+    "result": "batman"
+  },
+  {
+    "left": "og",
+    "operator": "+",
+    "right": "og",
+    "result": "ogre"
+  },
+  {
+    "left": "baseball",
+    "operator": "+",
+    "right": "og",
+    "result": "baseball card"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "at",
+    "result": "repetition"
+  },
+  {
+    "left": "bat",
+    "operator": "+",
+    "right": "bat",
+    "result": "baseball"
+  },
+  {
+    "left": "dog",
+    "operator": "-",
+    "right": "b",
+    "result": "og"
+  },
+  {
+    "left": "cat",
+    "operator": "-",
+    "right": "b",
+    "result": "at"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "cat",
+    "result": "bat"
+  },
+  {
+    "left": "petting",
+    "operator": "-",
+    "right": "b",
+    "result": "etting"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "-",
+    "right": "zoo",
+    "result": "petting"
+  },
+  {
+    "left": "tornado",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "disaster"
+  },
+  {
+    "left": "dust devil",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "chaos"
+  },
+  {
+    "left": "dog walking",
+    "operator": "+",
+    "right": "dog walking",
+    "result": "dog walker"
+  },
+  {
+    "left": "harmony",
+    "operator": "+",
+    "right": "goat",
+    "result": "musical"
+  },
+  {
+    "left": "harmony",
+    "operator": "+",
+    "right": "goat",
+    "result": "melody"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "-",
+    "right": "bear",
+    "result": "petting zoo without a bear"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "-",
+    "right": "animal interaction",
+    "result": "childhood joy"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "-",
+    "right": "goat",
+    "result": "animal interaction"
+  },
+  {
+    "left": "goat",
+    "operator": "+",
+    "right": "goat",
+    "result": "the three billy goats gruff"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "+",
+    "right": "goat",
+    "result": "farm"
+  },
+  {
+    "left": "domestic animal",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "goat"
+  },
+  {
+    "left": "friendship",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "bonding experience"
+  },
+  {
+    "left": "balance",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "harmony"
+  },
+  {
+    "left": "park",
+    "operator": "+",
+    "right": "domestic animal",
+    "result": "petting zoo"
+  },
+  {
+    "left": "garden",
+    "operator": "+",
+    "right": "domestic pet",
+    "result": "backyard"
+  },
+  {
+    "left": "park",
+    "operator": "+",
+    "right": "domestic pet",
+    "result": "dog walking"
+  },
+  {
+    "left": "garden",
+    "operator": "-",
+    "right": "animal",
+    "result": "wildlife habitat"
+  },
+  {
+    "left": "flower",
+    "operator": "+",
+    "right": "animal",
+    "result": "garden"
+  },
+  {
+    "left": "flower",
+    "operator": "+",
+    "right": "animals",
+    "result": "pollination"
+  },
+  {
+    "left": "domesticity",
+    "operator": "-",
+    "right": "extinction",
+    "result": "sustainability"
+  },
+  {
+    "left": "conservation",
+    "operator": "-",
+    "right": "extinction",
+    "result": "preservation"
+  },
+  {
+    "left": "extinction",
+    "operator": "+",
+    "right": "home",
+    "result": "habitat loss"
+  },
+  {
+    "left": "pet ownership",
+    "operator": "+",
+    "right": "extinction",
+    "result": "endangered species"
+  },
+  {
+    "left": "freedom",
+    "operator": "+",
+    "right": "responsibility",
+    "result": "balance"
+  },
+  {
+    "left": "responsibility",
+    "operator": "+",
+    "right": "domestic pet",
+    "result": "freedom"
+  },
+  {
+    "left": "bear",
+    "operator": "-",
+    "right": "void",
+    "result": "existence"
+  },
+  {
+    "left": "bear",
+    "operator": "+",
+    "right": "void",
+    "result": "nothing"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "pet ownership",
+    "result": "emptiness"
+  },
+  {
+    "left": "pet ownership",
+    "operator": "-",
+    "right": "void",
+    "result": "responsibility"
+  },
+  {
+    "left": "pet ownership",
+    "operator": "+",
+    "right": "void",
+    "result": "loneliness"
+  },
+  {
+    "left": "wild animal",
+    "operator": "+",
+    "right": "void",
+    "result": "jungle"
+  },
+  {
+    "left": "ild animal",
+    "operator": "+",
+    "right": "void",
+    "result": "extinction"
+  },
+  {
+    "left": "shelter",
+    "operator": "+",
+    "right": "wildlife park",
+    "result": "animal sanctuary"
+  },
+  {
+    "left": "hope",
+    "operator": "+",
+    "right": "void",
+    "result": "faith"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "animal rescue",
+    "result": "hope"
+  },
+  {
+    "left": "fire",
+    "operator": "-",
+    "right": "fire",
+    "result": "void"
+  },
+  {
+    "left": "whirlwind",
+    "operator": "-",
+    "right": "storm",
+    "result": "dust devil"
+  },
+  {
+    "left": "tornado",
+    "operator": "-",
+    "right": "rain",
+    "result": "whirlwind"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "wind",
+    "result": "tornado"
+  },
+  {
+    "left": "shelter",
+    "operator": "+",
+    "right": "domestic pet",
+    "result": "animal rescue"
+  },
+  {
+    "left": "domestic pet",
+    "operator": "+",
+    "right": "home",
+    "result": "companion"
+  },
+  {
+    "left": "domestic pet",
+    "operator": "+",
+    "right": "comfort",
+    "result": "therapy animal"
+  },
+  {
+    "left": "cat",
+    "operator": "-",
+    "right": "wild animal",
+    "result": "domestic pet"
+  },
+  {
+    "left": "wild animal",
+    "operator": "-",
+    "right": "cat",
+    "result": "wildness"
+  },
+  {
+    "left": "bear",
+    "operator": "-",
+    "right": "wild animal",
+    "result": "teddy bear"
+  },
+  {
+    "left": "wild animal",
+    "operator": "-",
+    "right": "bear",
+    "result": "safari"
+  },
+  {
+    "left": "companionship",
+    "operator": "+",
+    "right": "cat",
+    "result": "pet therapy"
+  },
+  {
+    "left": "companionship",
+    "operator": "+",
+    "right": "love",
+    "result": "friendship"
+  },
+  {
+    "left": "pet",
+    "operator": "+",
+    "right": "love",
+    "result": "companionship"
+  },
+  {
+    "left": "feline",
+    "operator": "+",
+    "right": "cat",
+    "result": "the lion king"
+  },
+  {
+    "left": "ild animal",
+    "operator": "+",
+    "right": "cat",
+    "result": "feline"
+  },
+  {
+    "left": "comfort",
+    "operator": "+",
+    "right": "cat house",
+    "result": "cozy nook"
+  },
+  {
+    "left": "shelter",
+    "operator": "+",
+    "right": "cat",
+    "result": "cat house"
+  },
+  {
+    "left": "cat",
+    "operator": "-",
+    "right": "home",
+    "result": "shelter"
+  },
+  {
+    "left": "comfort",
+    "operator": "+",
+    "right": "comfort",
+    "result": "consolation"
+  },
+  {
+    "left": "home",
+    "operator": "+",
+    "right": "cat",
+    "result": "comfort"
+  },
+  {
+    "left": "domesticity",
+    "operator": "+",
+    "right": "cat",
+    "result": "home"
+  },
+  {
+    "left": "cat",
+    "operator": "-",
+    "right": "animals",
+    "result": "domesticity"
+  },
+  {
+    "left": "pets",
+    "operator": "+",
+    "right": "pets",
+    "result": "animals"
+  },
+  {
+    "left": "cats",
+    "operator": "+",
+    "right": "dog",
+    "result": "pets"
+  },
+  {
+    "left": "cat",
+    "operator": "+",
+    "right": "cat",
+    "result": "cats"
+  },
+  {
+    "left": "cat",
+    "operator": "-",
+    "right": "zoo",
+    "result": "wildlife park"
+  },
+  {
+    "left": "wild animal",
+    "operator": "+",
+    "right": "domestic animal",
+    "result": "zoo"
+  },
+  {
+    "left": "domestic animal",
+    "operator": "-",
+    "right": "dog",
+    "result": "cat"
+  },
+  {
+    "left": "wild animal",
+    "operator": "+",
+    "right": "grizzly",
+    "result": "bear encounter"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "bear",
+    "result": "wildlife conservation"
+  },
+  {
+    "left": "bear",
+    "operator": "+",
+    "right": "bear",
+    "result": "grizzly"
+  },
+  {
+    "left": "b",
+    "operator": "-",
+    "right": "wild animal",
+    "result": "domestic animal"
+  },
+  {
+    "left": "wild animal",
+    "operator": "-",
+    "right": "b",
+    "result": "ild animal"
+  },
+  {
+    "left": "wild animal",
+    "operator": "+",
+    "right": "b",
+    "result": "bear"
+  },
+  {
+    "left": "wildlife",
+    "operator": "-",
+    "right": "pet",
+    "result": "wild animal"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "b",
+    "result": "biodiversity"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "wildlife",
+    "result": "conservation"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "soil",
+    "result": "ecosystem"
+  },
+  {
+    "left": "care",
+    "operator": "-",
+    "right": "animal",
+    "result": "pet ownership"
+  },
+  {
+    "left": "animal",
+    "operator": "-",
+    "right": "care",
+    "result": "wildlife"
+  },
+  {
+    "left": "animal",
+    "operator": "+",
+    "right": "care",
+    "result": "veterinarian"
+  },
+  {
+    "left": "care",
+    "operator": "+",
+    "right": "care",
+    "result": "love"
+  },
+  {
+    "left": "animal",
+    "operator": "+",
+    "right": "pet",
+    "result": "care"
+  },
+  {
+    "left": "covid19",
+    "operator": "+",
+    "right": "party",
+    "result": "mask"
+  },
+  {
+    "left": "global crisis",
+    "operator": "+",
+    "right": "pandemic",
+    "result": "covid19"
+  },
+  {
+    "left": "pandemic",
+    "operator": "+",
+    "right": "pandemic",
+    "result": "global crisis"
+  },
+  {
+    "left": "catastrophe",
+    "operator": "+",
+    "right": "continent",
+    "result": "pandemic"
+  },
+  {
+    "left": "natural disaster",
+    "operator": "+",
+    "right": "natural disaster",
+    "result": "catastrophe"
+  },
+  {
+    "left": "hanbok",
+    "operator": "+",
+    "right": "hanbok",
+    "result": "korean traditional dress"
+  },
+  {
+    "left": "korean traditional dance",
+    "operator": "+",
+    "right": "korean tea",
+    "result": "hanbok"
+  },
+  {
+    "left": "buchaechum",
+    "operator": "+",
+    "right": "minyo",
+    "result": "korean tea"
+  },
+  {
+    "left": "korean traditional dance",
+    "operator": "+",
+    "right": "festivity",
+    "result": "buchaechum"
+  },
+  {
+    "left": "folk dance",
+    "operator": "+",
+    "right": "chuseok",
+    "result": "korean traditional dance"
+  },
+  {
+    "left": "hoedown",
+    "operator": "+",
+    "right": "minyo",
+    "result": "folk dance"
+  },
+  {
+    "left": "korean traditional music",
+    "operator": "+",
+    "right": "pansori",
+    "result": "minyo"
+  },
+  {
+    "left": "pansori",
+    "operator": "+",
+    "right": "folk tunes",
+    "result": "korean music"
+  },
+  {
+    "left": "hoedown",
+    "operator": "+",
+    "right": "hoedown",
+    "result": "square dance"
+  },
+  {
+    "left": "folk tunes",
+    "operator": "+",
+    "right": "dance",
+    "result": "hoedown"
+  },
+  {
+    "left": "traditional music",
+    "operator": "-",
+    "right": "music",
+    "result": "folk tunes"
+  },
+  {
+    "left": "korean traditional music",
+    "operator": "+",
+    "right": "dance",
+    "result": "pansori"
+  },
+  {
+    "left": "chuseok",
+    "operator": "+",
+    "right": "jig dance",
+    "result": "korean traditional music"
+  },
+  {
+    "left": "celebration",
+    "operator": "+",
+    "right": "lunar new year",
+    "result": "chinese new year"
+  },
+  {
+    "left": "korean harvest festival",
+    "operator": "+",
+    "right": "chuseok",
+    "result": "mooncakes"
+  },
+  {
+    "left": "chuseok",
+    "operator": "+",
+    "right": "festivity",
+    "result": "mooncake"
+  },
+  {
+    "left": "celebration",
+    "operator": "+",
+    "right": "tradition",
+    "result": "festivity"
+  },
+  {
+    "left": "chuseok",
+    "operator": "+",
+    "right": "jig",
+    "result": "korean rice cake"
+  },
+  {
+    "left": "chuseok",
+    "operator": "+",
+    "right": "chuseok",
+    "result": "korean harvest festival"
+  },
+  {
+    "left": "seollal",
+    "operator": "+",
+    "right": "korean",
+    "result": "chuseok"
+  },
+  {
+    "left": "lunar new year",
+    "operator": "+",
+    "right": "jig dance",
+    "result": "dragon"
+  },
+  {
+    "left": "seollal",
+    "operator": "+",
+    "right": "cultural celebration",
+    "result": "lunar new year"
+  },
+  {
+    "left": "party",
+    "operator": "+",
+    "right": "jig dance",
+    "result": "celebration"
+  },
+  {
+    "left": "dance",
+    "operator": "+",
+    "right": "jig",
+    "result": "jig dance"
+  },
+  {
+    "left": "cultural celebration",
+    "operator": "+",
+    "right": "korean",
+    "result": "seollal"
+  },
+  {
+    "left": "festival",
+    "operator": "+",
+    "right": "folklore",
+    "result": "cultural celebration"
+  },
+  {
+    "left": "cultural traditions",
+    "operator": "+",
+    "right": "dance",
+    "result": "festival"
+  },
+  {
+    "left": "dance",
+    "operator": "+",
+    "right": "dance",
+    "result": "party"
+  },
+  {
+    "left": "heritage",
+    "operator": "+",
+    "right": "folklore",
+    "result": "cultural traditions"
+  },
+  {
+    "left": "folklore",
+    "operator": "+",
+    "right": "folklore",
+    "result": "taylor swift"
+  },
+  {
+    "left": "tradition",
+    "operator": "+",
+    "right": "cultural heritage",
+    "result": "folklore"
+  },
+  {
+    "left": "kimchi",
+    "operator": "+",
+    "right": "korean",
+    "result": "food"
+  },
+  {
+    "left": "culture",
+    "operator": "+",
+    "right": "tradition",
+    "result": "heritage"
+  },
+  {
+    "left": "tradition",
+    "operator": "+",
+    "right": "korean",
+    "result": "kimchi"
+  },
+  {
+    "left": "culture",
+    "operator": "+",
+    "right": "cultural heritage",
+    "result": "tradition"
+  },
+  {
+    "left": "japan",
+    "operator": "-",
+    "right": "shrine",
+    "result": "culture"
+  },
+  {
+    "left": "shrine",
+    "operator": "+",
+    "right": "korean",
+    "result": "buldak"
+  },
+  {
+    "left": "japan",
+    "operator": "-",
+    "right": "zen garden",
+    "result": "shrine"
+  },
+  {
+    "left": "garden",
+    "operator": "+",
+    "right": "japan",
+    "result": "zen garden"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "rain",
+    "result": "plant"
+  },
+  {
+    "left": "planet",
+    "operator": "-",
+    "right": "dirt",
+    "result": "space"
+  },
+  {
+    "left": "bingsu",
+    "operator": "+",
+    "right": "asia",
+    "result": "korean"
+  },
+  {
+    "left": "korean pop",
+    "operator": "+",
+    "right": "cream",
+    "result": "bingsu"
+  },
+  {
+    "left": "dance",
+    "operator": "+",
+    "right": "choreography",
+    "result": "performance"
+  },
+  {
+    "left": "dance",
+    "operator": "-",
+    "right": "music",
+    "result": "movement"
+  },
+  {
+    "left": "concert",
+    "operator": "+",
+    "right": "music",
+    "result": "live performance"
+  },
+  {
+    "left": "korean pop",
+    "operator": "+",
+    "right": "concert",
+    "result": "kpop fest"
+  },
+  {
+    "left": "concert",
+    "operator": "+",
+    "right": "kpop",
+    "result": "kpop concert"
+  },
+  {
+    "left": "kpop",
+    "operator": "+",
+    "right": "bts",
+    "result": "korean pop"
+  },
+  {
+    "left": "kpop",
+    "operator": "+",
+    "right": "music video",
+    "result": "concert"
+  },
+  {
+    "left": "eurasia",
+    "operator": "-",
+    "right": "asia",
+    "result": "europe"
+  },
+  {
+    "left": "philippines",
+    "operator": "+",
+    "right": "japan",
+    "result": "sushi"
+  },
+  {
+    "left": "landmass",
+    "operator": "+",
+    "right": "asia",
+    "result": "eurasia"
+  },
+  {
+    "left": "archipelago nation",
+    "operator": "+",
+    "right": "asia",
+    "result": "philippines"
+  },
+  {
+    "left": "island country",
+    "operator": "-",
+    "right": "japan",
+    "result": "archipelago nation"
+  },
+  {
+    "left": "japan",
+    "operator": "-",
+    "right": "asia",
+    "result": "island country"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "folk",
+    "result": "japan"
+  },
+  {
+    "left": "traditional music",
+    "operator": "+",
+    "right": "jig",
+    "result": "fiddle"
+  },
+  {
+    "left": "bts",
+    "operator": "-",
+    "right": "bts",
+    "result": "void"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "baby",
+    "result": "stroller"
+  },
+  {
+    "left": "folk",
+    "operator": "+",
+    "right": "dance",
+    "result": "jig"
+  },
+  {
+    "left": "traditional music",
+    "operator": "+",
+    "right": "dance",
+    "result": "folk"
+  },
+  {
+    "left": "music video",
+    "operator": "+",
+    "right": "dance",
+    "result": "choreography"
+  },
+  {
+    "left": "kpop",
+    "operator": "+",
+    "right": "dance",
+    "result": "music video"
+  },
+  {
+    "left": "kpop",
+    "operator": "+",
+    "right": "asia",
+    "result": "bts"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "dance",
+    "result": "kpop"
+  },
+  {
+    "left": "asia",
+    "operator": "-",
+    "right": "ocean",
+    "result": "landmass"
+  },
+  {
+    "left": "continent",
+    "operator": "-",
+    "right": "country",
+    "result": "ocean"
+  },
+  {
+    "left": "continent",
+    "operator": "+",
+    "right": "earth",
+    "result": "world"
+  },
+  {
+    "left": "happiness",
+    "operator": "+",
+    "right": "music",
+    "result": "dance"
+  },
+  {
+    "left": "ice cream",
+    "operator": "+",
+    "right": "music",
+    "result": "happiness"
+  },
+  {
+    "left": "sundae",
+    "operator": "+",
+    "right": "ice",
+    "result": "ice cream"
+  },
+  {
+    "left": "cream",
+    "operator": "+",
+    "right": "ice",
+    "result": "sundae"
+  },
+  {
+    "left": "vanilla ice",
+    "operator": "+",
+    "right": "ice",
+    "result": "cream"
+  },
+  {
+    "left": "baby",
+    "operator": "+",
+    "right": "ice",
+    "result": "vanilla ice"
   }
 ]
