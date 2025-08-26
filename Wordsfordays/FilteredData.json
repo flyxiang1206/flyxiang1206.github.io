@@ -9460,5 +9460,3947 @@
     "operator": "+",
     "right": "ice",
     "result": "vanilla ice"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "chinese orange",
+    "result": "kumquat"
+  },
+  {
+    "left": "aromatherapy",
+    "operator": "+",
+    "right": "essential oils",
+    "result": "relaxation"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "essential oils",
+    "result": "perfume"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "aromatherapy",
+    "result": "essential oils"
+  },
+  {
+    "left": "tangerine",
+    "operator": "+",
+    "right": "healing",
+    "result": "aromatherapy"
+  },
+  {
+    "left": "yuzu tree",
+    "operator": "+",
+    "right": "citrine",
+    "result": "healing"
+  },
+  {
+    "left": "yuzu",
+    "operator": "+",
+    "right": "fruit tree",
+    "result": "yuzu tree"
+  },
+  {
+    "left": "yuzu",
+    "operator": "+",
+    "right": "yuzu",
+    "result": "yuzu sauce"
+  },
+  {
+    "left": "yuzu",
+    "operator": "-",
+    "right": "citrus",
+    "result": "yuzu marmalade"
+  },
+  {
+    "left": "citrus blend",
+    "operator": "+",
+    "right": "citrus blend",
+    "result": "citrus smoothie"
+  },
+  {
+    "left": "orange",
+    "operator": "-",
+    "right": "yuzu",
+    "result": "citrus blend"
+  },
+  {
+    "left": "japan",
+    "operator": "+",
+    "right": "citrus",
+    "result": "yuzu"
+  },
+  {
+    "left": "nectarine",
+    "operator": "+",
+    "right": "nectarine",
+    "result": "nectarine smoothie"
+  },
+  {
+    "left": "spread",
+    "operator": "-",
+    "right": "orange",
+    "result": "butter"
+  },
+  {
+    "left": "orange",
+    "operator": "-",
+    "right": "marmalade",
+    "result": "spread"
+  },
+  {
+    "left": "orange tree",
+    "operator": "-",
+    "right": "happiness",
+    "result": "fruitfulness"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "trade relations"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "+",
+    "right": "tangerine",
+    "result": "citrus medley"
+  },
+  {
+    "left": "malta",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "travel destinations"
+  },
+  {
+    "left": "island country",
+    "operator": "+",
+    "right": "orange",
+    "result": "malta"
+  },
+  {
+    "left": "loneliness",
+    "operator": "+",
+    "right": "tropical safari",
+    "result": "selfdiscovery"
+  },
+  {
+    "left": "papaya",
+    "operator": "+",
+    "right": "lion",
+    "result": "tropical safari"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "furniture",
+    "result": "empty room"
+  },
+  {
+    "left": "bamboo",
+    "operator": "+",
+    "right": "orange",
+    "result": "furniture"
+  },
+  {
+    "left": "bamboo",
+    "operator": "+",
+    "right": "panda",
+    "result": "bamboo shoots"
+  },
+  {
+    "left": "citrus glaze",
+    "operator": "+",
+    "right": "bamboo",
+    "result": "asianinspired dish"
+  },
+  {
+    "left": "citrus sauce",
+    "operator": "+",
+    "right": "citrus puree",
+    "result": "citrus glaze"
+  },
+  {
+    "left": "citrus puree",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrus sauce"
+  },
+  {
+    "left": "fruit baby food",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrus puree"
+  },
+  {
+    "left": "baby",
+    "operator": "+",
+    "right": "orange",
+    "result": "fruit baby food"
+  },
+  {
+    "left": "mango",
+    "operator": "+",
+    "right": "small",
+    "result": "mango chutney"
+  },
+  {
+    "left": "panda",
+    "operator": "+",
+    "right": "fruit",
+    "result": "bamboo"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "small",
+    "result": "panda"
+  },
+  {
+    "left": "peach",
+    "operator": "+",
+    "right": "small",
+    "result": "nectarine"
+  },
+  {
+    "left": "tangerine tree",
+    "operator": "-",
+    "right": "berry",
+    "result": "fruit tree"
+  },
+  {
+    "left": "citrus fruit cultivation",
+    "operator": "+",
+    "right": "berry",
+    "result": "fruit farming"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "small",
+    "result": "berry"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "orange",
+    "result": "orange creamsicle"
+  },
+  {
+    "left": "juice",
+    "operator": "+",
+    "right": "tangerine",
+    "result": "tangerine juice"
+  },
+  {
+    "left": "orange fruit",
+    "operator": "+",
+    "right": "birthday",
+    "result": "fruitcake"
+  },
+  {
+    "left": "orange grove",
+    "operator": "+",
+    "right": "birthday",
+    "result": "fruit party"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "birthday",
+    "result": "birthday cake"
+  },
+  {
+    "left": "citrus orchard",
+    "operator": "+",
+    "right": "birthday",
+    "result": "citrusthemed party"
+  },
+  {
+    "left": "orange tree",
+    "operator": "+",
+    "right": "birthday",
+    "result": "fruit cake"
+  },
+  {
+    "left": "celebration",
+    "operator": "+",
+    "right": "evolution",
+    "result": "birthday"
+  },
+  {
+    "left": "party",
+    "operator": "+",
+    "right": "party",
+    "result": "celebration"
+  },
+  {
+    "left": "sundae",
+    "operator": "+",
+    "right": "cream",
+    "result": "ice cream"
+  },
+  {
+    "left": "meteorite",
+    "operator": "-",
+    "right": "citrus spread",
+    "result": "space jam"
+  },
+  {
+    "left": "marmalade",
+    "operator": "+",
+    "right": "clementine",
+    "result": "citrus spread"
+  },
+  {
+    "left": "mineral",
+    "operator": "+",
+    "right": "star",
+    "result": "meteorite"
+  },
+  {
+    "left": "gemstone",
+    "operator": "+",
+    "right": "small",
+    "result": "pebble"
+  },
+  {
+    "left": "orange fruit",
+    "operator": "+",
+    "right": "small",
+    "result": "clementine"
+  },
+  {
+    "left": "mineral",
+    "operator": "+",
+    "right": "mineral",
+    "result": "rocks"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "diamond",
+    "result": "mineral"
+  },
+  {
+    "left": "orange fruit",
+    "operator": "+",
+    "right": "mindfulness",
+    "result": "wellness"
+  },
+  {
+    "left": "diamond",
+    "operator": "+",
+    "right": "diamond",
+    "result": "diamonds"
+  },
+  {
+    "left": "gemstone",
+    "operator": "+",
+    "right": "citrus",
+    "result": "jewelry"
+  },
+  {
+    "left": "citrine",
+    "operator": "+",
+    "right": "orange",
+    "result": "gemstone"
+  },
+  {
+    "left": "citrus gemstone",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrine"
+  },
+  {
+    "left": "diamond",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrus gemstone"
+  },
+  {
+    "left": "star",
+    "operator": "+",
+    "right": "star",
+    "result": "diamond"
+  },
+  {
+    "left": "constellation",
+    "operator": "+",
+    "right": "space",
+    "result": "star"
+  },
+  {
+    "left": "firefly",
+    "operator": "+",
+    "right": "space",
+    "result": "constellation"
+  },
+  {
+    "left": "serenity",
+    "operator": "+",
+    "right": "space",
+    "result": "firefly"
+  },
+  {
+    "left": "peace",
+    "operator": "-",
+    "right": "breath",
+    "result": "serenity"
+  },
+  {
+    "left": "silence",
+    "operator": "-",
+    "right": "breath",
+    "result": "peace"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "wind",
+    "result": "silence"
+  },
+  {
+    "left": "space",
+    "operator": "+",
+    "right": "nasa",
+    "result": "astronaut"
+  },
+  {
+    "left": "space",
+    "operator": "+",
+    "right": "united states",
+    "result": "nasa"
+  },
+  {
+    "left": "planet",
+    "operator": "+",
+    "right": "void",
+    "result": "space"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "mandarin",
+    "result": "chinese community"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "mandarin",
+    "result": "language"
+  },
+  {
+    "left": "prosperity",
+    "operator": "+",
+    "right": "citrus",
+    "result": "florida"
+  },
+  {
+    "left": "prosperity",
+    "operator": "+",
+    "right": "kuala lumpur",
+    "result": "economic growth"
+  },
+  {
+    "left": "abundance",
+    "operator": "+",
+    "right": "prosperity",
+    "result": "wealth"
+  },
+  {
+    "left": "prosperity",
+    "operator": "+",
+    "right": "prosperity",
+    "result": "abundance"
+  },
+  {
+    "left": "chinese new year",
+    "operator": "+",
+    "right": "chinese orange",
+    "result": "prosperity"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "chinese tangerine",
+    "result": "chinese new year"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "chinese orange",
+    "result": "kuala lumpur"
+  },
+  {
+    "left": "tangerine",
+    "operator": "+",
+    "right": "chinese orange",
+    "result": "mandarin"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "orange tree",
+    "result": "citrus fruit cultivation"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "tangerine tree",
+    "result": "chinese tangerine"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "citrus orchard",
+    "result": "orange export"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "orange fruit",
+    "result": "chinese orange"
+  },
+  {
+    "left": "peach",
+    "operator": "+",
+    "right": "void",
+    "result": "existentialism"
+  },
+  {
+    "left": "agriculture",
+    "operator": "+",
+    "right": "citrus grove",
+    "result": "orange farm"
+  },
+  {
+    "left": "citrus grove",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "tropical fruits"
+  },
+  {
+    "left": "orange tree",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "citrus farming"
+  },
+  {
+    "left": "orange tree",
+    "operator": "+",
+    "right": "orange tree",
+    "result": "citrus grove"
+  },
+  {
+    "left": "miniature orchard",
+    "operator": "+",
+    "right": "orange",
+    "result": "orange tree"
+  },
+  {
+    "left": "miniature orchard",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "tropical farming"
+  },
+  {
+    "left": "bonsai",
+    "operator": "+",
+    "right": "fruit",
+    "result": "miniature orchard"
+  },
+  {
+    "left": "tangerine tree",
+    "operator": "+",
+    "right": "small",
+    "result": "bonsai"
+  },
+  {
+    "left": "citrus orchard",
+    "operator": "+",
+    "right": "tangerine",
+    "result": "tangerine tree"
+  },
+  {
+    "left": "citrus orchard",
+    "operator": "-",
+    "right": "orange",
+    "result": "lemon grove"
+  },
+  {
+    "left": "orange grove",
+    "operator": "+",
+    "right": "tangerine",
+    "result": "citrus orchard"
+  },
+  {
+    "left": "orange grove",
+    "operator": "-",
+    "right": "orange",
+    "result": "grove"
+  },
+  {
+    "left": "tropical agriculture",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "palm oil production"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "fruit cultivation",
+    "result": "orange farming"
+  },
+  {
+    "left": "citrus fruit",
+    "operator": "+",
+    "right": "citrus fruit",
+    "result": "citrus fruit salad"
+  },
+  {
+    "left": "orange grove",
+    "operator": "+",
+    "right": "orange grove",
+    "result": "citrus farm"
+  },
+  {
+    "left": "orange grove",
+    "operator": "+",
+    "right": "yellow",
+    "result": "citrus fruit"
+  },
+  {
+    "left": "tangerine",
+    "operator": "+",
+    "right": "fruit cultivation",
+    "result": "agriculture"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "fruit cultivation",
+    "result": "orange grove"
+  },
+  {
+    "left": "yellow fruit",
+    "operator": "+",
+    "right": "fruit cultivation",
+    "result": "banana farming"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "fruit cultivation",
+    "result": "tropical agriculture"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "apricot",
+    "result": "fruit cultivation"
+  },
+  {
+    "left": "peach",
+    "operator": "+",
+    "right": "fruit",
+    "result": "cobbler"
+  },
+  {
+    "left": "yellow fruit",
+    "operator": "+",
+    "right": "apricot",
+    "result": "peach"
+  },
+  {
+    "left": "apricot",
+    "operator": "+",
+    "right": "apricot",
+    "result": "apricot jam"
+  },
+  {
+    "left": "yellow fruit",
+    "operator": "+",
+    "right": "orange",
+    "result": "apricot"
+  },
+  {
+    "left": "citrus hue",
+    "operator": "-",
+    "right": "orange",
+    "result": "yellow fruit"
+  },
+  {
+    "left": "orange",
+    "operator": "-",
+    "right": "citrus hue",
+    "result": "color spectrum"
+  },
+  {
+    "left": "orange",
+    "operator": "-",
+    "right": "yellow",
+    "result": "citrus hue"
+  },
+  {
+    "left": "netherlands",
+    "operator": "+",
+    "right": "orange",
+    "result": "dutch football"
+  },
+  {
+    "left": "national flag",
+    "operator": "+",
+    "right": "orange",
+    "result": "netherlands"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "yellow",
+    "result": "national flag"
+  },
+  {
+    "left": "sunset",
+    "operator": "+",
+    "right": "sunset",
+    "result": "dusk"
+  },
+  {
+    "left": "yellow",
+    "operator": "+",
+    "right": "orange",
+    "result": "sunset"
+  },
+  {
+    "left": "color fruit",
+    "operator": "+",
+    "right": "lemon",
+    "result": "yellow"
+  },
+  {
+    "left": "lemon",
+    "operator": "+",
+    "right": "citrus fruits",
+    "result": "lemonade"
+  },
+  {
+    "left": "color fruit",
+    "operator": "+",
+    "right": "color fruit",
+    "result": "rainbow"
+  },
+  {
+    "left": "color fruit",
+    "operator": "+",
+    "right": "orange",
+    "result": "orange fruit"
+  },
+  {
+    "left": "orange",
+    "operator": "-",
+    "right": "citrus",
+    "result": "color fruit"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "lime",
+    "result": "citrus salad"
+  },
+  {
+    "left": "lime",
+    "operator": "+",
+    "right": "citrus",
+    "result": "lemon"
+  },
+  {
+    "left": "lime",
+    "operator": "+",
+    "right": "lime",
+    "result": "limeade"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "citrus",
+    "result": "lime"
+  },
+  {
+    "left": "citrus",
+    "operator": "+",
+    "right": "citrus",
+    "result": "citrus fruits"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrus"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "orange",
+    "result": "citrus rock"
+  },
+  {
+    "left": "cymbal",
+    "operator": "+",
+    "right": "orange",
+    "result": "music"
+  },
+  {
+    "left": "tang",
+    "operator": "+",
+    "right": "tang",
+    "result": "cymbal"
+  },
+  {
+    "left": "orange juice",
+    "operator": "+",
+    "right": "china",
+    "result": "tang"
+  },
+  {
+    "left": "vitamin c",
+    "operator": "+",
+    "right": "orange",
+    "result": "orange juice"
+  },
+  {
+    "left": "vitamin c",
+    "operator": "+",
+    "right": "vitamin c",
+    "result": "immune system"
+  },
+  {
+    "left": "juice",
+    "operator": "+",
+    "right": "orange",
+    "result": "vitamin c"
+  },
+  {
+    "left": "dragon",
+    "operator": "+",
+    "right": "tangerine",
+    "result": "dragon fruit"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "orange",
+    "result": "empty space"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "small",
+    "result": "marmalade"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "life",
+    "result": "evolution"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "china",
+    "result": "tangerine"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "void",
+    "result": "abyss"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "orange",
+    "result": "fruit juice"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "juice",
+    "result": "orange"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "fruit",
+    "result": "lychee"
+  },
+  {
+    "left": "diplomacy",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "asean"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "united states",
+    "result": "diplomacy"
+  },
+  {
+    "left": "united states",
+    "operator": "+",
+    "right": "fruit",
+    "result": "apple pie"
+  },
+  {
+    "left": "country",
+    "operator": "+",
+    "right": "hawaii",
+    "result": "united states"
+  },
+  {
+    "left": "papaya",
+    "operator": "+",
+    "right": "papaya",
+    "result": "papaya salad"
+  },
+  {
+    "left": "eurasia",
+    "operator": "+",
+    "right": "tropical fruit",
+    "result": "papaya"
+  },
+  {
+    "left": "mango",
+    "operator": "-",
+    "right": "juice",
+    "result": "fruit smoothie"
+  },
+  {
+    "left": "lion",
+    "operator": "+",
+    "right": "lion",
+    "result": "lioness"
+  },
+  {
+    "left": "liquid",
+    "operator": "+",
+    "right": "liquid",
+    "result": "cocktail"
+  },
+  {
+    "left": "liquid",
+    "operator": "+",
+    "right": "juice",
+    "result": "beverage"
+  },
+  {
+    "left": "juice",
+    "operator": "-",
+    "right": "fruit",
+    "result": "liquid"
+  },
+  {
+    "left": "fruit punch",
+    "operator": "+",
+    "right": "fruit",
+    "result": "punch bowl"
+  },
+  {
+    "left": "juice",
+    "operator": "+",
+    "right": "juice",
+    "result": "fruit punch"
+  },
+  {
+    "left": "lion",
+    "operator": "+",
+    "right": "tropical fruit",
+    "result": "juice"
+  },
+  {
+    "left": "roar",
+    "operator": "+",
+    "right": "roar",
+    "result": "lion"
+  },
+  {
+    "left": "tropical fruit",
+    "operator": "+",
+    "right": "mangosteen",
+    "result": "exotic fruit salad"
+  },
+  {
+    "left": "mangosteen",
+    "operator": "+",
+    "right": "fruit",
+    "result": "tropical fruit"
+  },
+  {
+    "left": "bali",
+    "operator": "+",
+    "right": "fruit",
+    "result": "mangosteen"
+  },
+  {
+    "left": "mango",
+    "operator": "+",
+    "right": "mango",
+    "result": "mango smoothie"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "asian",
+    "result": "mango"
+  },
+  {
+    "left": "picnic",
+    "operator": "-",
+    "right": "basket",
+    "result": "outdoor meal"
+  },
+  {
+    "left": "lonely fruit",
+    "operator": "-",
+    "right": "fruit",
+    "result": "loneliness"
+  },
+  {
+    "left": "orchard",
+    "operator": "+",
+    "right": "pineapple",
+    "result": "tropical fruit farm"
+  },
+  {
+    "left": "orchard",
+    "operator": "-",
+    "right": "pineapple",
+    "result": "fruit garden"
+  },
+  {
+    "left": "pineapple",
+    "operator": "+",
+    "right": "pineapple",
+    "result": "pineapple upsidedown cake"
+  },
+  {
+    "left": "tropical",
+    "operator": "+",
+    "right": "fruit",
+    "result": "pineapple"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "growth",
+    "result": "mature tree"
+  },
+  {
+    "left": "blanket",
+    "operator": "-",
+    "right": "fruit",
+    "result": "warmth"
+  },
+  {
+    "left": "picnic",
+    "operator": "-",
+    "right": "fruit",
+    "result": "blanket"
+  },
+  {
+    "left": "basket",
+    "operator": "+",
+    "right": "fruit",
+    "result": "picnic"
+  },
+  {
+    "left": "wood",
+    "operator": "+",
+    "right": "fruit",
+    "result": "basket"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "fruit",
+    "result": "wood"
+  },
+  {
+    "left": "a",
+    "operator": "+",
+    "right": "b",
+    "result": "ab"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "+",
+    "right": "fruit",
+    "result": "salad"
+  },
+  {
+    "left": "apple",
+    "operator": "-",
+    "right": "pie",
+    "result": "fruit dessert"
+  },
+  {
+    "left": "alphabet",
+    "operator": "+",
+    "right": "banana",
+    "result": "book"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "+",
+    "right": "banana",
+    "result": "healthy snack"
+  },
+  {
+    "left": "apple",
+    "operator": "-",
+    "right": "assorted fruits",
+    "result": "lonely fruit"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "apple",
+    "result": "assorted fruits"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "-",
+    "right": "apple",
+    "result": "mixed fruit"
+  },
+  {
+    "left": "pie",
+    "operator": "+",
+    "right": "pie",
+    "result": "tart"
+  },
+  {
+    "left": "apple",
+    "operator": "+",
+    "right": "spiky delicacy",
+    "result": "pie"
+  },
+  {
+    "left": "olive oil",
+    "operator": "+",
+    "right": "spiky delicacy",
+    "result": "tapenade"
+  },
+  {
+    "left": "banana",
+    "operator": "+",
+    "right": "spiky delicacy",
+    "result": "plantain"
+  },
+  {
+    "left": "market",
+    "operator": "+",
+    "right": "apple",
+    "result": "store"
+  },
+  {
+    "left": "grocery shopping",
+    "operator": "+",
+    "right": "banana",
+    "result": "market"
+  },
+  {
+    "left": "empty basket",
+    "operator": "+",
+    "right": "apple",
+    "result": "grocery shopping"
+  },
+  {
+    "left": "apple",
+    "operator": "+",
+    "right": "jam",
+    "result": "apple jam"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "orchard",
+    "result": "harvest"
+  },
+  {
+    "left": "fruit basket",
+    "operator": "+",
+    "right": "apple",
+    "result": "orchard"
+  },
+  {
+    "left": "fruit basket",
+    "operator": "-",
+    "right": "apple",
+    "result": "empty basket"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "apple",
+    "result": "fruit basket"
+  },
+  {
+    "left": "apple",
+    "operator": "+",
+    "right": "fruit",
+    "result": "banana"
+  },
+  {
+    "left": "apple",
+    "operator": "+",
+    "right": "apple",
+    "result": "fruit salad"
+  },
+  {
+    "left": "eurasia",
+    "operator": "+",
+    "right": "fruit",
+    "result": "apple"
+  },
+  {
+    "left": "mediterranean diet",
+    "operator": "+",
+    "right": "fruit",
+    "result": "olive oil"
+  },
+  {
+    "left": "europe",
+    "operator": "+",
+    "right": "fruit",
+    "result": "mediterranean diet"
+  },
+  {
+    "left": "keropok",
+    "operator": "+",
+    "right": "fruit",
+    "result": "smoothie"
+  },
+  {
+    "left": "jam",
+    "operator": "+",
+    "right": "jam",
+    "result": "toast"
+  },
+  {
+    "left": "jelly",
+    "operator": "+",
+    "right": "jelly",
+    "result": "jelly beans"
+  },
+  {
+    "left": "jam",
+    "operator": "+",
+    "right": "fruit",
+    "result": "jelly"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "poffertjes",
+    "result": "jam"
+  },
+  {
+    "left": "keropok",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "roti canai"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "coconut",
+    "result": "keropok"
+  },
+  {
+    "left": "merdeka",
+    "operator": "+",
+    "right": "fruit",
+    "result": "indonesian"
+  },
+  {
+    "left": "malaysia",
+    "operator": "+",
+    "right": "malaysia",
+    "result": "merdeka"
+  },
+  {
+    "left": "sweetness",
+    "operator": "+",
+    "right": "fruit",
+    "result": "dessert"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "durian",
+    "result": "malaysia"
+  },
+  {
+    "left": "malaysian cuisine",
+    "operator": "+",
+    "right": "kuih",
+    "result": "poffertjes"
+  },
+  {
+    "left": "malaysian cuisine",
+    "operator": "+",
+    "right": "sweetness",
+    "result": "kuih"
+  },
+  {
+    "left": "durian",
+    "operator": "-",
+    "right": "fruit",
+    "result": "spiky delicacy"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "durian",
+    "result": "sweetness"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "durian",
+    "result": "smelly"
+  },
+  {
+    "left": "durian",
+    "operator": "+",
+    "right": "durian",
+    "result": "durian fruit"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "malaysian cuisine",
+    "result": "durian"
+  },
+  {
+    "left": "nasi lemak",
+    "operator": "+",
+    "right": "malaysian cuisine",
+    "result": "delicious meal"
+  },
+  {
+    "left": "nasi lemak",
+    "operator": "+",
+    "right": "nasi lemak",
+    "result": "malaysian cuisine"
+  },
+  {
+    "left": "pudding",
+    "operator": "+",
+    "right": "nasi lemak",
+    "result": "curry"
+  },
+  {
+    "left": "coconut rice",
+    "operator": "+",
+    "right": "coconut rice",
+    "result": "pudding"
+  },
+  {
+    "left": "coconut",
+    "operator": "+",
+    "right": "coconut",
+    "result": "coconut milk"
+  },
+  {
+    "left": "nasi lemak",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "fried rice"
+  },
+  {
+    "left": "coconut rice",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "nasi lemak"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "coconut",
+    "result": "coconut rice"
+  },
+  {
+    "left": "palm tree",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "coconut"
+  },
+  {
+    "left": "tropical paradise",
+    "operator": "+",
+    "right": "island country",
+    "result": "hawaii"
+  },
+  {
+    "left": "maldives",
+    "operator": "+",
+    "right": "maldives",
+    "result": "tropical paradise"
+  },
+  {
+    "left": "southeast",
+    "operator": "+",
+    "right": "island country",
+    "result": "maldives"
+  },
+  {
+    "left": "direction",
+    "operator": "+",
+    "right": "southeast",
+    "result": "compass"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "tropical",
+    "result": "palm tree"
+  },
+  {
+    "left": "indonesia",
+    "operator": "+",
+    "right": "thailand",
+    "result": "nasi goreng"
+  },
+  {
+    "left": "thailand",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "vacation"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "at",
+    "result": "thailand"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "southeast",
+    "result": "beach"
+  },
+  {
+    "left": "a",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "travel"
+  },
+  {
+    "left": "a",
+    "operator": "+",
+    "right": "southeast",
+    "result": "direction"
+  },
+  {
+    "left": "indonesia",
+    "operator": "+",
+    "right": "archipelago nation",
+    "result": "java"
+  },
+  {
+    "left": "indonesia",
+    "operator": "+",
+    "right": "southeast asia",
+    "result": "bali"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "philippines",
+    "result": "tourism"
+  },
+  {
+    "left": "southeast",
+    "operator": "+",
+    "right": "philippines",
+    "result": "tropical"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "-",
+    "right": "asia",
+    "result": "southeast"
+  },
+  {
+    "left": "indonesia",
+    "operator": "+",
+    "right": "philippines",
+    "result": "southeast asia"
+  },
+  {
+    "left": "asian",
+    "operator": "+",
+    "right": "archipelago nation",
+    "result": "indonesia"
+  },
+  {
+    "left": "airport",
+    "operator": "+",
+    "right": "philippines",
+    "result": "manila"
+  },
+  {
+    "left": "philippines",
+    "operator": "+",
+    "right": "archipelago nation",
+    "result": "adobo"
+  },
+  {
+    "left": "sushi",
+    "operator": "+",
+    "right": "ramen",
+    "result": "japanese cuisine"
+  },
+  {
+    "left": "asian",
+    "operator": "+",
+    "right": "fish",
+    "result": "sushi"
+  },
+  {
+    "left": "ramen",
+    "operator": "-",
+    "right": "noodle",
+    "result": "soup"
+  },
+  {
+    "left": "noodle",
+    "operator": "+",
+    "right": "asia",
+    "result": "ramen"
+  },
+  {
+    "left": "map",
+    "operator": "+",
+    "right": "asian",
+    "result": "noodle"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "ocean",
+    "result": "pacific"
+  },
+  {
+    "left": "hemisphere",
+    "operator": "+",
+    "right": "asia",
+    "result": "eurasia"
+  },
+  {
+    "left": "fusion",
+    "operator": "+",
+    "right": "buddhism",
+    "result": "mindfulness"
+  },
+  {
+    "left": "asian",
+    "operator": "+",
+    "right": "asian",
+    "result": "fusion"
+  },
+  {
+    "left": "asian",
+    "operator": "+",
+    "right": "buddhism",
+    "result": "meditation"
+  },
+  {
+    "left": "b",
+    "operator": "-",
+    "right": "at",
+    "result": "bat"
+  },
+  {
+    "left": "stripes",
+    "operator": "+",
+    "right": "stripes",
+    "result": "zebra"
+  },
+  {
+    "left": "equator",
+    "operator": "+",
+    "right": "tiger",
+    "result": "stripes"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "asia",
+    "result": "buddhism"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "at",
+    "result": "airport"
+  },
+  {
+    "left": "a",
+    "operator": "+",
+    "right": "asia",
+    "result": "asian"
+  },
+  {
+    "left": "jungle",
+    "operator": "+",
+    "right": "bengal tiger",
+    "result": "roar"
+  },
+  {
+    "left": "bengal tiger",
+    "operator": "+",
+    "right": "asia",
+    "result": "wildlife"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "tiger",
+    "result": "bengal tiger"
+  },
+  {
+    "left": "jungle",
+    "operator": "+",
+    "right": "asia",
+    "result": "tiger"
+  },
+  {
+    "left": "forest",
+    "operator": "+",
+    "right": "forest",
+    "result": "jungle"
+  },
+  {
+    "left": "plant",
+    "operator": "+",
+    "right": "plant",
+    "result": "forest"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "north pole",
+    "result": "santa claus"
+  },
+  {
+    "left": "north pole",
+    "operator": "+",
+    "right": "equator",
+    "result": "hemisphere"
+  },
+  {
+    "left": "north pole",
+    "operator": "-",
+    "right": "south pole",
+    "result": "equator"
+  },
+  {
+    "left": "south pole",
+    "operator": "-",
+    "right": "antarctica",
+    "result": "north pole"
+  },
+  {
+    "left": "antarctica",
+    "operator": "+",
+    "right": "south pole",
+    "result": "penguins"
+  },
+  {
+    "left": "map",
+    "operator": "+",
+    "right": "map",
+    "result": "navigation"
+  },
+  {
+    "left": "south pole",
+    "operator": "+",
+    "right": "map",
+    "result": "exploration"
+  },
+  {
+    "left": "asia",
+    "operator": "+",
+    "right": "south pole",
+    "result": "map"
+  },
+  {
+    "left": "antarctica",
+    "operator": "+",
+    "right": "antarctica",
+    "result": "south pole"
+  },
+  {
+    "left": "fish",
+    "operator": "+",
+    "right": "continent",
+    "result": "penguin"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "night",
+    "result": "midnight"
+  },
+  {
+    "left": "day",
+    "operator": "+",
+    "right": "24 hours",
+    "result": "time"
+  },
+  {
+    "left": "day",
+    "operator": "+",
+    "right": "night",
+    "result": "24 hours"
+  },
+  {
+    "left": "day",
+    "operator": "+",
+    "right": "0 zero",
+    "result": "dday"
+  },
+  {
+    "left": "afternoon",
+    "operator": "+",
+    "right": "afternoon",
+    "result": "day"
+  },
+  {
+    "left": "daytime",
+    "operator": "+",
+    "right": "morning",
+    "result": "afternoon"
+  },
+  {
+    "left": "morning",
+    "operator": "+",
+    "right": "morning",
+    "result": "breakfast"
+  },
+  {
+    "left": "daytime",
+    "operator": "+",
+    "right": "dawn",
+    "result": "morning"
+  },
+  {
+    "left": "daytime",
+    "operator": "+",
+    "right": "night",
+    "result": "dawn"
+  },
+  {
+    "left": "0 zero",
+    "operator": "-",
+    "right": "night",
+    "result": "daytime"
+  },
+  {
+    "left": "night",
+    "operator": "-",
+    "right": "0 zero",
+    "result": "infinity"
+  },
+  {
+    "left": "0 zero",
+    "operator": "+",
+    "right": "stars",
+    "result": "black hole"
+  },
+  {
+    "left": "spending",
+    "operator": "+",
+    "right": "stars",
+    "result": "dreaming"
+  },
+  {
+    "left": "stars",
+    "operator": "+",
+    "right": "stars",
+    "result": "galaxy"
+  },
+  {
+    "left": "darkness",
+    "operator": "+",
+    "right": "night",
+    "result": "stars"
+  },
+  {
+    "left": "0 zero",
+    "operator": "+",
+    "right": "savings",
+    "result": "debt"
+  },
+  {
+    "left": "saving",
+    "operator": "-",
+    "right": "saving",
+    "result": "void"
+  },
+  {
+    "left": "wisdom",
+    "operator": "+",
+    "right": "trouble",
+    "result": "counsel"
+  },
+  {
+    "left": "hot spring",
+    "operator": "+",
+    "right": "viral video",
+    "result": "travel vlog"
+  },
+  {
+    "left": "steam",
+    "operator": "+",
+    "right": "mud",
+    "result": "hot spring"
+  },
+  {
+    "left": "plant",
+    "operator": "+",
+    "right": "dirt",
+    "result": "gardening"
+  },
+  {
+    "left": "rainforest",
+    "operator": "-",
+    "right": "rain",
+    "result": "forest"
+  },
+  {
+    "left": "growth",
+    "operator": "+",
+    "right": "rain",
+    "result": "rainforest"
+  },
+  {
+    "left": "soil",
+    "operator": "+",
+    "right": "plant",
+    "result": "growth"
+  },
+  {
+    "left": "plant",
+    "operator": "+",
+    "right": "earth",
+    "result": "nature"
+  },
+  {
+    "left": "rain",
+    "operator": "+",
+    "right": "earth",
+    "result": "plant"
+  },
+  {
+    "left": "night",
+    "operator": "+",
+    "right": "sleep",
+    "result": "dream"
+  },
+  {
+    "left": "night",
+    "operator": "-",
+    "right": "sleep",
+    "result": "insomnia"
+  },
+  {
+    "left": "night",
+    "operator": "+",
+    "right": "night",
+    "result": "sleep"
+  },
+  {
+    "left": "darkness",
+    "operator": "+",
+    "right": "darkness",
+    "result": "night"
+  },
+  {
+    "left": "meter",
+    "operator": "+",
+    "right": "base",
+    "result": "kilometer"
+  },
+  {
+    "left": "unit",
+    "operator": "+",
+    "right": "length",
+    "result": "meter"
+  },
+  {
+    "left": "surface",
+    "operator": "-",
+    "right": "depth",
+    "result": "ocean"
+  },
+  {
+    "left": "area",
+    "operator": "-",
+    "right": "depth",
+    "result": "surface"
+  },
+  {
+    "left": "measurement",
+    "operator": "-",
+    "right": "height",
+    "result": "depth"
+  },
+  {
+    "left": "base",
+    "operator": "+",
+    "right": "base",
+    "result": "baseball"
+  },
+  {
+    "left": "area",
+    "operator": "-",
+    "right": "height",
+    "result": "base"
+  },
+  {
+    "left": "length",
+    "operator": "-",
+    "right": "square meter",
+    "result": "linear measurement"
+  },
+  {
+    "left": "unit",
+    "operator": "+",
+    "right": "area",
+    "result": "square meter"
+  },
+  {
+    "left": "height",
+    "operator": "+",
+    "right": "height",
+    "result": "tall"
+  },
+  {
+    "left": "width",
+    "operator": "+",
+    "right": "length",
+    "result": "area"
+  },
+  {
+    "left": "length",
+    "operator": "+",
+    "right": "height",
+    "result": "width"
+  },
+  {
+    "left": "conversion",
+    "operator": "+",
+    "right": "conversion",
+    "result": "transformation"
+  },
+  {
+    "left": "measurement",
+    "operator": "+",
+    "right": "unit",
+    "result": "conversion"
+  },
+  {
+    "left": "measurement",
+    "operator": "+",
+    "right": "measurement",
+    "result": "unit"
+  },
+  {
+    "left": "length",
+    "operator": "+",
+    "right": "length",
+    "result": "height"
+  },
+  {
+    "left": "measurement",
+    "operator": "+",
+    "right": "distance",
+    "result": "length"
+  },
+  {
+    "left": "distance",
+    "operator": "+",
+    "right": "distance",
+    "result": "measurement"
+  },
+  {
+    "left": "distance learning",
+    "operator": "-",
+    "right": "learning",
+    "result": "distance"
+  },
+  {
+    "left": "remote education",
+    "operator": "-",
+    "right": "online education",
+    "result": "distance learning"
+  },
+  {
+    "left": "virtual learning",
+    "operator": "+",
+    "right": "classroom chaos",
+    "result": "remote education"
+  },
+  {
+    "left": "online education",
+    "operator": "+",
+    "right": "classroom chaos",
+    "result": "virtual learning"
+  },
+  {
+    "left": "learning environment",
+    "operator": "+",
+    "right": "disruption",
+    "result": "classroom chaos"
+  },
+  {
+    "left": "virus",
+    "operator": "-",
+    "right": "school",
+    "result": "disruption"
+  },
+  {
+    "left": "school",
+    "operator": "-",
+    "right": "virus",
+    "result": "learning environment"
+  },
+  {
+    "left": "remote learning",
+    "operator": "+",
+    "right": "school",
+    "result": "online education"
+  },
+  {
+    "left": "school",
+    "operator": "+",
+    "right": "virus",
+    "result": "remote learning"
+  },
+  {
+    "left": "covid19",
+    "operator": "-",
+    "right": "pandemic",
+    "result": "virus"
+  },
+  {
+    "left": "continent",
+    "operator": "+",
+    "right": "catastrophe",
+    "result": "pandemic"
+  },
+  {
+    "left": "volcano",
+    "operator": "+",
+    "right": "landslide",
+    "result": "natural disaster"
+  },
+  {
+    "left": "storm",
+    "operator": "+",
+    "right": "stone",
+    "result": "landslide"
+  },
+  {
+    "left": "learning",
+    "operator": "+",
+    "right": "house",
+    "result": "school"
+  },
+  {
+    "left": "reading",
+    "operator": "+",
+    "right": "knowledge",
+    "result": "learning"
+  },
+  {
+    "left": "bookstore",
+    "operator": "+",
+    "right": "library",
+    "result": "reading"
+  },
+  {
+    "left": "library",
+    "operator": "+",
+    "right": "library",
+    "result": "bookstore"
+  },
+  {
+    "left": "house",
+    "operator": "+",
+    "right": "knowledge",
+    "result": "library"
+  },
+  {
+    "left": "room",
+    "operator": "+",
+    "right": "room",
+    "result": "house"
+  },
+  {
+    "left": "wall",
+    "operator": "+",
+    "right": "wall",
+    "result": "room"
+  },
+  {
+    "left": "erosion",
+    "operator": "+",
+    "right": "wind",
+    "result": "sand dunes"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "water",
+    "result": "erosion"
+  },
+  {
+    "left": "earth",
+    "operator": "-",
+    "right": "earth",
+    "result": "void"
+  },
+  {
+    "left": "mortise joint",
+    "operator": "-",
+    "right": "joint",
+    "result": "mortise"
+  },
+  {
+    "left": "woodworking joint",
+    "operator": "-",
+    "right": "woodworking",
+    "result": "joint"
+  },
+  {
+    "left": "mortise joint",
+    "operator": "-",
+    "right": "tenon joint",
+    "result": "woodworking joint"
+  },
+  {
+    "left": "woodworking",
+    "operator": "-",
+    "right": "mortise joint",
+    "result": "tenon joint"
+  },
+  {
+    "left": "large joint",
+    "operator": "-",
+    "right": "dovetail joint",
+    "result": "mortise joint"
+  },
+  {
+    "left": "dovetail joint",
+    "operator": "+",
+    "right": "large joint",
+    "result": "furniture joinery"
+  },
+  {
+    "left": "artisan science",
+    "operator": "+",
+    "right": "dovetail joint",
+    "result": "woodworking technique"
+  },
+  {
+    "left": "rheumatism",
+    "operator": "+",
+    "right": "rheumatism",
+    "result": "chronic pain"
+  },
+  {
+    "left": "arthritis",
+    "operator": "+",
+    "right": "large joint",
+    "result": "osteoarthritis"
+  },
+  {
+    "left": "arthritis",
+    "operator": "+",
+    "right": "joint pain",
+    "result": "rheumatism"
+  },
+  {
+    "left": "arthritis",
+    "operator": "+",
+    "right": "arthritis",
+    "result": "joint pain"
+  },
+  {
+    "left": "large joint",
+    "operator": "+",
+    "right": "large joint",
+    "result": "arthritis"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "dovetail joint",
+    "result": "large joint"
+  },
+  {
+    "left": "dovetail joint",
+    "operator": "+",
+    "right": "small",
+    "result": "jewelry box"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "chinese joinery",
+    "result": "dovetail joint"
+  },
+  {
+    "left": "traditional craftsmanship",
+    "operator": "+",
+    "right": "small science",
+    "result": "artisan science"
+  },
+  {
+    "left": "artisan workshop",
+    "operator": "+",
+    "right": "chinese joinery",
+    "result": "fine craftsmanship"
+  },
+  {
+    "left": "decorative arts",
+    "operator": "+",
+    "right": "chinese joinery",
+    "result": "chinese furniture design"
+  },
+  {
+    "left": "decorative art",
+    "operator": "+",
+    "right": "chinese joinery",
+    "result": "asian craftsmanship"
+  },
+  {
+    "left": "chinoiserie",
+    "operator": "+",
+    "right": "chinoiserie",
+    "result": "decorative art"
+  },
+  {
+    "left": "chinese culture",
+    "operator": "+",
+    "right": "chinoiserie",
+    "result": "oriental art"
+  },
+  {
+    "left": "chinese artistry",
+    "operator": "+",
+    "right": "chinoiserie",
+    "result": "decorative arts"
+  },
+  {
+    "left": "cultural fusion",
+    "operator": "+",
+    "right": "chinese artistry",
+    "result": "chinoiserie"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "chinese artistry",
+    "result": "chinese culture"
+  },
+  {
+    "left": "artisan heritage",
+    "operator": "+",
+    "right": "chinese artistry",
+    "result": "cultural fusion"
+  },
+  {
+    "left": "traditional woodworking",
+    "operator": "+",
+    "right": "crafting history",
+    "result": "artisan heritage"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "crafting history",
+    "result": "chinese artistry"
+  },
+  {
+    "left": "time travel",
+    "operator": "+",
+    "right": "artisan skills",
+    "result": "crafting history"
+  },
+  {
+    "left": "cosmic craftsmanship",
+    "operator": "+",
+    "right": "artisan skills",
+    "result": "celestial artistry"
+  },
+  {
+    "left": "black hole",
+    "operator": "+",
+    "right": "artisan skills",
+    "result": "cosmic craftsmanship"
+  },
+  {
+    "left": "temporal craftsmanship",
+    "operator": "+",
+    "right": "artisan skills",
+    "result": "timeless artistry"
+  },
+  {
+    "left": "time travel",
+    "operator": "+",
+    "right": "artisan skills",
+    "result": "temporal craftsmanship"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "black hole",
+    "result": "space"
+  },
+  {
+    "left": "wormhole",
+    "operator": "+",
+    "right": "wormhole",
+    "result": "interstellar travel"
+  },
+  {
+    "left": "wormhole",
+    "operator": "-",
+    "right": "black hole",
+    "result": "time travel"
+  },
+  {
+    "left": "spacetime distortion",
+    "operator": "-",
+    "right": "black hole",
+    "result": "wormhole"
+  },
+  {
+    "left": "singularity",
+    "operator": "-",
+    "right": "black hole",
+    "result": "spacetime distortion"
+  },
+  {
+    "left": "black hole",
+    "operator": "-",
+    "right": "singularity",
+    "result": "event horizon"
+  },
+  {
+    "left": "black hole",
+    "operator": "+",
+    "right": "black hole",
+    "result": "singularity"
+  },
+  {
+    "left": "chinese woodworking",
+    "operator": "+",
+    "right": "black hole",
+    "result": "spacetime craftsmanship"
+  },
+  {
+    "left": "chinese pagoda",
+    "operator": "+",
+    "right": "black hole",
+    "result": "cosmic architecture"
+  },
+  {
+    "left": "chinese joinery",
+    "operator": "+",
+    "right": "black hole",
+    "result": "spatial design"
+  },
+  {
+    "left": "wood carving",
+    "operator": "+",
+    "right": "black hole",
+    "result": "artistic void"
+  },
+  {
+    "left": "soil",
+    "operator": "+",
+    "right": "void",
+    "result": "black hole"
+  },
+  {
+    "left": "chinese joinery",
+    "operator": "-",
+    "right": "chinese woodworking",
+    "result": "joinery techniques"
+  },
+  {
+    "left": "traditional chinese wooden structures",
+    "operator": "-",
+    "right": "chinese joinery",
+    "result": "architectural harmony"
+  },
+  {
+    "left": "traditional architecture",
+    "operator": "-",
+    "right": "chinese joinery",
+    "result": "cultural heritage"
+  },
+  {
+    "left": "structural elegance",
+    "operator": "+",
+    "right": "structural elegance",
+    "result": "design harmony"
+  },
+  {
+    "left": "chinese architecture",
+    "operator": "-",
+    "right": "chinese joinery",
+    "result": "structural elegance"
+  },
+  {
+    "left": "artisan skills",
+    "operator": "+",
+    "right": "chinese woodworking",
+    "result": "chinese joinery"
+  },
+  {
+    "left": "chinese carpentry",
+    "operator": "+",
+    "right": "traditional craftsmanship",
+    "result": "chinese woodworking"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "+",
+    "right": "traditional craftsmanship",
+    "result": "artisan skills"
+  },
+  {
+    "left": "bespoke furniture",
+    "operator": "+",
+    "right": "joinery",
+    "result": "custom cabinetry"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "+",
+    "right": "heritage architecture",
+    "result": "cultural preservation"
+  },
+  {
+    "left": "traditional woodworking",
+    "operator": "+",
+    "right": "chinese carpentry",
+    "result": "joinery"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "chinese carpentry",
+    "result": "traditional woodworking"
+  },
+  {
+    "left": "fine woodworking",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "chinese carpentry"
+  },
+  {
+    "left": "stable furniture",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "chinese antique furniture"
+  },
+  {
+    "left": "reliability",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "heritage architecture"
+  },
+  {
+    "left": "carpentry",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "chinese timber framing"
+  },
+  {
+    "left": "improvement",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "modern architecture"
+  },
+  {
+    "left": "lumber engineering",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "timber architecture"
+  },
+  {
+    "left": "woodcarving",
+    "operator": "+",
+    "right": "traditional chinese wooden structures",
+    "result": "chinese woodcraft"
+  },
+  {
+    "left": "chinese architecture",
+    "operator": "+",
+    "right": "woodworking design",
+    "result": "traditional chinese wooden structures"
+  },
+  {
+    "left": "chinese architecture",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "traditional chinese design"
+  },
+  {
+    "left": "chinese architecture",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "pagoda"
+  },
+  {
+    "left": "chinese pagoda",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "chinese architecture"
+  },
+  {
+    "left": "traditional architecture",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese pagoda"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "wood construction",
+    "result": "traditional architecture"
+  },
+  {
+    "left": "sustainable building",
+    "operator": "+",
+    "right": "wood construction",
+    "result": "ecofriendly architecture"
+  },
+  {
+    "left": "wood technology",
+    "operator": "+",
+    "right": "wood construction",
+    "result": "sustainable building"
+  },
+  {
+    "left": "lumber engineering",
+    "operator": "+",
+    "right": "wood construction",
+    "result": "timber framing"
+  },
+  {
+    "left": "birdhouse",
+    "operator": "+",
+    "right": "wood construction",
+    "result": "birdhouse building"
+  },
+  {
+    "left": "wood construction",
+    "operator": "+",
+    "right": "small",
+    "result": "birdhouse"
+  },
+  {
+    "left": "wood science",
+    "operator": "+",
+    "right": "timber engineering",
+    "result": "wood construction"
+  },
+  {
+    "left": "woodcarving",
+    "operator": "-",
+    "right": "sculpture",
+    "result": "threedimensional art"
+  },
+  {
+    "left": "panda",
+    "operator": "+",
+    "right": "bamboo",
+    "result": "bamboo shoots"
+  },
+  {
+    "left": "bamboo",
+    "operator": "+",
+    "right": "bamboo",
+    "result": "panda"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "asia",
+    "result": "bamboo"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "asia",
+    "result": "timber trade"
+  },
+  {
+    "left": "repetition",
+    "operator": "+",
+    "right": "tion",
+    "result": "iteration"
+  },
+  {
+    "left": "tion",
+    "operator": "+",
+    "right": "tion",
+    "result": "repetition"
+  },
+  {
+    "left": "cabinetmaking",
+    "operator": "-",
+    "right": "woodworking",
+    "result": "furniture craftsmanship"
+  },
+  {
+    "left": "furniture design",
+    "operator": "-",
+    "right": "cabinetmaking",
+    "result": "interior architecture"
+  },
+  {
+    "left": "woodworking",
+    "operator": "-",
+    "right": "cabinetmaking",
+    "result": "furniture crafting"
+  },
+  {
+    "left": "furniture design",
+    "operator": "+",
+    "right": "woodworking design",
+    "result": "cabinetmaking"
+  },
+  {
+    "left": "carpentry",
+    "operator": "+",
+    "right": "artistic architecture",
+    "result": "woodworking design"
+  },
+  {
+    "left": "renaissance sculpture",
+    "operator": "+",
+    "right": "lumber engineering",
+    "result": "artistic architecture"
+  },
+  {
+    "left": "sculpture",
+    "operator": "+",
+    "right": "artistic tradition",
+    "result": "renaissance sculpture"
+  },
+  {
+    "left": "lunar new year",
+    "operator": "+",
+    "right": "china",
+    "result": "spring festival"
+  },
+  {
+    "left": "chinese new year",
+    "operator": "+",
+    "right": "china",
+    "result": "lunar new year"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "dragon",
+    "result": "chinese new year"
+  },
+  {
+    "left": "porcelain",
+    "operator": "+",
+    "right": "dragon",
+    "result": "game of thrones"
+  },
+  {
+    "left": "tableware",
+    "operator": "+",
+    "right": "china",
+    "result": "dishes"
+  },
+  {
+    "left": "porcelain",
+    "operator": "+",
+    "right": "china",
+    "result": "tableware"
+  },
+  {
+    "left": "chinese calligraphy",
+    "operator": "+",
+    "right": "china",
+    "result": "artistic tradition"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "artwork",
+    "result": "woodcarving"
+  },
+  {
+    "left": "wood technology",
+    "operator": "+",
+    "right": "wood science",
+    "result": "lumber engineering"
+  },
+  {
+    "left": "carving",
+    "operator": "+",
+    "right": "sculpture",
+    "result": "statue"
+  },
+  {
+    "left": "chinese wood sculpture",
+    "operator": "+",
+    "right": "wooden model",
+    "result": "artwork"
+  },
+  {
+    "left": "wooden model",
+    "operator": "+",
+    "right": "wood",
+    "result": "carving"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "custom woodworking",
+    "result": "bespoke furniture"
+  },
+  {
+    "left": "model making",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "wooden model"
+  },
+  {
+    "left": "diorama",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "model making"
+  },
+  {
+    "left": "tiny",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "miniature furniture"
+  },
+  {
+    "left": "tiny",
+    "operator": "+",
+    "right": "tiny",
+    "result": "microscopic"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "small",
+    "result": "tiny"
+  },
+  {
+    "left": "chinese wood carving",
+    "operator": "-",
+    "right": "cultural expression",
+    "result": "artistic heritage"
+  },
+  {
+    "left": "chinese art",
+    "operator": "-",
+    "right": "art",
+    "result": "cultural expression"
+  },
+  {
+    "left": "united nations",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "international trade"
+  },
+  {
+    "left": "harmony",
+    "operator": "+",
+    "right": "country",
+    "result": "united nations"
+  },
+  {
+    "left": "feng shui",
+    "operator": "+",
+    "right": "china",
+    "result": "harmony"
+  },
+  {
+    "left": "wood",
+    "operator": "-",
+    "right": "small",
+    "result": "twig"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "lumber",
+    "result": "nothingness"
+  },
+  {
+    "left": "lumber",
+    "operator": "-",
+    "right": "wood",
+    "result": "sawdust"
+  },
+  {
+    "left": "biomimicry",
+    "operator": "+",
+    "right": "lumber",
+    "result": "sustainable architecture"
+  },
+  {
+    "left": "furniture",
+    "operator": "+",
+    "right": "science",
+    "result": "laboratory"
+  },
+  {
+    "left": "wisdom",
+    "operator": "+",
+    "right": "tree of knowledge",
+    "result": "enlightenment"
+  },
+  {
+    "left": "sustainable construction",
+    "operator": "+",
+    "right": "wood technology",
+    "result": "ecofriendly building"
+  },
+  {
+    "left": "sustainable forestry",
+    "operator": "+",
+    "right": "wood technology",
+    "result": "ecofriendly construction"
+  },
+  {
+    "left": "education",
+    "operator": "+",
+    "right": "wood science",
+    "result": "wood technology"
+  },
+  {
+    "left": "wisdom",
+    "operator": "+",
+    "right": "wood science",
+    "result": "lumberjack philosophy"
+  },
+  {
+    "left": "book",
+    "operator": "+",
+    "right": "skill",
+    "result": "education"
+  },
+  {
+    "left": "wisdom",
+    "operator": "+",
+    "right": "wood",
+    "result": "tree of knowledge"
+  },
+  {
+    "left": "book",
+    "operator": "+",
+    "right": "wood",
+    "result": "paper"
+  },
+  {
+    "left": "knowledge",
+    "operator": "+",
+    "right": "wood",
+    "result": "book"
+  },
+  {
+    "left": "wisdom",
+    "operator": "+",
+    "right": "knowledge",
+    "result": "intelligence"
+  },
+  {
+    "left": "knowledge",
+    "operator": "+",
+    "right": "skill",
+    "result": "wisdom"
+  },
+  {
+    "left": "expertise",
+    "operator": "+",
+    "right": "skill",
+    "result": "knowledge"
+  },
+  {
+    "left": "artistry",
+    "operator": "+",
+    "right": "expertise",
+    "result": "masterpiece"
+  },
+  {
+    "left": "skill",
+    "operator": "+",
+    "right": "skill",
+    "result": "expertise"
+  },
+  {
+    "left": "mastery",
+    "operator": "+",
+    "right": "mastery",
+    "result": "skill"
+  },
+  {
+    "left": "artistry",
+    "operator": "+",
+    "right": "feng shui",
+    "result": "harmonious design"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "-",
+    "right": "practice",
+    "result": "mastery"
+  },
+  {
+    "left": "martial arts",
+    "operator": "+",
+    "right": "practice",
+    "result": "karate"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "skills",
+    "result": "martial arts"
+  },
+  {
+    "left": "credibility",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "antique value"
+  },
+  {
+    "left": "trustworthiness",
+    "operator": "+",
+    "right": "small",
+    "result": "credibility"
+  },
+  {
+    "left": "personal development",
+    "operator": "+",
+    "right": "wood",
+    "result": "selfimprovement"
+  },
+  {
+    "left": "improvement",
+    "operator": "+",
+    "right": "skills",
+    "result": "personal development"
+  },
+  {
+    "left": "improvement",
+    "operator": "+",
+    "right": "improvement",
+    "result": "progress"
+  },
+  {
+    "left": "practice",
+    "operator": "+",
+    "right": "skills",
+    "result": "improvement"
+  },
+  {
+    "left": "skills",
+    "operator": "+",
+    "right": "skills",
+    "result": "practice"
+  },
+  {
+    "left": "carpentry",
+    "operator": "-",
+    "right": "wood",
+    "result": "skills"
+  },
+  {
+    "left": "furniture",
+    "operator": "-",
+    "right": "wood",
+    "result": "empty room"
+  },
+  {
+    "left": "wood science",
+    "operator": "-",
+    "right": "science",
+    "result": "wood"
+  },
+  {
+    "left": "chinese decor",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "chinese interior design"
+  },
+  {
+    "left": "chinese art",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "chinese decor"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "artisans",
+    "result": "chinese calligraphy"
+  },
+  {
+    "left": "handicrafts",
+    "operator": "+",
+    "right": "handicrafts",
+    "result": "artisans"
+  },
+  {
+    "left": "handicrafts",
+    "operator": "+",
+    "right": "artisan home goods",
+    "result": "handmade decor"
+  },
+  {
+    "left": "crafts",
+    "operator": "+",
+    "right": "artisanry",
+    "result": "handicrafts"
+  },
+  {
+    "left": "handcrafted furniture",
+    "operator": "+",
+    "right": "artisan products",
+    "result": "bespoke creations"
+  },
+  {
+    "left": "handmade goods",
+    "operator": "+",
+    "right": "traditional craftsmanship",
+    "result": "artisan products"
+  },
+  {
+    "left": "traditional craftsmanship",
+    "operator": "+",
+    "right": "traditional craftsmanship",
+    "result": "artisanry"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "wood science",
+    "result": "custom woodworking"
+  },
+  {
+    "left": "timber engineering",
+    "operator": "+",
+    "right": "bamboo engineering",
+    "result": "sustainable construction"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "wood science",
+    "result": "bamboo engineering"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "wood science",
+    "result": "traditional craftsmanship"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "wood science",
+    "result": "timber engineering"
+  },
+  {
+    "left": "theory of construction",
+    "operator": "+",
+    "right": "wood science",
+    "result": "architectural engineering"
+  },
+  {
+    "left": "wood science",
+    "operator": "-",
+    "right": "carpentry",
+    "result": "theory of construction"
+  },
+  {
+    "left": "science",
+    "operator": "+",
+    "right": "lumber",
+    "result": "wood science"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "science",
+    "result": "biomimicry"
+  },
+  {
+    "left": "fine furniture",
+    "operator": "+",
+    "right": "stables",
+    "result": "equestrian decor"
+  },
+  {
+    "left": "diorama",
+    "operator": "+",
+    "right": "small",
+    "result": "miniature scene"
+  },
+  {
+    "left": "miniature art",
+    "operator": "+",
+    "right": "small",
+    "result": "diorama"
+  },
+  {
+    "left": "handmade",
+    "operator": "+",
+    "right": "small",
+    "result": "craft"
+  },
+  {
+    "left": "figurine",
+    "operator": "+",
+    "right": "small",
+    "result": "collectible"
+  },
+  {
+    "left": "dollhouse",
+    "operator": "+",
+    "right": "small",
+    "result": "miniature"
+  },
+  {
+    "left": "wooden toys",
+    "operator": "+",
+    "right": "small",
+    "result": "dollhouse"
+  },
+  {
+    "left": "feng shui",
+    "operator": "+",
+    "right": "wood industry",
+    "result": "sustainable design"
+  },
+  {
+    "left": "advanced timber processing",
+    "operator": "+",
+    "right": "wood industry",
+    "result": "sustainable forestry"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "sawmill",
+    "result": "wood industry"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "sawmill",
+    "result": "advanced timber processing"
+  },
+  {
+    "left": "architecture",
+    "operator": "+",
+    "right": "artisan",
+    "result": "gothic cathedral"
+  },
+  {
+    "left": "chinese pottery",
+    "operator": "+",
+    "right": "artisan",
+    "result": "ceramics"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "+",
+    "right": "bespoke craftsmanship",
+    "result": "custom tailoring"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "antique decor",
+    "result": "vintage collection"
+  },
+  {
+    "left": "design",
+    "operator": "+",
+    "right": "wood sculpture",
+    "result": "artistic creation"
+  },
+  {
+    "left": "furniture",
+    "operator": "+",
+    "right": "design",
+    "result": "interior decorating"
+  },
+  {
+    "left": "architecture",
+    "operator": "+",
+    "right": "craftsmanship",
+    "result": "design"
+  },
+  {
+    "left": "building",
+    "operator": "+",
+    "right": "artisan",
+    "result": "architecture"
+  },
+  {
+    "left": "building",
+    "operator": "+",
+    "right": "building",
+    "result": "city"
+  },
+  {
+    "left": "construction",
+    "operator": "+",
+    "right": "construction",
+    "result": "building"
+  },
+  {
+    "left": "quality",
+    "operator": "+",
+    "right": "reliability",
+    "result": "trustworthiness"
+  },
+  {
+    "left": "handcrafted furniture",
+    "operator": "+",
+    "right": "handcrafted decor",
+    "result": "artisan home goods"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "artisan",
+    "result": "handcrafted decor"
+  },
+  {
+    "left": "handcrafted furniture",
+    "operator": "+",
+    "right": "artisan",
+    "result": "bespoke craftsmanship"
+  },
+  {
+    "left": "handmade products",
+    "operator": "+",
+    "right": "craftsmanship",
+    "result": "artisan"
+  },
+  {
+    "left": "sustainable art",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "ecofriendly furniture"
+  },
+  {
+    "left": "ecofriendly art",
+    "operator": "+",
+    "right": "craftsmanship",
+    "result": "sustainable art"
+  },
+  {
+    "left": "sustainable craftsmanship",
+    "operator": "+",
+    "right": "wood sculpture",
+    "result": "ecofriendly art"
+  },
+  {
+    "left": "handmade products",
+    "operator": "+",
+    "right": "stability",
+    "result": "sustainable craftsmanship"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "handmade products",
+    "result": "crafts"
+  },
+  {
+    "left": "handmade products",
+    "operator": "+",
+    "right": "handmade products",
+    "result": "artisan goods"
+  },
+  {
+    "left": "artistic craftsmanship",
+    "operator": "+",
+    "right": "quality goods",
+    "result": "handmade products"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "reliability",
+    "result": "quality craftsmanship"
+  },
+  {
+    "left": "feng shui",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "harmonious living"
+  },
+  {
+    "left": "heirloom",
+    "operator": "+",
+    "right": "chinese craftsmanship",
+    "result": "antique"
+  },
+  {
+    "left": "traditional furniture",
+    "operator": "+",
+    "right": "stability",
+    "result": "heirloom"
+  },
+  {
+    "left": "stability",
+    "operator": "+",
+    "right": "chinese craftsmanship",
+    "result": "traditional furniture"
+  },
+  {
+    "left": "quality goods",
+    "operator": "+",
+    "right": "china",
+    "result": "manufacturing"
+  },
+  {
+    "left": "reliability",
+    "operator": "+",
+    "right": "artisan craftsmanship",
+    "result": "quality goods"
+  },
+  {
+    "left": "quality",
+    "operator": "+",
+    "right": "stability",
+    "result": "reliability"
+  },
+  {
+    "left": "furniture making",
+    "operator": "+",
+    "right": "stability",
+    "result": "furniture design"
+  },
+  {
+    "left": "artisan craftsmanship",
+    "operator": "+",
+    "right": "stability",
+    "result": "quality"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "stability",
+    "result": "construction"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "stability",
+    "result": "feng shui"
+  },
+  {
+    "left": "stable furniture",
+    "operator": "-",
+    "right": "furniture",
+    "result": "stability"
+  },
+  {
+    "left": "gallery",
+    "operator": "+",
+    "right": "horses",
+    "result": "art exhibition"
+  },
+  {
+    "left": "tables",
+    "operator": "+",
+    "right": "stables",
+    "result": "horses"
+  },
+  {
+    "left": "furniture",
+    "operator": "+",
+    "right": "stables",
+    "result": "stable furniture"
+  },
+  {
+    "left": "art installation",
+    "operator": "+",
+    "right": "stables",
+    "result": "gallery"
+  },
+  {
+    "left": "chinese wood sculpture",
+    "operator": "+",
+    "right": "stables",
+    "result": "art gallery"
+  },
+  {
+    "left": "intricate sculptures",
+    "operator": "+",
+    "right": "stables",
+    "result": "art installation"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "+",
+    "right": "stables",
+    "result": "artisan workshop"
+  },
+  {
+    "left": "handmade goods",
+    "operator": "+",
+    "right": "stables",
+    "result": "craft fair"
+  },
+  {
+    "left": "stables",
+    "operator": "+",
+    "right": "artisanal craftsmanship",
+    "result": "handcrafted furniture"
+  },
+  {
+    "left": "tables",
+    "operator": "+",
+    "right": "tables",
+    "result": "chairs"
+  },
+  {
+    "left": "comfort",
+    "operator": "+",
+    "right": "domestic pet",
+    "result": "therapy animal"
+  },
+  {
+    "left": "therapy pet",
+    "operator": "+",
+    "right": "wilderness",
+    "result": "nature therapy"
+  },
+  {
+    "left": "comfort",
+    "operator": "+",
+    "right": "domestic animal",
+    "result": "therapy pet"
+  },
+  {
+    "left": "earth",
+    "operator": "-",
+    "right": "planet",
+    "result": "home"
+  },
+  {
+    "left": "handmade",
+    "operator": "+",
+    "right": "wooden sculptures",
+    "result": "artisanal craftsmanship"
+  },
+  {
+    "left": "handmade",
+    "operator": "+",
+    "right": "handmade",
+    "result": "crafting"
+  },
+  {
+    "left": "diy crafts",
+    "operator": "+",
+    "right": "diy crafts",
+    "result": "handmade"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "antique decor",
+    "result": "vintage home design"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "wooden toys",
+    "result": "handcrafted goods"
+  },
+  {
+    "left": "upcycling",
+    "operator": "+",
+    "right": "small",
+    "result": "diy crafts"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "furniture restoration",
+    "result": "upcycling"
+  },
+  {
+    "left": "antique porcelain",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "furniture restoration"
+  },
+  {
+    "left": "china",
+    "operator": "+",
+    "right": "handmade goods",
+    "result": "artisanal crafts"
+  },
+  {
+    "left": "miniature art",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese miniature painting"
+  },
+  {
+    "left": "vintage artistry",
+    "operator": "+",
+    "right": "china",
+    "result": "antique porcelain"
+  },
+  {
+    "left": "antique decor",
+    "operator": "+",
+    "right": "craftsmanship",
+    "result": "vintage artistry"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "custom craftsmanship"
+  },
+  {
+    "left": "artisan furniture",
+    "operator": "+",
+    "right": "intricate craftsmanship",
+    "result": "fine woodworking"
+  },
+  {
+    "left": "fine furniture",
+    "operator": "+",
+    "right": "intricate craftsmanship",
+    "result": "artisan furniture"
+  },
+  {
+    "left": "miniature art",
+    "operator": "+",
+    "right": "chinese wood carving",
+    "result": "intricate craftsmanship"
+  },
+  {
+    "left": "wooden sculptures",
+    "operator": "+",
+    "right": "small science",
+    "result": "educational toys"
+  },
+  {
+    "left": "interior design",
+    "operator": "+",
+    "right": "artistic decor",
+    "result": "home aesthetics"
+  },
+  {
+    "left": "interior design",
+    "operator": "+",
+    "right": "wooden sculptures",
+    "result": "artistic decor"
+  },
+  {
+    "left": "home decor",
+    "operator": "+",
+    "right": "home decor",
+    "result": "interior design"
+  },
+  {
+    "left": "home decor",
+    "operator": "+",
+    "right": "figurines",
+    "result": "collectibles"
+  },
+  {
+    "left": "figurines",
+    "operator": "+",
+    "right": "furniture",
+    "result": "home decor"
+  },
+  {
+    "left": "wooden sculptures",
+    "operator": "+",
+    "right": "small",
+    "result": "figurines"
+  },
+  {
+    "left": "miniature art",
+    "operator": "+",
+    "right": "lumber",
+    "result": "wooden sculptures"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "small",
+    "result": "miniature art"
+  },
+  {
+    "left": "artisan craftsmanship",
+    "operator": "+",
+    "right": "small",
+    "result": "handmade goods"
+  },
+  {
+    "left": "figurine",
+    "operator": "+",
+    "right": "china",
+    "result": "porcelain"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "small",
+    "result": "wooden toys"
+  },
+  {
+    "left": "chinese wood carving",
+    "operator": "+",
+    "right": "small",
+    "result": "figurine"
+  },
+  {
+    "left": "organisms",
+    "operator": "+",
+    "right": "microscopy",
+    "result": "microbiology"
+  },
+  {
+    "left": "biology",
+    "operator": "+",
+    "right": "science",
+    "result": "life science"
+  },
+  {
+    "left": "fine furniture",
+    "operator": "+",
+    "right": "antique decor",
+    "result": "vintage interior design"
+  },
+  {
+    "left": "artistic craftsmanship",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "fine furniture"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "wood sculpture",
+    "result": "artistic craftsmanship"
+  },
+  {
+    "left": "chinese wood carving",
+    "operator": "-",
+    "right": "wood carving",
+    "result": "chinese art"
+  },
+  {
+    "left": "woodworking art",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese wood carving"
+  },
+  {
+    "left": "intricate sculptures",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "woodworking art"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "wood carving",
+    "result": "intricate sculptures"
+  },
+  {
+    "left": "wood carving",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese wood sculpture"
+  },
+  {
+    "left": "sculpture",
+    "operator": "+",
+    "right": "wood carving",
+    "result": "art"
+  },
+  {
+    "left": "wood carving",
+    "operator": "+",
+    "right": "wood carving",
+    "result": "sculpture"
+  },
+  {
+    "left": "artistry",
+    "operator": "+",
+    "right": "wood sculpture",
+    "result": "wood carving"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "wood sculpture",
+    "result": "artistry"
+  },
+  {
+    "left": "carpentry",
+    "operator": "+",
+    "right": "fine art",
+    "result": "wood sculpture"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "carpentry",
+    "result": "furniture"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "carpentry"
+  },
+  {
+    "left": "fine art",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "craftsmanship"
+  },
+  {
+    "left": "chinese craftsmanship",
+    "operator": "+",
+    "right": "artisan craftsmanship",
+    "result": "fine art"
+  },
+  {
+    "left": "artisan craftsmanship",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese pottery"
+  },
+  {
+    "left": "furniture making",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese craftsmanship"
+  },
+  {
+    "left": "artisan craftsmanship",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "furniture making"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "woodworking",
+    "result": "artisan craftsmanship"
+  },
+  {
+    "left": "chinese furniture",
+    "operator": "+",
+    "right": "chinese furniture",
+    "result": "antique decor"
+  },
+  {
+    "left": "woodworking",
+    "operator": "+",
+    "right": "china",
+    "result": "chinese furniture"
+  },
+  {
+    "left": "dragon",
+    "operator": "+",
+    "right": "asia",
+    "result": "china"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "plant",
+    "result": "nature"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "lumber",
+    "result": "woodworking"
+  },
+  {
+    "left": "sawmill",
+    "operator": "+",
+    "right": "sawmill",
+    "result": "lumber"
+  },
+  {
+    "left": "sawmill",
+    "operator": "-",
+    "right": "sawmill",
+    "result": "void"
+  },
+  {
+    "left": "lumberjack",
+    "operator": "-",
+    "right": "logging",
+    "result": "sawmill"
+  },
+  {
+    "left": "deforestation",
+    "operator": "+",
+    "right": "lumberjack",
+    "result": "reforestation"
+  },
+  {
+    "left": "deforestation",
+    "operator": "+",
+    "right": "forestry",
+    "result": "environmental conservation"
+  },
+  {
+    "left": "logging",
+    "operator": "+",
+    "right": "lumberjack",
+    "result": "deforestation"
+  },
+  {
+    "left": "lumberjack",
+    "operator": "+",
+    "right": "work",
+    "result": "logging"
+  },
+  {
+    "left": "woods",
+    "operator": "+",
+    "right": "work",
+    "result": "lumberjack"
+  },
+  {
+    "left": "trees",
+    "operator": "+",
+    "right": "work",
+    "result": "forestry"
+  },
+  {
+    "left": "celebration",
+    "operator": "+",
+    "right": "work",
+    "result": "party"
+  },
+  {
+    "left": "success",
+    "operator": "+",
+    "right": "achievement",
+    "result": "celebration"
+  },
+  {
+    "left": "success",
+    "operator": "+",
+    "right": "success",
+    "result": "achievement"
+  },
+  {
+    "left": "hard work",
+    "operator": "+",
+    "right": "work",
+    "result": "success"
+  },
+  {
+    "left": "work",
+    "operator": "+",
+    "right": "work",
+    "result": "hard work"
+  },
+  {
+    "left": "tion",
+    "operator": "-",
+    "right": "vacation",
+    "result": "work"
+  },
+  {
+    "left": "family fun",
+    "operator": "+",
+    "right": "family fun",
+    "result": "vacation"
+  },
+  {
+    "left": "leaf",
+    "operator": "+",
+    "right": "petting zoo",
+    "result": "nature experience"
+  },
+  {
+    "left": "animal encounter",
+    "operator": "+",
+    "right": "animal encounter",
+    "result": "wildlife observation"
+  },
+  {
+    "left": "petting zoo",
+    "operator": "+",
+    "right": "a",
+    "result": "animal encounter"
+  },
+  {
+    "left": "innovation",
+    "operator": "-",
+    "right": "a",
+    "result": "tion"
+  },
+  {
+    "left": "plant",
+    "operator": "-",
+    "right": "b",
+    "result": "leaf"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "dirt",
+    "result": "gardening"
+  },
+  {
+    "left": "dirt",
+    "operator": "-",
+    "right": "breath",
+    "result": "clean air"
   }
 ]
