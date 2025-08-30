@@ -13402,5 +13402,4079 @@
     "operator": "-",
     "right": "breath",
     "result": "clean air"
+  },
+  {
+    "left": "marine plant",
+    "operator": "-",
+    "right": "seaweed",
+    "result": "coral"
+  },
+  {
+    "left": "seaweed",
+    "operator": "-",
+    "right": "marine plant",
+    "result": "kelp"
+  },
+  {
+    "left": "algae",
+    "operator": "-",
+    "right": "seaweed",
+    "result": "water plant"
+  },
+  {
+    "left": "seaweed",
+    "operator": "-",
+    "right": "algae",
+    "result": "marine plant"
+  },
+  {
+    "left": "algae research",
+    "operator": "-",
+    "right": "research",
+    "result": "algae"
+  },
+  {
+    "left": "algae research",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "marine biotechnology"
+  },
+  {
+    "left": "coral reef",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "underwater ecosystem"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "coral reef"
+  },
+  {
+    "left": "marine psychology",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "oceanic mind"
+  },
+  {
+    "left": "marine psychology",
+    "operator": "-",
+    "right": "oceanic research",
+    "result": "behavioral ecology"
+  },
+  {
+    "left": "marine biology",
+    "operator": "+",
+    "right": "marine psychology",
+    "result": "oceanic research"
+  },
+  {
+    "left": "phycology",
+    "operator": "+",
+    "right": "oceanography",
+    "result": "marine psychology"
+  },
+  {
+    "left": "phycology",
+    "operator": "+",
+    "right": "vegetable",
+    "result": "psychological effects of food"
+  },
+  {
+    "left": "algae research",
+    "operator": "+",
+    "right": "vegetable",
+    "result": "sustainable farming"
+  },
+  {
+    "left": "phycology",
+    "operator": "+",
+    "right": "forest",
+    "result": "nature therapy"
+  },
+  {
+    "left": "algae research",
+    "operator": "+",
+    "right": "forest",
+    "result": "ecosystem study"
+  },
+  {
+    "left": "phycology",
+    "operator": "-",
+    "right": "seaweed",
+    "result": "mindfulness"
+  },
+  {
+    "left": "phycology",
+    "operator": "+",
+    "right": "phycology",
+    "result": "mental health"
+  },
+  {
+    "left": "algae research",
+    "operator": "+",
+    "right": "algae research",
+    "result": "phycology"
+  },
+  {
+    "left": "marine biology",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "algae research"
+  },
+  {
+    "left": "seaweed",
+    "operator": "+",
+    "right": "seaweed",
+    "result": "sushi"
+  },
+  {
+    "left": "marine biology",
+    "operator": "+",
+    "right": "plant",
+    "result": "seaweed"
+  },
+  {
+    "left": "ecosystem",
+    "operator": "+",
+    "right": "forest",
+    "result": "biodiversity"
+  },
+  {
+    "left": "marine science",
+    "operator": "+",
+    "right": "forest",
+    "result": "ecosystem"
+  },
+  {
+    "left": "ocean study",
+    "operator": "+",
+    "right": "forest",
+    "result": "environmental science"
+  },
+  {
+    "left": "marine science",
+    "operator": "-",
+    "right": "marine biology",
+    "result": "ocean study"
+  },
+  {
+    "left": "oceanography",
+    "operator": "+",
+    "right": "marine biology",
+    "result": "marine science"
+  },
+  {
+    "left": "biology",
+    "operator": "-",
+    "right": "marine biology",
+    "result": "terrestrial biology"
+  },
+  {
+    "left": "oceanography",
+    "operator": "-",
+    "right": "marine biology",
+    "result": "earth science"
+  },
+  {
+    "left": "microscopy",
+    "operator": "+",
+    "right": "oceanography",
+    "result": "marine biology"
+  },
+  {
+    "left": "animal",
+    "operator": "-",
+    "right": "b",
+    "result": "mammal"
+  },
+  {
+    "left": "et",
+    "operator": "-",
+    "right": "animal",
+    "result": "vegetable"
+  },
+  {
+    "left": "forest",
+    "operator": "-",
+    "right": "dog",
+    "result": "wilderness"
+  },
+  {
+    "left": "deep sea",
+    "operator": "+",
+    "right": "fish",
+    "result": "oceanography"
+  },
+  {
+    "left": "pressure",
+    "operator": "+",
+    "right": "fish",
+    "result": "deep sea"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "construction worker",
+    "result": "building trades"
+  },
+  {
+    "left": "person",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "mason"
+  },
+  {
+    "left": "person",
+    "operator": "+",
+    "right": "person",
+    "result": "conversation"
+  },
+  {
+    "left": "individual",
+    "operator": "+",
+    "right": "individual",
+    "result": "person"
+  },
+  {
+    "left": "community",
+    "operator": "+",
+    "right": "society",
+    "result": "culture"
+  },
+  {
+    "left": "society",
+    "operator": "-",
+    "right": "community",
+    "result": "individual"
+  },
+  {
+    "left": "society",
+    "operator": "+",
+    "right": "bricklayer",
+    "result": "infrastructure"
+  },
+  {
+    "left": "individualism",
+    "operator": "+",
+    "right": "human",
+    "result": "society"
+  },
+  {
+    "left": "colleague",
+    "operator": "+",
+    "right": "passion",
+    "result": "teamwork"
+  },
+  {
+    "left": "passion",
+    "operator": "-",
+    "right": "colleague",
+    "result": "ambition"
+  },
+  {
+    "left": "career",
+    "operator": "-",
+    "right": "job",
+    "result": "passion"
+  },
+  {
+    "left": "workplace",
+    "operator": "-",
+    "right": "career",
+    "result": "job satisfaction"
+  },
+  {
+    "left": "workplace",
+    "operator": "-",
+    "right": "job",
+    "result": "career"
+  },
+  {
+    "left": "work",
+    "operator": "+",
+    "right": "office",
+    "result": "job"
+  },
+  {
+    "left": "hard work",
+    "operator": "+",
+    "right": "workplace",
+    "result": "success"
+  },
+  {
+    "left": "office",
+    "operator": "+",
+    "right": "office",
+    "result": "work"
+  },
+  {
+    "left": "workplace",
+    "operator": "+",
+    "right": "colleague",
+    "result": "office"
+  },
+  {
+    "left": "colleague",
+    "operator": "+",
+    "right": "colleague",
+    "result": "workplace"
+  },
+  {
+    "left": "worker",
+    "operator": "+",
+    "right": "worker",
+    "result": "colleague"
+  },
+  {
+    "left": "bricklayer",
+    "operator": "-",
+    "right": "worker",
+    "result": "builder"
+  },
+  {
+    "left": "masonry",
+    "operator": "+",
+    "right": "worker",
+    "result": "bricklayer"
+  },
+  {
+    "left": "stonework",
+    "operator": "+",
+    "right": "worker",
+    "result": "stonemasonry"
+  },
+  {
+    "left": "stone",
+    "operator": "+",
+    "right": "worker",
+    "result": "sculptor"
+  },
+  {
+    "left": "construction worker",
+    "operator": "-",
+    "right": "construction",
+    "result": "worker"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "human",
+    "result": "construction worker"
+  },
+  {
+    "left": "community",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "shared values"
+  },
+  {
+    "left": "control",
+    "operator": "-",
+    "right": "fraternalism",
+    "result": "authoritarianism"
+  },
+  {
+    "left": "independence",
+    "operator": "-",
+    "right": "freedom",
+    "result": "autonomy"
+  },
+  {
+    "left": "individualism",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "selfreliance"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "liberty",
+    "result": "equality"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "oppression",
+    "result": "liberty"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "independence",
+    "result": "selfgovernance"
+  },
+  {
+    "left": "liberation",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "independence"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "liberation",
+    "result": "oppression"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "ancient mystery",
+    "result": "modern knowledge"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "history",
+    "result": "ancient architecture"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "mystery",
+    "result": "construction puzzle"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "ancient mystery",
+    "result": "modern architecture"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "country",
+    "result": "city"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "brick road",
+    "result": "paved pathway"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "pathway",
+    "result": "brick road"
+  },
+  {
+    "left": "obstacle",
+    "operator": "-",
+    "right": "masonry",
+    "result": "pathway"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "community",
+    "result": "individualism"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "brick wall",
+    "result": "hidden knowledge"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "brick wall",
+    "result": "open space"
+  },
+  {
+    "left": "masonry",
+    "operator": "+",
+    "right": "obstacle",
+    "result": "brick wall"
+  },
+  {
+    "left": "revelation",
+    "operator": "+",
+    "right": "obstacle",
+    "result": "breakthrough"
+  },
+  {
+    "left": "masonic order",
+    "operator": "-",
+    "right": "freedom",
+    "result": "control"
+  },
+  {
+    "left": "makeup",
+    "operator": "+",
+    "right": "secret society",
+    "result": "cosmetic cult"
+  },
+  {
+    "left": "revelation",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "conspiracy theory"
+  },
+  {
+    "left": "preservation",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "historical society"
+  },
+  {
+    "left": "foundation",
+    "operator": "+",
+    "right": "foundation",
+    "result": "makeup"
+  },
+  {
+    "left": "stonework",
+    "operator": "+",
+    "right": "metaphor",
+    "result": "foundation"
+  },
+  {
+    "left": "metaphor",
+    "operator": "+",
+    "right": "masonry",
+    "result": "building ideas"
+  },
+  {
+    "left": "revelation",
+    "operator": "+",
+    "right": "metaphor",
+    "result": "epiphany"
+  },
+  {
+    "left": "cultural heritage",
+    "operator": "+",
+    "right": "cultural heritage",
+    "result": "preservation"
+  },
+  {
+    "left": "cultural anthropology",
+    "operator": "+",
+    "right": "tradition",
+    "result": "cultural heritage"
+  },
+  {
+    "left": "esoteric knowledge",
+    "operator": "+",
+    "right": "hidden meanings",
+    "result": "mysticism"
+  },
+  {
+    "left": "ritual community",
+    "operator": "+",
+    "right": "hidden meanings",
+    "result": "cultural anthropology"
+  },
+  {
+    "left": "ritual",
+    "operator": "+",
+    "right": "ritual",
+    "result": "tradition"
+  },
+  {
+    "left": "rituals",
+    "operator": "+",
+    "right": "rituals",
+    "result": "traditions"
+  },
+  {
+    "left": "masonic rituals",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "secret knowledge"
+  },
+  {
+    "left": "masonic lodge",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "ritual community"
+  },
+  {
+    "left": "masonic tradition",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "rituals"
+  },
+  {
+    "left": "masonic temple",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "ritual"
+  },
+  {
+    "left": "secret society",
+    "operator": "-",
+    "right": "masonic symbolism",
+    "result": "hidden meanings"
+  },
+  {
+    "left": "masonic tradition",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "masonic rituals"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "masonic symbolism",
+    "result": "esotericism"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "masonic architecture",
+    "result": "masonic lodge"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "masonic symbol",
+    "result": "masonic tradition"
+  },
+  {
+    "left": "traditional values",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "fraternalism"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "progressive ideas",
+    "result": "traditional values"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "progressive ideas"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "creativity",
+    "result": "innovation"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "architecture",
+    "result": "masonic temple"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "masonic symbol",
+    "result": "architecture"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "masonic order",
+    "result": "construction principles"
+  },
+  {
+    "left": "masonic art",
+    "operator": "-",
+    "right": "mystery",
+    "result": "revelation"
+  },
+  {
+    "left": "art",
+    "operator": "-",
+    "right": "masonic art",
+    "result": "creativity"
+  },
+  {
+    "left": "secret society",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "conspiracy"
+  },
+  {
+    "left": "craftsmanship",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "masonic art"
+  },
+  {
+    "left": "symbol of peace",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "harmony"
+  },
+  {
+    "left": "symbol",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "masonic emblem"
+  },
+  {
+    "left": "symbol of peace",
+    "operator": "-",
+    "right": "peace",
+    "result": "symbol"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "breath",
+    "result": "silence"
+  },
+  {
+    "left": "japanese crane",
+    "operator": "-",
+    "right": "japan",
+    "result": "symbol of peace"
+  },
+  {
+    "left": "avian species",
+    "operator": "+",
+    "right": "japan",
+    "result": "japanese crane"
+  },
+  {
+    "left": "magpie",
+    "operator": "+",
+    "right": "bird",
+    "result": "avian species"
+  },
+  {
+    "left": "monochrome",
+    "operator": "+",
+    "right": "bird",
+    "result": "magpie"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "colorful",
+    "result": "monochrome"
+  },
+  {
+    "left": "beautiful",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "colorful"
+  },
+  {
+    "left": "sunshine",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "beautiful"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "rain",
+    "result": "sunshine"
+  },
+  {
+    "left": "masonic symbolism",
+    "operator": "-",
+    "right": "masonic symbol",
+    "result": "masonic meaning"
+  },
+  {
+    "left": "masonic symbol",
+    "operator": "-",
+    "right": "masonic symbolism",
+    "result": "meaning"
+  },
+  {
+    "left": "sisterhood",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "sorority"
+  },
+  {
+    "left": "brotherhood",
+    "operator": "+",
+    "right": "fraternity",
+    "result": "sisterhood"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "brotherhood",
+    "result": "fraternity"
+  },
+  {
+    "left": "symbolism",
+    "operator": "+",
+    "right": "symbolism",
+    "result": "metaphor"
+  },
+  {
+    "left": "symbolism",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "masonic symbolism"
+  },
+  {
+    "left": "dog",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "symbolism"
+  },
+  {
+    "left": "transparency",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "openness"
+  },
+  {
+    "left": "mystery",
+    "operator": "-",
+    "right": "transparency",
+    "result": "enigma"
+  },
+  {
+    "left": "brotherhood",
+    "operator": "-",
+    "right": "masonic order",
+    "result": "community"
+  },
+  {
+    "left": "masonic order",
+    "operator": "-",
+    "right": "secrecy",
+    "result": "transparency"
+  },
+  {
+    "left": "masonic order",
+    "operator": "-",
+    "right": "a",
+    "result": "brotherhood"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "stonework",
+    "result": "esoteric knowledge"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "stonework",
+    "result": "masonic architecture"
+  },
+  {
+    "left": "freedom",
+    "operator": "-",
+    "right": "freemasonry",
+    "result": "liberation"
+  },
+  {
+    "left": "country",
+    "operator": "-",
+    "right": "freedom",
+    "result": "sovereignty"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "freedom",
+    "result": "secrecy"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "-",
+    "right": "masonry",
+    "result": "freedom"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "stone",
+    "result": "masonic symbol"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "masonic order",
+    "result": "secret society"
+  },
+  {
+    "left": "freemasonry",
+    "operator": "+",
+    "right": "freemasonry",
+    "result": "masonic order"
+  },
+  {
+    "left": "masonry",
+    "operator": "+",
+    "right": "mystery",
+    "result": "freemasonry"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "masonry",
+    "result": "emptiness"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "masonry",
+    "result": "cavity wall"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "masonry",
+    "result": "void"
+  },
+  {
+    "left": "brick",
+    "operator": "-",
+    "right": "masonry",
+    "result": "structure"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "stonework",
+    "result": "craftsmanship"
+  },
+  {
+    "left": "stonework",
+    "operator": "-",
+    "right": "masonry",
+    "result": "construction art"
+  },
+  {
+    "left": "masonry",
+    "operator": "-",
+    "right": "at",
+    "result": "stonework"
+  },
+  {
+    "left": "brick",
+    "operator": "+",
+    "right": "pebble",
+    "result": "masonry"
+  },
+  {
+    "left": "united states of america",
+    "operator": "+",
+    "right": "brick",
+    "result": "washington monument"
+  },
+  {
+    "left": "construction",
+    "operator": "+",
+    "right": "stone",
+    "result": "castle"
+  },
+  {
+    "left": "wall",
+    "operator": "+",
+    "right": "human",
+    "result": "obstacle"
+  },
+  {
+    "left": "building",
+    "operator": "+",
+    "right": "brick",
+    "result": "house"
+  },
+  {
+    "left": "building",
+    "operator": "+",
+    "right": "stone",
+    "result": "construction"
+  },
+  {
+    "left": "brick",
+    "operator": "+",
+    "right": "stone",
+    "result": "building"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "mud",
+    "result": "brick"
+  },
+  {
+    "left": "stonehenge",
+    "operator": "+",
+    "right": "united states of america",
+    "result": "historical monument"
+  },
+  {
+    "left": "mount rushmore",
+    "operator": "+",
+    "right": "statue of liberty",
+    "result": "national monuments"
+  },
+  {
+    "left": "ancient monument",
+    "operator": "+",
+    "right": "united states of america",
+    "result": "mount rushmore"
+  },
+  {
+    "left": "landmark",
+    "operator": "+",
+    "right": "united states of america",
+    "result": "statue of liberty"
+  },
+  {
+    "left": "united states of america",
+    "operator": "+",
+    "right": "mystery",
+    "result": "area 51"
+  },
+  {
+    "left": "state",
+    "operator": "+",
+    "right": "state",
+    "result": "united states of america"
+  },
+  {
+    "left": "a nation",
+    "operator": "-",
+    "right": "a",
+    "result": "state"
+  },
+  {
+    "left": "a",
+    "operator": "-",
+    "right": "japan",
+    "result": "a nation"
+  },
+  {
+    "left": "variety of dishes",
+    "operator": "-",
+    "right": "japanese cuisine",
+    "result": "fusion cuisine"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "land",
+    "result": "continent"
+  },
+  {
+    "left": "egypt",
+    "operator": "+",
+    "right": "sphinx",
+    "result": "pyramid"
+  },
+  {
+    "left": "pyramids",
+    "operator": "+",
+    "right": "pyramids",
+    "result": "egypt"
+  },
+  {
+    "left": "history",
+    "operator": "+",
+    "right": "stone",
+    "result": "pyramids"
+  },
+  {
+    "left": "archaeology",
+    "operator": "+",
+    "right": "archaeology",
+    "result": "history"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "ancient mystery",
+    "result": "archaeology"
+  },
+  {
+    "left": "stone",
+    "operator": "-",
+    "right": "sphinx",
+    "result": "ancient mystery"
+  },
+  {
+    "left": "the answer",
+    "operator": "+",
+    "right": "stone",
+    "result": "pizza"
+  },
+  {
+    "left": "riddle",
+    "operator": "+",
+    "right": "sphinx",
+    "result": "the answer"
+  },
+  {
+    "left": "mystery",
+    "operator": "+",
+    "right": "human",
+    "result": "detective"
+  },
+  {
+    "left": "mystery",
+    "operator": "+",
+    "right": "sphinx",
+    "result": "riddle"
+  },
+  {
+    "left": "mystery",
+    "operator": "+",
+    "right": "stone",
+    "result": "sphinx"
+  },
+  {
+    "left": "stonehenge",
+    "operator": "+",
+    "right": "stonehenge",
+    "result": "mystery"
+  },
+  {
+    "left": "pebble",
+    "operator": "+",
+    "right": "pebble",
+    "result": "beach"
+  },
+  {
+    "left": "stone",
+    "operator": "+",
+    "right": "boulder",
+    "result": "pebble"
+  },
+  {
+    "left": "stonehenge",
+    "operator": "+",
+    "right": "human",
+    "result": "ancient monument"
+  },
+  {
+    "left": "landmark",
+    "operator": "+",
+    "right": "stone",
+    "result": "stonehenge"
+  },
+  {
+    "left": "landmark",
+    "operator": "+",
+    "right": "human",
+    "result": "tourist"
+  },
+  {
+    "left": "statue",
+    "operator": "+",
+    "right": "monument",
+    "result": "landmark"
+  },
+  {
+    "left": "statue",
+    "operator": "+",
+    "right": "sculpture",
+    "result": "art"
+  },
+  {
+    "left": "mountain",
+    "operator": "+",
+    "right": "mountain",
+    "result": "mountain range"
+  },
+  {
+    "left": "mountain",
+    "operator": "+",
+    "right": "human",
+    "result": "climbing"
+  },
+  {
+    "left": "boulder",
+    "operator": "+",
+    "right": "nature",
+    "result": "mountain"
+  },
+  {
+    "left": "stone",
+    "operator": "-",
+    "right": "human",
+    "result": "nature"
+  },
+  {
+    "left": "human",
+    "operator": "-",
+    "right": "stone",
+    "result": "flesh"
+  },
+  {
+    "left": "boulder",
+    "operator": "+",
+    "right": "human",
+    "result": "rock climbing"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "stone",
+    "result": "boulder"
+  },
+  {
+    "left": "sculpture",
+    "operator": "-",
+    "right": "statue",
+    "result": "artwork"
+  },
+  {
+    "left": "statue",
+    "operator": "-",
+    "right": "sculpture",
+    "result": "monument"
+  },
+  {
+    "left": "statue",
+    "operator": "+",
+    "right": "human",
+    "result": "sculpture"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "stone",
+    "result": "statue"
+  },
+  {
+    "left": "glowing",
+    "operator": "+",
+    "right": "ash",
+    "result": "ember"
+  },
+  {
+    "left": "campfire",
+    "operator": "-",
+    "right": "fire",
+    "result": "camp"
+  },
+  {
+    "left": "campfire treat",
+    "operator": "-",
+    "right": "embers",
+    "result": "smores"
+  },
+  {
+    "left": "smores",
+    "operator": "-",
+    "right": "embers",
+    "result": "campfire treat"
+  },
+  {
+    "left": "campfire",
+    "operator": "+",
+    "right": "embers",
+    "result": "smores"
+  },
+  {
+    "left": "glowing ashes",
+    "operator": "-",
+    "right": "ashes",
+    "result": "glowing"
+  },
+  {
+    "left": "embers",
+    "operator": "+",
+    "right": "mars",
+    "result": "red planet"
+  },
+  {
+    "left": "planet",
+    "operator": "+",
+    "right": "embers",
+    "result": "mars"
+  },
+  {
+    "left": "cozy",
+    "operator": "-",
+    "right": "warmth",
+    "result": "comfy"
+  },
+  {
+    "left": "firewood",
+    "operator": "-",
+    "right": "grill",
+    "result": "cooked meal"
+  },
+  {
+    "left": "heat",
+    "operator": "-",
+    "right": "energy",
+    "result": "thermal"
+  },
+  {
+    "left": "firewood",
+    "operator": "-",
+    "right": "heat",
+    "result": "cold"
+  },
+  {
+    "left": "heat",
+    "operator": "-",
+    "right": "firewood",
+    "result": "energy"
+  },
+  {
+    "left": "wood chips",
+    "operator": "-",
+    "right": "embers",
+    "result": "smoldering fire"
+  },
+  {
+    "left": "lumber",
+    "operator": "-",
+    "right": "firewood",
+    "result": "wood chips"
+  },
+  {
+    "left": "timber",
+    "operator": "-",
+    "right": "firewood",
+    "result": "lumber"
+  },
+  {
+    "left": "firewood",
+    "operator": "-",
+    "right": "timber",
+    "result": "kindling"
+  },
+  {
+    "left": "logs",
+    "operator": "-",
+    "right": "firewood",
+    "result": "timber"
+  },
+  {
+    "left": "firewood",
+    "operator": "-",
+    "right": "bonfire",
+    "result": "logs"
+  },
+  {
+    "left": "campfire",
+    "operator": "-",
+    "right": "bonfire",
+    "result": "forest fire"
+  },
+  {
+    "left": "firewood",
+    "operator": "+",
+    "right": "firewood",
+    "result": "bonfire"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "tree",
+    "result": "firewood"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "embers",
+    "result": "fruit salad"
+  },
+  {
+    "left": "grill marks",
+    "operator": "-",
+    "right": "grill",
+    "result": "charred surface"
+  },
+  {
+    "left": "grill",
+    "operator": "+",
+    "right": "grill marks",
+    "result": "perfectly grilled steak"
+  },
+  {
+    "left": "grill",
+    "operator": "-",
+    "right": "embers",
+    "result": "cooking fire"
+  },
+  {
+    "left": "barbecue",
+    "operator": "-",
+    "right": "embers",
+    "result": "grill"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "barbecue",
+    "result": "grill marks"
+  },
+  {
+    "left": "coldness",
+    "operator": "-",
+    "right": "embers",
+    "result": "absence of warmth"
+  },
+  {
+    "left": "temperature",
+    "operator": "-",
+    "right": "cozy warmth",
+    "result": "coldness"
+  },
+  {
+    "left": "cozy warmth",
+    "operator": "-",
+    "right": "temperature",
+    "result": "comfort"
+  },
+  {
+    "left": "fireplace",
+    "operator": "-",
+    "right": "temperature",
+    "result": "cozy warmth"
+  },
+  {
+    "left": "heat",
+    "operator": "+",
+    "right": "heat",
+    "result": "temperature"
+  },
+  {
+    "left": "smoky flavor",
+    "operator": "-",
+    "right": "embers",
+    "result": "grilled essence"
+  },
+  {
+    "left": "warmth",
+    "operator": "-",
+    "right": "embers",
+    "result": "heat"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "smoky flavor",
+    "result": "grilled taste"
+  },
+  {
+    "left": "empty hearth",
+    "operator": "-",
+    "right": "embers",
+    "result": "cold fireplace"
+  },
+  {
+    "left": "remnants",
+    "operator": "+",
+    "right": "cold ashes",
+    "result": "cremation"
+  },
+  {
+    "left": "campfire",
+    "operator": "-",
+    "right": "quiet fire",
+    "result": "loud gathering"
+  },
+  {
+    "left": "wildfire",
+    "operator": "-",
+    "right": "quiet fire",
+    "result": "calm nature"
+  },
+  {
+    "left": "fire pit",
+    "operator": "-",
+    "right": "flames",
+    "result": "hole"
+  },
+  {
+    "left": "fire pit",
+    "operator": "-",
+    "right": "embers",
+    "result": "flames"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "explosion",
+    "result": "smoldering ashes"
+  },
+  {
+    "left": "pressure",
+    "operator": "+",
+    "right": "embers",
+    "result": "explosion"
+  },
+  {
+    "left": "embers",
+    "operator": "+",
+    "right": "rain",
+    "result": "steam"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "fireplace",
+    "result": "chimney"
+  },
+  {
+    "left": "chill",
+    "operator": "+",
+    "right": "embers",
+    "result": "cozy"
+  },
+  {
+    "left": "chill",
+    "operator": "+",
+    "right": "chill",
+    "result": "relax"
+  },
+  {
+    "left": "fireplace",
+    "operator": "+",
+    "right": "chill",
+    "result": "cozy evening"
+  },
+  {
+    "left": "cold room",
+    "operator": "+",
+    "right": "cold room",
+    "result": "icebox"
+  },
+  {
+    "left": "invisibility",
+    "operator": "+",
+    "right": "invisibility",
+    "result": "magic"
+  },
+  {
+    "left": "invisible warmth",
+    "operator": "-",
+    "right": "warm glow",
+    "result": "invisibility"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "invisible warmth",
+    "result": "visible fire"
+  },
+  {
+    "left": "smokeless fire",
+    "operator": "-",
+    "right": "embers",
+    "result": "invisible warmth"
+  },
+  {
+    "left": "fireplace",
+    "operator": "-",
+    "right": "embers",
+    "result": "empty hearth"
+  },
+  {
+    "left": "smoky flavor",
+    "operator": "-",
+    "right": "inferno",
+    "result": "smokeless fire"
+  },
+  {
+    "left": "fireplace",
+    "operator": "+",
+    "right": "candle",
+    "result": "cozy ambiance"
+  },
+  {
+    "left": "fireplace",
+    "operator": "-",
+    "right": "candle",
+    "result": "warm glow"
+  },
+  {
+    "left": "candle",
+    "operator": "-",
+    "right": "fireplace",
+    "result": "warm ambiance"
+  },
+  {
+    "left": "fireplace",
+    "operator": "-",
+    "right": "warmth",
+    "result": "cold room"
+  },
+  {
+    "left": "fireplace",
+    "operator": "-",
+    "right": "dust",
+    "result": "clean hearth"
+  },
+  {
+    "left": "wind",
+    "operator": "-",
+    "right": "warmth",
+    "result": "chill"
+  },
+  {
+    "left": "extinguished fire",
+    "operator": "+",
+    "right": "fireplace",
+    "result": "cozy atmosphere"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "cold ashes",
+    "result": "warmth"
+  },
+  {
+    "left": "cold ashes",
+    "operator": "-",
+    "right": "embers",
+    "result": "extinguished fire"
+  },
+  {
+    "left": "cold ashes",
+    "operator": "+",
+    "right": "cold ashes",
+    "result": "remnants"
+  },
+  {
+    "left": "fires absence",
+    "operator": "+",
+    "right": "embers",
+    "result": "cold ashes"
+  },
+  {
+    "left": "atmosphere",
+    "operator": "-",
+    "right": "embers",
+    "result": "firestorm"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "atmosphere",
+    "result": "fires absence"
+  },
+  {
+    "left": "air",
+    "operator": "-",
+    "right": "embers",
+    "result": "atmosphere"
+  },
+  {
+    "left": "wind",
+    "operator": "-",
+    "right": "embers",
+    "result": "air"
+  },
+  {
+    "left": "rebirth",
+    "operator": "-",
+    "right": "embers",
+    "result": "renewal"
+  },
+  {
+    "left": "embers",
+    "operator": "+",
+    "right": "phoenix",
+    "result": "rebirth"
+  },
+  {
+    "left": "glowing ashes",
+    "operator": "+",
+    "right": "glowing ashes",
+    "result": "phoenix"
+  },
+  {
+    "left": "smoky abyss",
+    "operator": "+",
+    "right": "smoky abyss",
+    "result": "darkness"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "smoky abyss",
+    "result": "fireless void"
+  },
+  {
+    "left": "smoky abyss",
+    "operator": "-",
+    "right": "embers",
+    "result": "dark warmth"
+  },
+  {
+    "left": "silence",
+    "operator": "-",
+    "right": "embers",
+    "result": "quiet fire"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "silence",
+    "result": "crackling quiet"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "embers",
+    "result": "silence"
+  },
+  {
+    "left": "embers",
+    "operator": "+",
+    "right": "void",
+    "result": "fireplace"
+  },
+  {
+    "left": "ashes",
+    "operator": "-",
+    "right": "embers",
+    "result": "dust"
+  },
+  {
+    "left": "ashes",
+    "operator": "+",
+    "right": "ashes",
+    "result": "ring around the rosie"
+  },
+  {
+    "left": "fire remnants",
+    "operator": "-",
+    "right": "embers",
+    "result": "ashes"
+  },
+  {
+    "left": "fire remnants",
+    "operator": "+",
+    "right": "embers",
+    "result": "smoldering"
+  },
+  {
+    "left": "ash",
+    "operator": "-",
+    "right": "embers",
+    "result": "fire remnants"
+  },
+  {
+    "left": "ash",
+    "operator": "+",
+    "right": "embers",
+    "result": "volcano"
+  },
+  {
+    "left": "charcoal",
+    "operator": "-",
+    "right": "embers",
+    "result": "ash"
+  },
+  {
+    "left": "embers",
+    "operator": "-",
+    "right": "fire",
+    "result": "glowing ashes"
+  },
+  {
+    "left": "inferno",
+    "operator": "-",
+    "right": "charcoal",
+    "result": "smoky abyss"
+  },
+  {
+    "left": "charcoal",
+    "operator": "-",
+    "right": "inferno",
+    "result": "embers"
+  },
+  {
+    "left": "charcoal",
+    "operator": "-",
+    "right": "burnt wood",
+    "result": "smoky flavor"
+  },
+  {
+    "left": "smoke",
+    "operator": "+",
+    "right": "smoke",
+    "result": "air pollution"
+  },
+  {
+    "left": "smoke",
+    "operator": "-",
+    "right": "smoke",
+    "result": "void"
+  },
+  {
+    "left": "charcoal",
+    "operator": "-",
+    "right": "flame",
+    "result": "smoke"
+  },
+  {
+    "left": "flame",
+    "operator": "-",
+    "right": "charcoal",
+    "result": "fire pit"
+  },
+  {
+    "left": "flame",
+    "operator": "-",
+    "right": "forest",
+    "result": "wildfire"
+  },
+  {
+    "left": "charcoal",
+    "operator": "+",
+    "right": "burnt wood",
+    "result": "barbecue"
+  },
+  {
+    "left": "burnt wood",
+    "operator": "+",
+    "right": "burnt wood",
+    "result": "charcoal"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "flame",
+    "result": "burnt wood"
+  },
+  {
+    "left": "wood",
+    "operator": "+",
+    "right": "flame",
+    "result": "campfire"
+  },
+  {
+    "left": "flame",
+    "operator": "-",
+    "right": "wind",
+    "result": "candle"
+  },
+  {
+    "left": "fire",
+    "operator": "-",
+    "right": "wind",
+    "result": "flame"
+  },
+  {
+    "left": "seed",
+    "operator": "-",
+    "right": "forest",
+    "result": "clearing"
+  },
+  {
+    "left": "seed",
+    "operator": "+",
+    "right": "tree",
+    "result": "forest"
+  },
+  {
+    "left": "historical instrument maker",
+    "operator": "+",
+    "right": "keyboard",
+    "result": "harpsichord"
+  },
+  {
+    "left": "luthier",
+    "operator": "+",
+    "right": "ancient",
+    "result": "historical instrument maker"
+  },
+  {
+    "left": "ancient",
+    "operator": "-",
+    "right": "piano",
+    "result": "music history"
+  },
+  {
+    "left": "ancient music",
+    "operator": "-",
+    "right": "music",
+    "result": "ancient"
+  },
+  {
+    "left": "bass clef",
+    "operator": "+",
+    "right": "pianist",
+    "result": "music performance"
+  },
+  {
+    "left": "musical keyboard",
+    "operator": "-",
+    "right": "treble",
+    "result": "bass clef"
+  },
+  {
+    "left": "piano craftsmanship",
+    "operator": "+",
+    "right": "luthier",
+    "result": "musical instrument making"
+  },
+  {
+    "left": "piano maker",
+    "operator": "+",
+    "right": "piano maker",
+    "result": "piano craftsmanship"
+  },
+  {
+    "left": "luthier",
+    "operator": "+",
+    "right": "piano",
+    "result": "piano maker"
+  },
+  {
+    "left": "computer",
+    "operator": "-",
+    "right": "instrument",
+    "result": "digital symphony"
+  },
+  {
+    "left": "drum machine",
+    "operator": "+",
+    "right": "percussion",
+    "result": "beat production"
+  },
+  {
+    "left": "percussion",
+    "operator": "+",
+    "right": "musical keyboard",
+    "result": "drum machine"
+  },
+  {
+    "left": "string instrument",
+    "operator": "-",
+    "right": "piano",
+    "result": "orchestral music"
+  },
+  {
+    "left": "science",
+    "operator": "+",
+    "right": "piano",
+    "result": "music theory"
+  },
+  {
+    "left": "biology",
+    "operator": "+",
+    "right": "piano",
+    "result": "musical therapy"
+  },
+  {
+    "left": "fish",
+    "operator": "+",
+    "right": "piano",
+    "result": "musical fish"
+  },
+  {
+    "left": "concert",
+    "operator": "+",
+    "right": "piano",
+    "result": "pianist"
+  },
+  {
+    "left": "classical music",
+    "operator": "+",
+    "right": "traditional instruments",
+    "result": "orchestral performance"
+  },
+  {
+    "left": "piano",
+    "operator": "-",
+    "right": "traditional instruments",
+    "result": "modern music"
+  },
+  {
+    "left": "ambient music",
+    "operator": "-",
+    "right": "piano",
+    "result": "nature sounds"
+  },
+  {
+    "left": "musical genre",
+    "operator": "-",
+    "right": "piano",
+    "result": "vocal style"
+  },
+  {
+    "left": "piano",
+    "operator": "+",
+    "right": "chillwave",
+    "result": "ambient music"
+  },
+  {
+    "left": "synthwave",
+    "operator": "+",
+    "right": "piano",
+    "result": "chillwave"
+  },
+  {
+    "left": "fusion music",
+    "operator": "+",
+    "right": "keyboard",
+    "result": "synthwave"
+  },
+  {
+    "left": "folk fusion",
+    "operator": "+",
+    "right": "keyboard",
+    "result": "musical genre"
+  },
+  {
+    "left": "folk music",
+    "operator": "+",
+    "right": "musical keyboard",
+    "result": "folk fusion"
+  },
+  {
+    "left": "fusion music",
+    "operator": "+",
+    "right": "traditional instruments",
+    "result": "world music"
+  },
+  {
+    "left": "folk music",
+    "operator": "+",
+    "right": "piano",
+    "result": "folk ballad"
+  },
+  {
+    "left": "crafted instrument",
+    "operator": "+",
+    "right": "traditional instruments",
+    "result": "folk music"
+  },
+  {
+    "left": "piano",
+    "operator": "-",
+    "right": "ancient music",
+    "result": "modern composition"
+  },
+  {
+    "left": "ancient music",
+    "operator": "-",
+    "right": "piano",
+    "result": "traditional instruments"
+  },
+  {
+    "left": "classical music",
+    "operator": "+",
+    "right": "piano",
+    "result": "sonata"
+  },
+  {
+    "left": "bass",
+    "operator": "-",
+    "right": "piano",
+    "result": "orchestral harmony"
+  },
+  {
+    "left": "piano",
+    "operator": "+",
+    "right": "orchestra",
+    "result": "concerto"
+  },
+  {
+    "left": "piano",
+    "operator": "+",
+    "right": "wooden instrument",
+    "result": "musical harmony"
+  },
+  {
+    "left": "piano",
+    "operator": "+",
+    "right": "reflection",
+    "result": "music therapy"
+  },
+  {
+    "left": "musical keyboard",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "piano"
+  },
+  {
+    "left": "keyboard",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "musical keyboard"
+  },
+  {
+    "left": "workstation",
+    "operator": "+",
+    "right": "software",
+    "result": "productivity"
+  },
+  {
+    "left": "hardware",
+    "operator": "+",
+    "right": "office technology",
+    "result": "computer"
+  },
+  {
+    "left": "office setup",
+    "operator": "+",
+    "right": "computers",
+    "result": "workspace"
+  },
+  {
+    "left": "workspace essentials",
+    "operator": "+",
+    "right": "computers",
+    "result": "office setup"
+  },
+  {
+    "left": "hardware",
+    "operator": "+",
+    "right": "office",
+    "result": "office supplies"
+  },
+  {
+    "left": "office equipment",
+    "operator": "+",
+    "right": "technology",
+    "result": "computers"
+  },
+  {
+    "left": "balance",
+    "operator": "+",
+    "right": "travel advice",
+    "result": "travel budget"
+  },
+  {
+    "left": "woods",
+    "operator": "+",
+    "right": "forest",
+    "result": "trees"
+  },
+  {
+    "left": "forest",
+    "operator": "+",
+    "right": "tree",
+    "result": "woods"
+  },
+  {
+    "left": "tree",
+    "operator": "+",
+    "right": "tree",
+    "result": "forest"
+  },
+  {
+    "left": "advice",
+    "operator": "+",
+    "right": "travel vlog",
+    "result": "travel tips"
+  },
+  {
+    "left": "emergency response",
+    "operator": "+",
+    "right": "ink",
+    "result": "printer"
+  },
+  {
+    "left": "ashes",
+    "operator": "+",
+    "right": "octopus",
+    "result": "ink"
+  },
+  {
+    "left": "fish",
+    "operator": "+",
+    "right": "earth",
+    "result": "octopus"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "fire",
+    "result": "ashes"
+  },
+  {
+    "left": "firefighting",
+    "operator": "+",
+    "right": "wildfire",
+    "result": "emergency response"
+  },
+  {
+    "left": "wildfire",
+    "operator": "+",
+    "right": "water",
+    "result": "firefighting"
+  },
+  {
+    "left": "viral video",
+    "operator": "+",
+    "right": "impossible dream",
+    "result": "inspiration"
+  },
+  {
+    "left": "memes",
+    "operator": "+",
+    "right": "double rainbow",
+    "result": "viral video"
+  },
+  {
+    "left": "double rainbow",
+    "operator": "+",
+    "right": "double rainbow",
+    "result": "memes"
+  },
+  {
+    "left": "artistic inspiration",
+    "operator": "+",
+    "right": "planet",
+    "result": "space art"
+  },
+  {
+    "left": "pastry",
+    "operator": "+",
+    "right": "dessert",
+    "result": "bakery"
+  },
+  {
+    "left": "cake",
+    "operator": "-",
+    "right": "sugar",
+    "result": "flour"
+  },
+  {
+    "left": "sugar",
+    "operator": "+",
+    "right": "dessert",
+    "result": "cake"
+  },
+  {
+    "left": "candy",
+    "operator": "+",
+    "right": "dessert",
+    "result": "sugar"
+  },
+  {
+    "left": "sweets",
+    "operator": "+",
+    "right": "dessert",
+    "result": "candy"
+  },
+  {
+    "left": "frozen dessert",
+    "operator": "-",
+    "right": "frozen",
+    "result": "dessert"
+  },
+  {
+    "left": "elsa",
+    "operator": "+",
+    "right": "ice",
+    "result": "frozen"
+  },
+  {
+    "left": "snow white",
+    "operator": "+",
+    "right": "ice",
+    "result": "elsa"
+  },
+  {
+    "left": "mirror",
+    "operator": "+",
+    "right": "mirror",
+    "result": "snow white"
+  },
+  {
+    "left": "musical sunglasses",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "music festival"
+  },
+  {
+    "left": "sunglasses",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "musical sunglasses"
+  },
+  {
+    "left": "mirror",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "sunglasses"
+  },
+  {
+    "left": "reflection",
+    "operator": "+",
+    "right": "water",
+    "result": "mirror"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "water",
+    "result": "reflection"
+  },
+  {
+    "left": "cream",
+    "operator": "+",
+    "right": "icicle",
+    "result": "frozen dessert"
+  },
+  {
+    "left": "light",
+    "operator": "+",
+    "right": "ice",
+    "result": "icicle"
+  },
+  {
+    "left": "prism",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "spectrum analyzer"
+  },
+  {
+    "left": "prism",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "light"
+  },
+  {
+    "left": "stone",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "prism"
+  },
+  {
+    "left": "interstellar travel",
+    "operator": "+",
+    "right": "space exploration",
+    "result": "science fiction"
+  },
+  {
+    "left": "rose",
+    "operator": "+",
+    "right": "space exploration",
+    "result": "interstellar travel"
+  },
+  {
+    "left": "rock planet",
+    "operator": "+",
+    "right": "pottery",
+    "result": "the little prince"
+  },
+  {
+    "left": "clarinet",
+    "operator": "+",
+    "right": "flute",
+    "result": "woodwind instruments"
+  },
+  {
+    "left": "percussion",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "drum"
+  },
+  {
+    "left": "percussion",
+    "operator": "+",
+    "right": "percussion",
+    "result": "drumming"
+  },
+  {
+    "left": "musical instrument",
+    "operator": "+",
+    "right": "xylophone",
+    "result": "percussion"
+  },
+  {
+    "left": "wooden instrument",
+    "operator": "+",
+    "right": "wooden instrument",
+    "result": "xylophone"
+  },
+  {
+    "left": "orchestration",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "musical composition"
+  },
+  {
+    "left": "composer",
+    "operator": "+",
+    "right": "maker",
+    "result": "creator"
+  },
+  {
+    "left": "rave",
+    "operator": "+",
+    "right": "rave",
+    "result": "party"
+  },
+  {
+    "left": "electronic music",
+    "operator": "+",
+    "right": "electronic music",
+    "result": "rave"
+  },
+  {
+    "left": "handpan",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "musical fusion"
+  },
+  {
+    "left": "orchestra",
+    "operator": "+",
+    "right": "handpan",
+    "result": "fusion music"
+  },
+  {
+    "left": "instrument maker",
+    "operator": "+",
+    "right": "handpan",
+    "result": "handpan artisan"
+  },
+  {
+    "left": "new age music",
+    "operator": "+",
+    "right": "handpan",
+    "result": "meditative soundscape"
+  },
+  {
+    "left": "music app",
+    "operator": "+",
+    "right": "handpan",
+    "result": "relaxation"
+  },
+  {
+    "left": "musical innovation",
+    "operator": "+",
+    "right": "handpan",
+    "result": "new age music"
+  },
+  {
+    "left": "smart tools",
+    "operator": "+",
+    "right": "handpan",
+    "result": "musical innovation"
+  },
+  {
+    "left": "unique instruments",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "handpan"
+  },
+  {
+    "left": "smart tools",
+    "operator": "+",
+    "right": "luthier",
+    "result": "guitar making"
+  },
+  {
+    "left": "sculpture",
+    "operator": "+",
+    "right": "luthier",
+    "result": "wooden instrument"
+  },
+  {
+    "left": "mixed media art",
+    "operator": "+",
+    "right": "luthier",
+    "result": "unique instruments"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "hand tools",
+    "result": "smart tools"
+  },
+  {
+    "left": "digital art",
+    "operator": "+",
+    "right": "hand tools",
+    "result": "mixed media art"
+  },
+  {
+    "left": "michelangelo",
+    "operator": "+",
+    "right": "technology",
+    "result": "renaissance art"
+  },
+  {
+    "left": "classical art",
+    "operator": "+",
+    "right": "technology",
+    "result": "digital art"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "renaissance",
+    "result": "rebirth of ideas"
+  },
+  {
+    "left": "sculpture",
+    "operator": "+",
+    "right": "renaissance",
+    "result": "michelangelo"
+  },
+  {
+    "left": "artist",
+    "operator": "+",
+    "right": "power tools",
+    "result": "sculpture"
+  },
+  {
+    "left": "studio",
+    "operator": "+",
+    "right": "music streaming",
+    "result": "record label"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "music production",
+    "result": "studio"
+  },
+  {
+    "left": "streaming service",
+    "operator": "+",
+    "right": "music app",
+    "result": "spotify"
+  },
+  {
+    "left": "music app",
+    "operator": "+",
+    "right": "music app",
+    "result": "streaming service"
+  },
+  {
+    "left": "mobile app",
+    "operator": "+",
+    "right": "orchestra",
+    "result": "music streaming"
+  },
+  {
+    "left": "apple",
+    "operator": "+",
+    "right": "melody",
+    "result": "harmony"
+  },
+  {
+    "left": "mobile app development",
+    "operator": "+",
+    "right": "melody",
+    "result": "music app"
+  },
+  {
+    "left": "app development",
+    "operator": "+",
+    "right": "mobile app",
+    "result": "mobile app development"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "app store",
+    "result": "app development"
+  },
+  {
+    "left": "app store",
+    "operator": "+",
+    "right": "app store",
+    "result": "apple"
+  },
+  {
+    "left": "smartphone",
+    "operator": "+",
+    "right": "mobile app",
+    "result": "app store"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "smartphone",
+    "result": "mobile app"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "electronics",
+    "result": "smartphone"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "electricity",
+    "result": "electronics"
+  },
+  {
+    "left": "electric guitar",
+    "operator": "-",
+    "right": "guitar",
+    "result": "electricity"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "guitar",
+    "result": "electric guitar"
+  },
+  {
+    "left": "technology",
+    "operator": "+",
+    "right": "hand tools",
+    "result": "power tools"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "technology",
+    "result": "progress"
+  },
+  {
+    "left": "classical art",
+    "operator": "+",
+    "right": "lute music",
+    "result": "renaissance"
+  },
+  {
+    "left": "artist",
+    "operator": "+",
+    "right": "greek mythology",
+    "result": "classical art"
+  },
+  {
+    "left": "musical painting",
+    "operator": "+",
+    "right": "dreamer",
+    "result": "surrealism"
+  },
+  {
+    "left": "artist",
+    "operator": "+",
+    "right": "dreamer",
+    "result": "imagination"
+  },
+  {
+    "left": "musician",
+    "operator": "+",
+    "right": "dreamer",
+    "result": "artist"
+  },
+  {
+    "left": "melody",
+    "operator": "+",
+    "right": "dreamer",
+    "result": "songwriter"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "lyre",
+    "result": "melody"
+  },
+  {
+    "left": "classical music",
+    "operator": "+",
+    "right": "orpheus",
+    "result": "orpheus and eurydice"
+  },
+  {
+    "left": "ancient music",
+    "operator": "+",
+    "right": "treble",
+    "result": "chant"
+  },
+  {
+    "left": "greek mythology",
+    "operator": "+",
+    "right": "treble",
+    "result": "orpheus"
+  },
+  {
+    "left": "crafted instrument",
+    "operator": "-",
+    "right": "musical performance",
+    "result": "composition"
+  },
+  {
+    "left": "musical craftsmanship",
+    "operator": "+",
+    "right": "string section",
+    "result": "orchestration"
+  },
+  {
+    "left": "woodworker",
+    "operator": "+",
+    "right": "woodwind",
+    "result": "musical craftsmanship"
+  },
+  {
+    "left": "craftsman",
+    "operator": "+",
+    "right": "woodwind",
+    "result": "woodworker"
+  },
+  {
+    "left": "brass band",
+    "operator": "+",
+    "right": "brass instrument",
+    "result": "marching band"
+  },
+  {
+    "left": "woodwind",
+    "operator": "-",
+    "right": "stringed instrument",
+    "result": "brass instrument"
+  },
+  {
+    "left": "saxophone",
+    "operator": "+",
+    "right": "cello",
+    "result": "jazz ensemble"
+  },
+  {
+    "left": "musical notation",
+    "operator": "+",
+    "right": "musical notation",
+    "result": "sheet music"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "woodwind",
+    "result": "clarinet"
+  },
+  {
+    "left": "woodwind",
+    "operator": "+",
+    "right": "treble",
+    "result": "musical notation"
+  },
+  {
+    "left": "woodwind",
+    "operator": "+",
+    "right": "trumpet",
+    "result": "brass band"
+  },
+  {
+    "left": "orchestra",
+    "operator": "+",
+    "right": "woodwind",
+    "result": "flute"
+  },
+  {
+    "left": "wind instrument",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "woodwind"
+  },
+  {
+    "left": "treble",
+    "operator": "+",
+    "right": "wind instrument",
+    "result": "trumpet"
+  },
+  {
+    "left": "wind instrument",
+    "operator": "-",
+    "right": "bass",
+    "result": "treble"
+  },
+  {
+    "left": "woodwind section",
+    "operator": "-",
+    "right": "wind instrument",
+    "result": "woodwind ensemble"
+  },
+  {
+    "left": "orchestra",
+    "operator": "-",
+    "right": "wind instrument",
+    "result": "string section"
+  },
+  {
+    "left": "orchestra",
+    "operator": "+",
+    "right": "wind instrument",
+    "result": "woodwind section"
+  },
+  {
+    "left": "musical instrument",
+    "operator": "-",
+    "right": "stringed instrument",
+    "result": "wind instrument"
+  },
+  {
+    "left": "stringed instrument",
+    "operator": "+",
+    "right": "lute music",
+    "result": "renaissance music"
+  },
+  {
+    "left": "string trio",
+    "operator": "+",
+    "right": "violin",
+    "result": "chamber music"
+  },
+  {
+    "left": "string quartet",
+    "operator": "-",
+    "right": "stringed instrument",
+    "result": "musical ensemble"
+  },
+  {
+    "left": "string duo",
+    "operator": "-",
+    "right": "stringed instrument",
+    "result": "vocal harmony"
+  },
+  {
+    "left": "string duo",
+    "operator": "+",
+    "right": "stringed instrument",
+    "result": "guitar duo"
+  },
+  {
+    "left": "string quartet",
+    "operator": "+",
+    "right": "stringed instrument",
+    "result": "classical music"
+  },
+  {
+    "left": "duet",
+    "operator": "+",
+    "right": "stringed instrument",
+    "result": "guitar duet"
+  },
+  {
+    "left": "string duo",
+    "operator": "+",
+    "right": "string duo",
+    "result": "duet"
+  },
+  {
+    "left": "string trio",
+    "operator": "-",
+    "right": "violin",
+    "result": "string duo"
+  },
+  {
+    "left": "string quartet",
+    "operator": "+",
+    "right": "cello",
+    "result": "string trio"
+  },
+  {
+    "left": "cello",
+    "operator": "-",
+    "right": "bass",
+    "result": "string quartet"
+  },
+  {
+    "left": "cello",
+    "operator": "-",
+    "right": "violin",
+    "result": "bass"
+  },
+  {
+    "left": "stringed instrument",
+    "operator": "-",
+    "right": "violin",
+    "result": "cello"
+  },
+  {
+    "left": "stringed instrument",
+    "operator": "-",
+    "right": "stringed instrument",
+    "result": "void"
+  },
+  {
+    "left": "musical instrument",
+    "operator": "-",
+    "right": "lyre",
+    "result": "stringed instrument"
+  },
+  {
+    "left": "lyre",
+    "operator": "-",
+    "right": "musical instrument",
+    "result": "stringed melody"
+  },
+  {
+    "left": "ancient music",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "lute"
+  },
+  {
+    "left": "lute music",
+    "operator": "+",
+    "right": "crafted instrument",
+    "result": "baroque music"
+  },
+  {
+    "left": "historical melodies",
+    "operator": "+",
+    "right": "string instrument",
+    "result": "lute music"
+  },
+  {
+    "left": "ancient music",
+    "operator": "+",
+    "right": "ancient music",
+    "result": "historical melodies"
+  },
+  {
+    "left": "ancient music",
+    "operator": "+",
+    "right": "lyre",
+    "result": "greek mythology"
+  },
+  {
+    "left": "musical instrument",
+    "operator": "+",
+    "right": "lyre",
+    "result": "ancient music"
+  },
+  {
+    "left": "lyre",
+    "operator": "+",
+    "right": "lyre",
+    "result": "musical instrument"
+  },
+  {
+    "left": "dreamer",
+    "operator": "+",
+    "right": "string instrument",
+    "result": "lyre"
+  },
+  {
+    "left": "colorful art",
+    "operator": "+",
+    "right": "string instrument",
+    "result": "musical painting"
+  },
+  {
+    "left": "impossible dream",
+    "operator": "+",
+    "right": "maker",
+    "result": "dreamer"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "maker",
+    "result": "colorful art"
+  },
+  {
+    "left": "guitar",
+    "operator": "+",
+    "right": "string instrument",
+    "result": "ukulele"
+  },
+  {
+    "left": "instrument maker",
+    "operator": "-",
+    "right": "violin",
+    "result": "string instrument"
+  },
+  {
+    "left": "maker",
+    "operator": "+",
+    "right": "orchestra",
+    "result": "composer"
+  },
+  {
+    "left": "violin maker",
+    "operator": "-",
+    "right": "violin",
+    "result": "maker"
+  },
+  {
+    "left": "violin",
+    "operator": "-",
+    "right": "luthier",
+    "result": "music maker"
+  },
+  {
+    "left": "luthier",
+    "operator": "+",
+    "right": "craftsman",
+    "result": "guitar maker"
+  },
+  {
+    "left": "craftsman",
+    "operator": "+",
+    "right": "craftsman",
+    "result": "artisan"
+  },
+  {
+    "left": "luthier",
+    "operator": "-",
+    "right": "violin",
+    "result": "craftsman"
+  },
+  {
+    "left": "violin",
+    "operator": "+",
+    "right": "luthier",
+    "result": "crafted instrument"
+  },
+  {
+    "left": "instrument maker",
+    "operator": "+",
+    "right": "luthier",
+    "result": "string instruments"
+  },
+  {
+    "left": "violin maker",
+    "operator": "+",
+    "right": "violin maker",
+    "result": "violin"
+  },
+  {
+    "left": "luthier",
+    "operator": "+",
+    "right": "luthier",
+    "result": "violin maker"
+  },
+  {
+    "left": "instrument maker",
+    "operator": "+",
+    "right": "instrument maker",
+    "result": "luthier"
+  },
+  {
+    "left": "musicians",
+    "operator": "+",
+    "right": "hand tools",
+    "result": "instrument maker"
+  },
+  {
+    "left": "orchestra",
+    "operator": "-",
+    "right": "symphony",
+    "result": "musicians"
+  },
+  {
+    "left": "musical theater",
+    "operator": "+",
+    "right": "orchestra",
+    "result": "broadway show"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "nonmusical",
+    "result": "musical theater"
+  },
+  {
+    "left": "music system",
+    "operator": "+",
+    "right": "musical device",
+    "result": "stereo"
+  },
+  {
+    "left": "hand tools",
+    "operator": "+",
+    "right": "musical device",
+    "result": "guitar"
+  },
+  {
+    "left": "hand tools",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "diy music production"
+  },
+  {
+    "left": "band",
+    "operator": "+",
+    "right": "multitool",
+    "result": "swiss army knife"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "hand tools",
+    "result": "multitool"
+  },
+  {
+    "left": "nonmusical tools",
+    "operator": "+",
+    "right": "nonmusical tools",
+    "result": "hand tools"
+  },
+  {
+    "left": "innovation",
+    "operator": "+",
+    "right": "nonmusical tools",
+    "result": "technology"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "creativity",
+    "result": "music composition"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "-",
+    "right": "tool",
+    "result": "creativity"
+  },
+  {
+    "left": "tool",
+    "operator": "-",
+    "right": "musical instruments",
+    "result": "nonmusical tools"
+  },
+  {
+    "left": "unrealistic expectations",
+    "operator": "+",
+    "right": "instrument",
+    "result": "symphony of disappointment"
+  },
+  {
+    "left": "bandwagon",
+    "operator": "+",
+    "right": "impossible dream",
+    "result": "unrealistic expectations"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "rock",
+    "result": "rock band"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "nonmusical",
+    "result": "sound effects"
+  },
+  {
+    "left": "band",
+    "operator": "+",
+    "right": "nonmusical",
+    "result": "bandwagon"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "electronic music"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "kitchen orchestra",
+    "result": "cooking with music"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "harmonica",
+    "result": "blues"
+  },
+  {
+    "left": "musical instruments",
+    "operator": "+",
+    "right": "band",
+    "result": "concert"
+  },
+  {
+    "left": "toolbox",
+    "operator": "+",
+    "right": "musical",
+    "result": "musical instruments"
+  },
+  {
+    "left": "tools",
+    "operator": "+",
+    "right": "musical",
+    "result": "band"
+  },
+  {
+    "left": "toolbox",
+    "operator": "+",
+    "right": "toolbox",
+    "result": "tools"
+  },
+  {
+    "left": "tool",
+    "operator": "+",
+    "right": "tool",
+    "result": "toolbox"
+  },
+  {
+    "left": "harmonica",
+    "operator": "+",
+    "right": "instrument",
+    "result": "blues music"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "tool",
+    "result": "harmonica"
+  },
+  {
+    "left": "jazz",
+    "operator": "+",
+    "right": "musical",
+    "result": "chicago"
+  },
+  {
+    "left": "musical",
+    "operator": "+",
+    "right": "rock",
+    "result": "broadway"
+  },
+  {
+    "left": "musician",
+    "operator": "-",
+    "right": "musical",
+    "result": "performance"
+  },
+  {
+    "left": "instrument",
+    "operator": "-",
+    "right": "orchestra",
+    "result": "musician"
+  },
+  {
+    "left": "orchestra",
+    "operator": "-",
+    "right": "instrument",
+    "result": "conductor"
+  },
+  {
+    "left": "song",
+    "operator": "-",
+    "right": "orchestra",
+    "result": "solo performance"
+  },
+  {
+    "left": "symphony",
+    "operator": "+",
+    "right": "appliance",
+    "result": "music system"
+  },
+  {
+    "left": "orchestra",
+    "operator": "+",
+    "right": "tool",
+    "result": "musical performance"
+  },
+  {
+    "left": "orchestra",
+    "operator": "+",
+    "right": "orchestra",
+    "result": "symphony"
+  },
+  {
+    "left": "kitchen orchestra",
+    "operator": "+",
+    "right": "saxophone",
+    "result": "jazz band"
+  },
+  {
+    "left": "kitchen gadget",
+    "operator": "+",
+    "right": "musical device",
+    "result": "kitchen orchestra"
+  },
+  {
+    "left": "saxophone",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "jazz fusion"
+  },
+  {
+    "left": "saxophone",
+    "operator": "+",
+    "right": "saxophone",
+    "result": "jazz"
+  },
+  {
+    "left": "synthesizer",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "music production"
+  },
+  {
+    "left": "instrument",
+    "operator": "+",
+    "right": "musical device",
+    "result": "saxophone"
+  },
+  {
+    "left": "musical device",
+    "operator": "+",
+    "right": "musical device",
+    "result": "synthesizer"
+  },
+  {
+    "left": "appliance",
+    "operator": "+",
+    "right": "instrument",
+    "result": "kitchen gadget"
+  },
+  {
+    "left": "instrument",
+    "operator": "-",
+    "right": "tool",
+    "result": "musical device"
+  },
+  {
+    "left": "tool",
+    "operator": "-",
+    "right": "instrument",
+    "result": "appliance"
+  },
+  {
+    "left": "instrument",
+    "operator": "-",
+    "right": "song",
+    "result": "silence"
+  },
+  {
+    "left": "music",
+    "operator": "-",
+    "right": "instrument",
+    "result": "song"
+  },
+  {
+    "left": "instrument",
+    "operator": "-",
+    "right": "musical",
+    "result": "nonmusical"
+  },
+  {
+    "left": "instrument",
+    "operator": "-",
+    "right": "music",
+    "result": "tool"
+  },
+  {
+    "left": "instrument",
+    "operator": "+",
+    "right": "musical",
+    "result": "orchestra"
+  },
+  {
+    "left": "musical",
+    "operator": "-",
+    "right": "music",
+    "result": "instrument"
+  },
+  {
+    "left": "music",
+    "operator": "-",
+    "right": "musical",
+    "result": "sound"
+  },
+  {
+    "left": "the impossible dream",
+    "operator": "+",
+    "right": "impossible dream",
+    "result": "musical"
+  },
+  {
+    "left": "vertebrae",
+    "operator": "+",
+    "right": "spiny mammal",
+    "result": "armadillo"
+  },
+  {
+    "left": "spine",
+    "operator": "+",
+    "right": "backbone",
+    "result": "vertebrae"
+  },
+  {
+    "left": "spine",
+    "operator": "+",
+    "right": "spine",
+    "result": "backbone"
+  },
+  {
+    "left": "anteater",
+    "operator": "-",
+    "right": "spiny mammal",
+    "result": "anteater without spines"
+  },
+  {
+    "left": "echidna",
+    "operator": "-",
+    "right": "b",
+    "result": "spine"
+  },
+  {
+    "left": "mole",
+    "operator": "+",
+    "right": "exotic animal",
+    "result": "naked mole rat"
+  },
+  {
+    "left": "mole",
+    "operator": "+",
+    "right": "mole",
+    "result": "chemistry"
+  },
+  {
+    "left": "spiny mammal",
+    "operator": "-",
+    "right": "spines",
+    "result": "mole"
+  },
+  {
+    "left": "anteater",
+    "operator": "-",
+    "right": "south america",
+    "result": "unique fauna"
+  },
+  {
+    "left": "hedgehog",
+    "operator": "-",
+    "right": "south america",
+    "result": "exotic animal"
+  },
+  {
+    "left": "south america",
+    "operator": "-",
+    "right": "quill pig",
+    "result": "continent without porcupine"
+  },
+  {
+    "left": "endangered species protection",
+    "operator": "+",
+    "right": "anteater",
+    "result": "conservation efforts"
+  },
+  {
+    "left": "conservation",
+    "operator": "+",
+    "right": "anteater",
+    "result": "endangered species protection"
+  },
+  {
+    "left": "anteater",
+    "operator": "+",
+    "right": "duo",
+    "result": "antenna"
+  },
+  {
+    "left": "echidna",
+    "operator": "-",
+    "right": "none",
+    "result": "solitary creature"
+  },
+  {
+    "left": "spiny mammal",
+    "operator": "-",
+    "right": "spiny mammals",
+    "result": "none"
+  },
+  {
+    "left": "soft belly",
+    "operator": "-",
+    "right": "spines",
+    "result": "vulnerability"
+  },
+  {
+    "left": "soft belly",
+    "operator": "+",
+    "right": "soft belly",
+    "result": "cuddle"
+  },
+  {
+    "left": "echidna",
+    "operator": "-",
+    "right": "spines",
+    "result": "soft belly"
+  },
+  {
+    "left": "mammal",
+    "operator": "+",
+    "right": "omnivore",
+    "result": "human"
+  },
+  {
+    "left": "omnivore",
+    "operator": "+",
+    "right": "insectivore",
+    "result": "diet classification"
+  },
+  {
+    "left": "carnivore",
+    "operator": "-",
+    "right": "insectivore",
+    "result": "omnivore"
+  },
+  {
+    "left": "quills",
+    "operator": "+",
+    "right": "hedgehog",
+    "result": "spines"
+  },
+  {
+    "left": "quills",
+    "operator": "+",
+    "right": "quills",
+    "result": "feathers"
+  },
+  {
+    "left": "porcupine",
+    "operator": "+",
+    "right": "porcupine",
+    "result": "quills"
+  },
+  {
+    "left": "capybara",
+    "operator": "+",
+    "right": "capybara",
+    "result": "friendship"
+  },
+  {
+    "left": "quill pig",
+    "operator": "+",
+    "right": "quill pig",
+    "result": "porcupine"
+  },
+  {
+    "left": "quill pig",
+    "operator": "+",
+    "right": "south america",
+    "result": "capybara"
+  },
+  {
+    "left": "hedgehog",
+    "operator": "+",
+    "right": "south america",
+    "result": "quill pig"
+  },
+  {
+    "left": "echidna",
+    "operator": "-",
+    "right": "hedgehog",
+    "result": "spiny mammal"
+  },
+  {
+    "left": "echidna",
+    "operator": "+",
+    "right": "hedgehog",
+    "result": "spiny mammals"
+  },
+  {
+    "left": "hedgehog",
+    "operator": "+",
+    "right": "anteater",
+    "result": "spiny anteater"
+  },
+  {
+    "left": "mammal",
+    "operator": "+",
+    "right": "insectivore",
+    "result": "hedgehog"
+  },
+  {
+    "left": "insectivore",
+    "operator": "-",
+    "right": "specialized diet",
+    "result": "adaptation"
+  },
+  {
+    "left": "specialized diet",
+    "operator": "-",
+    "right": "insectivore",
+    "result": "carnivore"
+  },
+  {
+    "left": "specialized diet",
+    "operator": "+",
+    "right": "insectivore",
+    "result": "entomophagy"
+  },
+  {
+    "left": "termite mound",
+    "operator": "-",
+    "right": "termite",
+    "result": "structure"
+  },
+  {
+    "left": "anteater",
+    "operator": "-",
+    "right": "specialized diet",
+    "result": "insectivore"
+  },
+  {
+    "left": "specialized diet",
+    "operator": "-",
+    "right": "anteater",
+    "result": "termite"
+  },
+  {
+    "left": "specialized diet",
+    "operator": "+",
+    "right": "anteater",
+    "result": "termite mound"
+  },
+  {
+    "left": "anteater",
+    "operator": "-",
+    "right": "diverse species",
+    "result": "specialized diet"
+  },
+  {
+    "left": "monotreme",
+    "operator": "+",
+    "right": "1 single",
+    "result": "egglaying mammal"
+  },
+  {
+    "left": "sonic the hedgehog",
+    "operator": "+",
+    "right": "aardvark",
+    "result": "video game character"
+  },
+  {
+    "left": "sonic adventure",
+    "operator": "-",
+    "right": "sonic the hedgehog",
+    "result": "adventure spinoff"
+  },
+  {
+    "left": "sonic the hedgehog",
+    "operator": "-",
+    "right": "sonic adventure",
+    "result": "platforming chaos"
+  },
+  {
+    "left": "sonic the hedgehog",
+    "operator": "+",
+    "right": "anteater",
+    "result": "sonic adventure"
+  },
+  {
+    "left": "duo",
+    "operator": "+",
+    "right": "echidna",
+    "result": "sonic the hedgehog"
+  },
+  {
+    "left": "unique creature",
+    "operator": "+",
+    "right": "anteater",
+    "result": "aardvark"
+  },
+  {
+    "left": "mammal",
+    "operator": "-",
+    "right": "anteater",
+    "result": "diverse species"
+  },
+  {
+    "left": "1 single",
+    "operator": "+",
+    "right": "anteater",
+    "result": "unique pet"
+  },
+  {
+    "left": "small",
+    "operator": "-",
+    "right": "duo",
+    "result": "1 single"
+  },
+  {
+    "left": "duo anteater",
+    "operator": "-",
+    "right": "anteater",
+    "result": "duo"
+  },
+  {
+    "left": "monotreme",
+    "operator": "+",
+    "right": "monotreme",
+    "result": "platypus"
+  },
+  {
+    "left": "ecosystem",
+    "operator": "+",
+    "right": "insect",
+    "result": "pollination"
+  },
+  {
+    "left": "fairy",
+    "operator": "+",
+    "right": "mammal",
+    "result": "fairy tale"
+  },
+  {
+    "left": "unique creature",
+    "operator": "+",
+    "right": "small",
+    "result": "fairy"
+  },
+  {
+    "left": "unique creature",
+    "operator": "+",
+    "right": "south america",
+    "result": "amazonian pink river dolphin"
+  },
+  {
+    "left": "anteater",
+    "operator": "+",
+    "right": "mammal",
+    "result": "unique creature"
+  },
+  {
+    "left": "wildlife",
+    "operator": "+",
+    "right": "echidna",
+    "result": "australia"
+  },
+  {
+    "left": "anteater",
+    "operator": "+",
+    "right": "echidna",
+    "result": "monotremes"
+  },
+  {
+    "left": "anteater",
+    "operator": "+",
+    "right": "south america",
+    "result": "wildlife"
+  },
+  {
+    "left": "duo anteater",
+    "operator": "+",
+    "right": "duo anteater",
+    "result": "double trouble"
+  },
+  {
+    "left": "duo anteater",
+    "operator": "+",
+    "right": "anteater",
+    "result": "anteater duo"
+  },
+  {
+    "left": "anteater",
+    "operator": "+",
+    "right": "anteater",
+    "result": "duo anteater"
+  },
+  {
+    "left": "echidna",
+    "operator": "+",
+    "right": "echidna",
+    "result": "monotreme"
+  },
+  {
+    "left": "mammal",
+    "operator": "+",
+    "right": "ant",
+    "result": "echidna"
+  },
+  {
+    "left": "mammal",
+    "operator": "+",
+    "right": "insect",
+    "result": "food chain"
+  },
+  {
+    "left": "mammal",
+    "operator": "+",
+    "right": "anthill",
+    "result": "anteater"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "animal",
+    "result": "ghost"
+  },
+  {
+    "left": "predatorprey",
+    "operator": "-",
+    "right": "insect",
+    "result": "ecosystem balance"
+  },
+  {
+    "left": "ocelot",
+    "operator": "+",
+    "right": "insect",
+    "result": "predator"
+  },
+  {
+    "left": "ocelot",
+    "operator": "+",
+    "right": "anthill",
+    "result": "predatorprey"
+  },
+  {
+    "left": "insect colony",
+    "operator": "+",
+    "right": "insect",
+    "result": "hive"
+  },
+  {
+    "left": "anthill",
+    "operator": "-",
+    "right": "animal",
+    "result": "insect colony"
+  },
+  {
+    "left": "animal",
+    "operator": "-",
+    "right": "anthill",
+    "result": "natures structure"
+  },
+  {
+    "left": "colony",
+    "operator": "+",
+    "right": "ant",
+    "result": "anthill"
+  },
+  {
+    "left": "arthropod",
+    "operator": "+",
+    "right": "arthropod",
+    "result": "invertebrate"
+  },
+  {
+    "left": "diversity",
+    "operator": "+",
+    "right": "zoo",
+    "result": "conservation"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "ant",
+    "result": "antelope"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "animal",
+    "result": "respiration"
+  },
+  {
+    "left": "south america",
+    "operator": "-",
+    "right": "jaguar",
+    "result": "diversity"
+  },
+  {
+    "left": "animal",
+    "operator": "+",
+    "right": "animal",
+    "result": "zoo"
+  },
+  {
+    "left": "animal",
+    "operator": "-",
+    "right": "diverse wildlife",
+    "result": "domesticated pet"
+  },
+  {
+    "left": "insect",
+    "operator": "+",
+    "right": "ant",
+    "result": "arthropod"
+  },
+  {
+    "left": "animal",
+    "operator": "+",
+    "right": "ant",
+    "result": "insect"
+  },
+  {
+    "left": "ant",
+    "operator": "+",
+    "right": "ant",
+    "result": "colony"
+  },
+  {
+    "left": "life",
+    "operator": "+",
+    "right": "small",
+    "result": "ant"
+  },
+  {
+    "left": "jaguar",
+    "operator": "+",
+    "right": "small",
+    "result": "ocelot"
+  },
+  {
+    "left": "southern cone antelope",
+    "operator": "+",
+    "right": "small",
+    "result": "patagonian mara"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "+",
+    "right": "small",
+    "result": "microorganisms"
+  },
+  {
+    "left": "uruguay",
+    "operator": "+",
+    "right": "animal",
+    "result": "southern cone antelope"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "south america",
+    "result": "uruguay"
+  },
+  {
+    "left": "micro",
+    "operator": "+",
+    "right": "animal",
+    "result": "microorganism"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "tiny",
+    "result": "micro"
+  },
+  {
+    "left": "jungle",
+    "operator": "+",
+    "right": "mouse",
+    "result": "cheese"
+  },
+  {
+    "left": "animal",
+    "operator": "+",
+    "right": "small",
+    "result": "mouse"
+  },
+  {
+    "left": "life science",
+    "operator": "+",
+    "right": "biology",
+    "result": "study of living organisms"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "+",
+    "right": "animal",
+    "result": "ecosystem"
+  },
+  {
+    "left": "jungle",
+    "operator": "+",
+    "right": "animal",
+    "result": "lion"
+  },
+  {
+    "left": "amazon rainforest",
+    "operator": "+",
+    "right": "south america",
+    "result": "brazil"
+  },
+  {
+    "left": "biodiversity hotspot",
+    "operator": "+",
+    "right": "diverse wildlife",
+    "result": "ecosystem conservation"
+  },
+  {
+    "left": "diverse wildlife",
+    "operator": "-",
+    "right": "amazon rainforest",
+    "result": "biodiversity hotspot"
+  },
+  {
+    "left": "diverse wildlife",
+    "operator": "+",
+    "right": "south america",
+    "result": "amazon rainforest"
+  },
+  {
+    "left": "diverse wildlife",
+    "operator": "+",
+    "right": "diverse wildlife",
+    "result": "biodiversity"
+  },
+  {
+    "left": "animal",
+    "operator": "-",
+    "right": "south america",
+    "result": "jungle"
+  },
+  {
+    "left": "south america",
+    "operator": "-",
+    "right": "animal",
+    "result": "diverse wildlife"
+  },
+  {
+    "left": "jaguar",
+    "operator": "+",
+    "right": "jaguar",
+    "result": "car"
+  },
+  {
+    "left": "south america",
+    "operator": "+",
+    "right": "animal",
+    "result": "jaguar"
+  },
+  {
+    "left": "state",
+    "operator": "-",
+    "right": "north america",
+    "result": "south america"
+  },
+  {
+    "left": "continent",
+    "operator": "-",
+    "right": "north america",
+    "result": "europe"
+  },
+  {
+    "left": "united states of america",
+    "operator": "+",
+    "right": "united states of america",
+    "result": "north america"
+  },
+  {
+    "left": "dog",
+    "operator": "+",
+    "right": "pet",
+    "result": "cat"
+  },
+  {
+    "left": "variety of dishes",
+    "operator": "-",
+    "right": "sushi platter",
+    "result": "cuisine selection"
+  },
+  {
+    "left": "japanese dish",
+    "operator": "-",
+    "right": "sushi roll",
+    "result": "nigiri"
+  },
+  {
+    "left": "japanese dish",
+    "operator": "+",
+    "right": "sushi roll",
+    "result": "sashimi"
+  },
+  {
+    "left": "pet",
+    "operator": "+",
+    "right": "plant",
+    "result": "gardening"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "tree",
+    "result": "void"
   }
 ]
