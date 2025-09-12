@@ -17476,5 +17476,3227 @@
     "operator": "-",
     "right": "tree",
     "result": "void"
+  },
+  {
+    "left": "teacup",
+    "operator": "+",
+    "right": "cup",
+    "result": "mug"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "tea",
+    "result": "beverage"
+  },
+  {
+    "left": "quantity",
+    "operator": "+",
+    "right": "quantity",
+    "result": "amount"
+  },
+  {
+    "left": "measurement",
+    "operator": "-",
+    "right": "cup",
+    "result": "quantity"
+  },
+  {
+    "left": "cup",
+    "operator": "-",
+    "right": "measurement",
+    "result": "liquid volume"
+  },
+  {
+    "left": "cup",
+    "operator": "+",
+    "right": "measurement",
+    "result": "kitchen"
+  },
+  {
+    "left": "coffee",
+    "operator": "-",
+    "right": "cup",
+    "result": "energy boost"
+  },
+  {
+    "left": "cup",
+    "operator": "-",
+    "right": "tea",
+    "result": "empty cup"
+  },
+  {
+    "left": "cup",
+    "operator": "+",
+    "right": "tea",
+    "result": "morning"
+  },
+  {
+    "left": "teacup",
+    "operator": "+",
+    "right": "teacup",
+    "result": "tea party"
+  },
+  {
+    "left": "small",
+    "operator": "-",
+    "right": "cup",
+    "result": "teaspoon"
+  },
+  {
+    "left": "teacup",
+    "operator": "-",
+    "right": "cup",
+    "result": "tea"
+  },
+  {
+    "left": "cup",
+    "operator": "-",
+    "right": "small",
+    "result": "teacup"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "coffee",
+    "result": "caffeine"
+  },
+  {
+    "left": "espresso",
+    "operator": "+",
+    "right": "macchiato",
+    "result": "coffee"
+  },
+  {
+    "left": "espresso",
+    "operator": "+",
+    "right": "double shot",
+    "result": "macchiato"
+  },
+  {
+    "left": "espresso",
+    "operator": "+",
+    "right": "espresso",
+    "result": "double shot"
+  },
+  {
+    "left": "cup",
+    "operator": "+",
+    "right": "small",
+    "result": "espresso"
+  },
+  {
+    "left": "cup",
+    "operator": "+",
+    "right": "cup",
+    "result": "measurement"
+  },
+  {
+    "left": "fruit cup",
+    "operator": "-",
+    "right": "fruit",
+    "result": "cup"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "fruit salad",
+    "result": "fruit cup"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "fruit",
+    "result": "fruit salad"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "earth",
+    "result": "soil"
+  },
+  {
+    "left": "storm",
+    "operator": "+",
+    "right": "earth",
+    "result": "tornado"
+  },
+  {
+    "left": "boreal",
+    "operator": "+",
+    "right": "plant",
+    "result": "conifer"
+  },
+  {
+    "left": "fall foliage",
+    "operator": "+",
+    "right": "autumn landscape",
+    "result": "scenic beauty"
+  },
+  {
+    "left": "fall foliage",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "autumn landscape"
+  },
+  {
+    "left": "autumn leaves",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "seasonal contrast"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "fall foliage",
+    "result": "autumn scenery"
+  },
+  {
+    "left": "balance",
+    "operator": "+",
+    "right": "equilibrium",
+    "result": "stability"
+  },
+  {
+    "left": "balance",
+    "operator": "+",
+    "right": "balance",
+    "result": "equilibrium"
+  },
+  {
+    "left": "chaotic terrain",
+    "operator": "+",
+    "right": "order",
+    "result": "balance"
+  },
+  {
+    "left": "chaotic terrain",
+    "operator": "+",
+    "right": "chaotic terrain",
+    "result": "difficult navigation"
+  },
+  {
+    "left": "sustainable forestry",
+    "operator": "+",
+    "right": "tranquil forest",
+    "result": "ecotourism"
+  },
+  {
+    "left": "data organization",
+    "operator": "+",
+    "right": "data organization",
+    "result": "data management"
+  },
+  {
+    "left": "data organization",
+    "operator": "+",
+    "right": "tree structure",
+    "result": "hierarchical data"
+  },
+  {
+    "left": "tree structure",
+    "operator": "+",
+    "right": "tree structure",
+    "result": "data organization"
+  },
+  {
+    "left": "coniferous forest",
+    "operator": "-",
+    "right": "tree structure",
+    "result": "woodland ecosystem"
+  },
+  {
+    "left": "pine tree",
+    "operator": "-",
+    "right": "pine wood",
+    "result": "tree structure"
+  },
+  {
+    "left": "lumber",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine wood"
+  },
+  {
+    "left": "pine forest",
+    "operator": "+",
+    "right": "order",
+    "result": "lumber"
+  },
+  {
+    "left": "coniferous forest",
+    "operator": "-",
+    "right": "forests",
+    "result": "evergreen woods"
+  },
+  {
+    "left": "world",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forests"
+  },
+  {
+    "left": "peaceful retreat",
+    "operator": "+",
+    "right": "continent",
+    "result": "vacation"
+  },
+  {
+    "left": "tranquil forest",
+    "operator": "+",
+    "right": "country",
+    "result": "peaceful retreat"
+  },
+  {
+    "left": "serenity",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "tranquil forest"
+  },
+  {
+    "left": "wildlife scenery",
+    "operator": "+",
+    "right": "coniferous forest",
+    "result": "nature reserve"
+  },
+  {
+    "left": "orderly landscape",
+    "operator": "-",
+    "right": "natural sculpture",
+    "result": "chaotic terrain"
+  },
+  {
+    "left": "tranquility of nature",
+    "operator": "-",
+    "right": "pine cone",
+    "result": "peaceful forest"
+  },
+  {
+    "left": "chaos",
+    "operator": "-",
+    "right": "exotic forest",
+    "result": "orderly landscape"
+  },
+  {
+    "left": "chaos",
+    "operator": "-",
+    "right": "cone",
+    "result": "order"
+  },
+  {
+    "left": "pine tree",
+    "operator": "-",
+    "right": "serenity",
+    "result": "tranquility of nature"
+  },
+  {
+    "left": "forest",
+    "operator": "-",
+    "right": "tranquility",
+    "result": "chaos"
+  },
+  {
+    "left": "forest ecosystem",
+    "operator": "-",
+    "right": "natures artwork",
+    "result": "wildlife scenery"
+  },
+  {
+    "left": "woodland",
+    "operator": "+",
+    "right": "sustainable forestry",
+    "result": "ecofriendly timber"
+  },
+  {
+    "left": "sustainable sourcing",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "sustainable forestry"
+  },
+  {
+    "left": "nature healing",
+    "operator": "+",
+    "right": "boreal forest",
+    "result": "ecotherapy"
+  },
+  {
+    "left": "forest therapy",
+    "operator": "+",
+    "right": "evergreen tree",
+    "result": "nature healing"
+  },
+  {
+    "left": "nature retreat",
+    "operator": "+",
+    "right": "broadleaf forest",
+    "result": "forest therapy"
+  },
+  {
+    "left": "furniture",
+    "operator": "+",
+    "right": "rainforest",
+    "result": "sustainable sourcing"
+  },
+  {
+    "left": "broadleaf trees",
+    "operator": "+",
+    "right": "pine trees",
+    "result": "forest diversity"
+  },
+  {
+    "left": "ecolodge",
+    "operator": "+",
+    "right": "deciduous trees",
+    "result": "nature retreat"
+  },
+  {
+    "left": "evergreen forest",
+    "operator": "+",
+    "right": "cedar",
+    "result": "aromatic wood"
+  },
+  {
+    "left": "tranquility",
+    "operator": "+",
+    "right": "japanese cedar",
+    "result": "zen garden"
+  },
+  {
+    "left": "cozy retreat",
+    "operator": "+",
+    "right": "tropical forest",
+    "result": "ecolodge"
+  },
+  {
+    "left": "cabin getaway",
+    "operator": "+",
+    "right": "northern woods",
+    "result": "cozy retreat"
+  },
+  {
+    "left": "evergreen",
+    "operator": "+",
+    "right": "forest retreat",
+    "result": "cabin getaway"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "deciduous forest",
+    "result": "evergreen landscape"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "evergreen forest",
+    "result": "woodland"
+  },
+  {
+    "left": "landscape art",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine forest painting"
+  },
+  {
+    "left": "pine tree painting",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "landscape art"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "evergreen art",
+    "result": "pine tree painting"
+  },
+  {
+    "left": "unusual combination",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "evergreen art"
+  },
+  {
+    "left": "deciduous",
+    "operator": "-",
+    "right": "cedar",
+    "result": "broadleaf tree"
+  },
+  {
+    "left": "at",
+    "operator": "+",
+    "right": "taiga",
+    "result": "habitat"
+  },
+  {
+    "left": "at",
+    "operator": "-",
+    "right": "taiga",
+    "result": "desert"
+  },
+  {
+    "left": "forest retreat",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "cabin in the woods"
+  },
+  {
+    "left": "solitude",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest retreat"
+  },
+  {
+    "left": "loneliness in the forest",
+    "operator": "+",
+    "right": "evergreen forest",
+    "result": "solitude"
+  },
+  {
+    "left": "emptiness",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "loneliness in the forest"
+  },
+  {
+    "left": "taiga",
+    "operator": "-",
+    "right": "void",
+    "result": "emptiness of forest"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "taiga",
+    "result": "emptiness"
+  },
+  {
+    "left": "void",
+    "operator": "+",
+    "right": "taiga",
+    "result": "wilderness"
+  },
+  {
+    "left": "asian",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "asian pine forest"
+  },
+  {
+    "left": "the decemberists",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "the hazards of love"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "folk band",
+    "result": "the decemberists"
+  },
+  {
+    "left": "woodland music",
+    "operator": "+",
+    "right": "band",
+    "result": "folk band"
+  },
+  {
+    "left": "tree music",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest symphony"
+  },
+  {
+    "left": "band",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "woodland music"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "band",
+    "result": "tree music"
+  },
+  {
+    "left": "deciduous trees",
+    "operator": "+",
+    "right": "natures cycle",
+    "result": "seasonal change"
+  },
+  {
+    "left": "pine cones",
+    "operator": "-",
+    "right": "offspring",
+    "result": "natures cycle"
+  },
+  {
+    "left": "offspring",
+    "operator": "+",
+    "right": "offspring",
+    "result": "band"
+  },
+  {
+    "left": "reproduction",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine cones"
+  },
+  {
+    "left": "reproduction",
+    "operator": "+",
+    "right": "reproduction",
+    "result": "offspring"
+  },
+  {
+    "left": "lumberjack",
+    "operator": "+",
+    "right": "fertilization",
+    "result": "tree planting"
+  },
+  {
+    "left": "fertilization",
+    "operator": "+",
+    "right": "fertilization",
+    "result": "reproduction"
+  },
+  {
+    "left": "timber",
+    "operator": "+",
+    "right": "timber",
+    "result": "lumberjack"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "forestry",
+    "result": "timber"
+  },
+  {
+    "left": "pine pollen",
+    "operator": "+",
+    "right": "growth",
+    "result": "fertilization"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "pine pollen",
+    "result": "beekeeping"
+  },
+  {
+    "left": "pine pollen",
+    "operator": "+",
+    "right": "a",
+    "result": "allergy"
+  },
+  {
+    "left": "pollen",
+    "operator": "+",
+    "right": "pine pollen",
+    "result": "allergy season"
+  },
+  {
+    "left": "boreal forest",
+    "operator": "-",
+    "right": "forest",
+    "result": "boreal"
+  },
+  {
+    "left": "paper",
+    "operator": "-",
+    "right": "wood pulp",
+    "result": "finished product"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "origami tree",
+    "result": "paper art"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "paper folding",
+    "result": "origami tree"
+  },
+  {
+    "left": "paper",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "wood pulp"
+  },
+  {
+    "left": "origami",
+    "operator": "+",
+    "right": "origami",
+    "result": "paper folding"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "origami",
+    "result": "paper tree"
+  },
+  {
+    "left": "pulp",
+    "operator": "+",
+    "right": "pulp",
+    "result": "orange juice"
+  },
+  {
+    "left": "printer",
+    "operator": "+",
+    "right": "printer",
+    "result": "photocopier"
+  },
+  {
+    "left": "paper",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pulp"
+  },
+  {
+    "left": "printer",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "paper"
+  },
+  {
+    "left": "duplicate",
+    "operator": "+",
+    "right": "ab",
+    "result": "copy"
+  },
+  {
+    "left": "ab",
+    "operator": "+",
+    "right": "ab",
+    "result": "duplicate"
+  },
+  {
+    "left": "sustainability",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest management"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "deforestation",
+    "result": "sustainability"
+  },
+  {
+    "left": "deforestation",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "barren landscape"
+  },
+  {
+    "left": "wetland forest",
+    "operator": "+",
+    "right": "wetland forest",
+    "result": "biodiversity hotspot"
+  },
+  {
+    "left": "pine needle tea",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "herbal remedy"
+  },
+  {
+    "left": "natural supplement",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine needle tea"
+  },
+  {
+    "left": "pine pollen",
+    "operator": "+",
+    "right": "pine pollen",
+    "result": "natural supplement"
+  },
+  {
+    "left": "marsh",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "wetland forest"
+  },
+  {
+    "left": "deforestation",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "habitat loss"
+  },
+  {
+    "left": "wind",
+    "operator": "+",
+    "right": "wetland",
+    "result": "marsh"
+  },
+  {
+    "left": "hurricane damage",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "deforestation"
+  },
+  {
+    "left": "hurricane",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "hurricane damage"
+  },
+  {
+    "left": "storm",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "hurricane"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "wetland"
+  },
+  {
+    "left": "wildfire damage",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest recovery"
+  },
+  {
+    "left": "forest fire",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "wildfire damage"
+  },
+  {
+    "left": "pine pollen",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest ecosystem"
+  },
+  {
+    "left": "wildfire",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest fire"
+  },
+  {
+    "left": "pollen",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine pollen"
+  },
+  {
+    "left": "fire",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "wildfire"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pollen"
+  },
+  {
+    "left": "deciduous",
+    "operator": "-",
+    "right": "forest science",
+    "result": "evergreen ecosystem"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "dendrology",
+    "result": "forest science"
+  },
+  {
+    "left": "dendrology",
+    "operator": "+",
+    "right": "dendrology",
+    "result": "study of trees"
+  },
+  {
+    "left": "evergreen",
+    "operator": "+",
+    "right": "tree science",
+    "result": "dendrology"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "botany",
+    "result": "tree science"
+  },
+  {
+    "left": "botany",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "deciduous plants"
+  },
+  {
+    "left": "cells",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "plant biology"
+  },
+  {
+    "left": "science",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "botany"
+  },
+  {
+    "left": "biology",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "evergreen trees"
+  },
+  {
+    "left": "ornament",
+    "operator": "+",
+    "right": "pinecone",
+    "result": "christmas decoration"
+  },
+  {
+    "left": "pine nut ice cream",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "forest flavor"
+  },
+  {
+    "left": "ice cream",
+    "operator": "+",
+    "right": "coniferous forest",
+    "result": "pine nut ice cream"
+  },
+  {
+    "left": "germination",
+    "operator": "+",
+    "right": "pine",
+    "result": "pine seedling"
+  },
+  {
+    "left": "pine tree growth",
+    "operator": "+",
+    "right": "pine tree growth",
+    "result": "forestry"
+  },
+  {
+    "left": "seedling",
+    "operator": "+",
+    "right": "pine tree growth",
+    "result": "reforestation"
+  },
+  {
+    "left": "germination",
+    "operator": "+",
+    "right": "pinecone",
+    "result": "pine tree growth"
+  },
+  {
+    "left": "seedling",
+    "operator": "+",
+    "right": "tiny seed",
+    "result": "germination"
+  },
+  {
+    "left": "tiny seed",
+    "operator": "+",
+    "right": "tiny seed",
+    "result": "sprout"
+  },
+  {
+    "left": "small",
+    "operator": "-",
+    "right": "pinecone",
+    "result": "tiny seed"
+  },
+  {
+    "left": "pinecone",
+    "operator": "+",
+    "right": "small",
+    "result": "seedling"
+  },
+  {
+    "left": "microbiology",
+    "operator": "-",
+    "right": "microbial science",
+    "result": "bacteria"
+  },
+  {
+    "left": "microbial science",
+    "operator": "-",
+    "right": "microbiology",
+    "result": "bacterial study"
+  },
+  {
+    "left": "microbial science",
+    "operator": "+",
+    "right": "microbiology",
+    "result": "bacteriology"
+  },
+  {
+    "left": "microbiology",
+    "operator": "-",
+    "right": "study of living organisms",
+    "result": "study of microorganisms"
+  },
+  {
+    "left": "biology",
+    "operator": "+",
+    "right": "life science",
+    "result": "study of living organisms"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "dust",
+    "result": "sand"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "breath",
+    "result": "the rock"
+  },
+  {
+    "left": "growth",
+    "operator": "+",
+    "right": "plant",
+    "result": "photosynthesis"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "ornament",
+    "result": "tree decoration"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "holiday",
+    "result": "winter wonderland"
+  },
+  {
+    "left": "tree",
+    "operator": "-",
+    "right": "christmas tree",
+    "result": "ornament"
+  },
+  {
+    "left": "christmas tree",
+    "operator": "-",
+    "right": "tree",
+    "result": "holiday"
+  },
+  {
+    "left": "decorations",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "holiday spirit"
+  },
+  {
+    "left": "christmas tree",
+    "operator": "+",
+    "right": "christmas tree",
+    "result": "decorations"
+  },
+  {
+    "left": "jupiter",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "gas giant"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "octopus",
+    "result": "unusual combination"
+  },
+  {
+    "left": "cedar tree",
+    "operator": "-",
+    "right": "tree",
+    "result": "cedar"
+  },
+  {
+    "left": "japanese cedar",
+    "operator": "-",
+    "right": "japanese",
+    "result": "cedar tree"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "japanese",
+    "result": "japanese cedar"
+  },
+  {
+    "left": "asean",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "tropical forest"
+  },
+  {
+    "left": "tree",
+    "operator": "+",
+    "right": "wood",
+    "result": "furniture"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "pine furniture",
+    "result": "woodworking"
+  },
+  {
+    "left": "wood",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "pine furniture"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "forest",
+    "result": "deciduous woods"
+  },
+  {
+    "left": "autumn leaves",
+    "operator": "+",
+    "right": "deciduous",
+    "result": "fall foliage"
+  },
+  {
+    "left": "deciduous tree",
+    "operator": "+",
+    "right": "deciduous",
+    "result": "autumn leaves"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "void",
+    "result": "evergreen emptiness"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "empty forest"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "pine trees",
+    "result": "deciduous trees"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "canada",
+    "result": "pine trees"
+  },
+  {
+    "left": "canada",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "maple tree"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "country",
+    "result": "canada"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "tropical",
+    "result": "rainforest"
+  },
+  {
+    "left": "deciduous",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "broadleaf trees"
+  },
+  {
+    "left": "pine tree",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "deciduous"
+  },
+  {
+    "left": "deciduous tree",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "broadleaf forest"
+  },
+  {
+    "left": "evergreen tree",
+    "operator": "-",
+    "right": "coniferous",
+    "result": "deciduous tree"
+  },
+  {
+    "left": "pine forest",
+    "operator": "+",
+    "right": "coniferous",
+    "result": "evergreen"
+  },
+  {
+    "left": "boreal forest",
+    "operator": "-",
+    "right": "taiga",
+    "result": "northern woods"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "pine cone",
+    "result": "evergreen tree"
+  },
+  {
+    "left": "coniferous",
+    "operator": "-",
+    "right": "pine tree",
+    "result": "evergreen forest"
+  },
+  {
+    "left": "coniferous",
+    "operator": "+",
+    "right": "boreal forest",
+    "result": "taiga"
+  },
+  {
+    "left": "coniferous forest",
+    "operator": "-",
+    "right": "forest",
+    "result": "coniferous"
+  },
+  {
+    "left": "boreal forest",
+    "operator": "+",
+    "right": "mixed forest",
+    "result": "coniferous forest"
+  },
+  {
+    "left": "temperate forest",
+    "operator": "+",
+    "right": "temperate forest",
+    "result": "boreal forest"
+  },
+  {
+    "left": "deciduous forest",
+    "operator": "+",
+    "right": "mixed forest",
+    "result": "temperate forest"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "-",
+    "right": "mixed forest",
+    "result": "ecosystem variety"
+  },
+  {
+    "left": "deciduous forest",
+    "operator": "+",
+    "right": "pine forest",
+    "result": "mixed forest"
+  },
+  {
+    "left": "deciduous forest",
+    "operator": "+",
+    "right": "pine cone",
+    "result": "ecosystem"
+  },
+  {
+    "left": "deciduous forest",
+    "operator": "+",
+    "right": "deciduous forest",
+    "result": "biodiversity"
+  },
+  {
+    "left": "deciduous forest",
+    "operator": "-",
+    "right": "deciduous forest",
+    "result": "void"
+  },
+  {
+    "left": "pine cone",
+    "operator": "-",
+    "right": "forest",
+    "result": "natures ornament"
+  },
+  {
+    "left": "forest",
+    "operator": "-",
+    "right": "pine forest",
+    "result": "deciduous forest"
+  },
+  {
+    "left": "pinecone",
+    "operator": "+",
+    "right": "tropical",
+    "result": "exotic forest"
+  },
+  {
+    "left": "pine cone",
+    "operator": "+",
+    "right": "natures artwork",
+    "result": "natural sculpture"
+  },
+  {
+    "left": "pine forest",
+    "operator": "+",
+    "right": "cone",
+    "result": "pine cone"
+  },
+  {
+    "left": "cone",
+    "operator": "+",
+    "right": "cone",
+    "result": "ice cream"
+  },
+  {
+    "left": "pinecone",
+    "operator": "-",
+    "right": "pine tree",
+    "result": "cone"
+  },
+  {
+    "left": "pinecone",
+    "operator": "-",
+    "right": "pine forest",
+    "result": "natures artwork"
+  },
+  {
+    "left": "serenity",
+    "operator": "+",
+    "right": "pine tree",
+    "result": "tranquility"
+  },
+  {
+    "left": "nature",
+    "operator": "+",
+    "right": "pine forest",
+    "result": "serenity"
+  },
+  {
+    "left": "pine forest",
+    "operator": "+",
+    "right": "pine forest",
+    "result": "nature"
+  },
+  {
+    "left": "pine forest",
+    "operator": "+",
+    "right": "pinecone",
+    "result": "pine tree"
+  },
+  {
+    "left": "forest",
+    "operator": "+",
+    "right": "pinecone",
+    "result": "pine forest"
+  },
+  {
+    "left": "bark",
+    "operator": "+",
+    "right": "pine",
+    "result": "pinecone"
+  },
+  {
+    "left": "forest",
+    "operator": "+",
+    "right": "pine",
+    "result": "christmas tree"
+  },
+  {
+    "left": "pineapple",
+    "operator": "-",
+    "right": "apple",
+    "result": "pine"
+  },
+  {
+    "left": "southeast asia",
+    "operator": "+",
+    "right": "asia",
+    "result": "asean"
+  },
+  {
+    "left": "philippines",
+    "operator": "+",
+    "right": "indonesia",
+    "result": "southeast asia"
+  },
+  {
+    "left": "ramen",
+    "operator": "-",
+    "right": "japanese cuisine",
+    "result": "noodle soup"
+  },
+  {
+    "left": "ordinary fruit",
+    "operator": "+",
+    "right": "fruit",
+    "result": "apple"
+  },
+  {
+    "left": "exotic fruit",
+    "operator": "-",
+    "right": "planetary fruit",
+    "result": "ordinary fruit"
+  },
+  {
+    "left": "starfruit",
+    "operator": "+",
+    "right": "fruit",
+    "result": "exotic fruit"
+  },
+  {
+    "left": "planetary fruit",
+    "operator": "+",
+    "right": "fruit",
+    "result": "starfruit"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "jupiter",
+    "result": "planetary fruit"
+  },
+  {
+    "left": "planet",
+    "operator": "+",
+    "right": "storm",
+    "result": "jupiter"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "wind",
+    "result": "storm"
+  },
+  {
+    "left": "drink mixer",
+    "operator": "-",
+    "right": "drink",
+    "result": "mixer"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "dispenser",
+    "result": "drink mixer"
+  },
+  {
+    "left": "mixing",
+    "operator": "+",
+    "right": "dispenser",
+    "result": "cocktail shaker"
+  },
+  {
+    "left": "dispenser",
+    "operator": "+",
+    "right": "mixed drinks",
+    "result": "cocktail machine"
+  },
+  {
+    "left": "vending machine",
+    "operator": "+",
+    "right": "dispenser",
+    "result": "snack station"
+  },
+  {
+    "left": "dispenser",
+    "operator": "+",
+    "right": "dispenser",
+    "result": "vending machine"
+  },
+  {
+    "left": "cocktail dispenser",
+    "operator": "-",
+    "right": "cocktail",
+    "result": "dispenser"
+  },
+  {
+    "left": "mixed drinks",
+    "operator": "+",
+    "right": "machine",
+    "result": "cocktail dispenser"
+  },
+  {
+    "left": "mixed drinks",
+    "operator": "+",
+    "right": "drunk",
+    "result": "hangover"
+  },
+  {
+    "left": "mixed drinks",
+    "operator": "+",
+    "right": "mixology",
+    "result": "cocktail artistry"
+  },
+  {
+    "left": "alcohol",
+    "operator": "+",
+    "right": "alcohol",
+    "result": "drunk"
+  },
+  {
+    "left": "alcoholic beverages",
+    "operator": "+",
+    "right": "nonalcoholic beverage",
+    "result": "mixed drinks"
+  },
+  {
+    "left": "water",
+    "operator": "-",
+    "right": "nonalcoholic drinks",
+    "result": "alcoholic beverages"
+  },
+  {
+    "left": "water",
+    "operator": "-",
+    "right": "nonalcoholic beverage",
+    "result": "alcohol"
+  },
+  {
+    "left": "sober",
+    "operator": "-",
+    "right": "sober party",
+    "result": "serenity"
+  },
+  {
+    "left": "sober party",
+    "operator": "+",
+    "right": "sober",
+    "result": "sober celebration"
+  },
+  {
+    "left": "at",
+    "operator": "-",
+    "right": "nonalcoholic drinks",
+    "result": "sober party"
+  },
+  {
+    "left": "bartending",
+    "operator": "+",
+    "right": "mocktails",
+    "result": "nonalcoholic drinks"
+  },
+  {
+    "left": "cocktail masterclass",
+    "operator": "+",
+    "right": "mixology",
+    "result": "bartending"
+  },
+  {
+    "left": "et",
+    "operator": "-",
+    "right": "nonalcoholic",
+    "result": "sober"
+  },
+  {
+    "left": "nonalcoholic",
+    "operator": "-",
+    "right": "mocktails",
+    "result": "refreshing drinks"
+  },
+  {
+    "left": "mocktails",
+    "operator": "-",
+    "right": "nonalcoholic",
+    "result": "refreshing beverages"
+  },
+  {
+    "left": "nonalcoholic",
+    "operator": "+",
+    "right": "mixology",
+    "result": "mocktails"
+  },
+  {
+    "left": "nonalcoholic beverage",
+    "operator": "-",
+    "right": "beverage",
+    "result": "nonalcoholic"
+  },
+  {
+    "left": "mixology event",
+    "operator": "+",
+    "right": "gourmet cocktails",
+    "result": "cocktail masterclass"
+  },
+  {
+    "left": "cocktail party",
+    "operator": "+",
+    "right": "gourmet cocktails",
+    "result": "mixology event"
+  },
+  {
+    "left": "virgin cocktail",
+    "operator": "+",
+    "right": "mocktail",
+    "result": "nonalcoholic beverage"
+  },
+  {
+    "left": "party drinks",
+    "operator": "+",
+    "right": "mocktail",
+    "result": "virgin cocktail"
+  },
+  {
+    "left": "mocktail",
+    "operator": "+",
+    "right": "cocktails",
+    "result": "party drinks"
+  },
+  {
+    "left": "mimosa",
+    "operator": "+",
+    "right": "fruit punch",
+    "result": "brunch cocktail"
+  },
+  {
+    "left": "brunch",
+    "operator": "+",
+    "right": "drink",
+    "result": "mimosa"
+  },
+  {
+    "left": "toast",
+    "operator": "+",
+    "right": "fruit punch",
+    "result": "brunch"
+  },
+  {
+    "left": "celebration",
+    "operator": "+",
+    "right": "drink",
+    "result": "toast"
+  },
+  {
+    "left": "fruit punch",
+    "operator": "+",
+    "right": "party",
+    "result": "celebration"
+  },
+  {
+    "left": "party",
+    "operator": "+",
+    "right": "fruit soda",
+    "result": "fruit punch"
+  },
+  {
+    "left": "snack time",
+    "operator": "+",
+    "right": "electro house",
+    "result": "party"
+  },
+  {
+    "left": "fruit cocktail",
+    "operator": "+",
+    "right": "video game",
+    "result": "fruit ninja"
+  },
+  {
+    "left": "party platter",
+    "operator": "+",
+    "right": "snack time",
+    "result": "finger foods"
+  },
+  {
+    "left": "stirfry",
+    "operator": "+",
+    "right": "cocktail",
+    "result": "fusion cuisine"
+  },
+  {
+    "left": "sound mixing",
+    "operator": "+",
+    "right": "mixologist",
+    "result": "audio cocktail"
+  },
+  {
+    "left": "mixology",
+    "operator": "-",
+    "right": "mixologist",
+    "result": "cocktail artist"
+  },
+  {
+    "left": "mixologist",
+    "operator": "-",
+    "right": "mixology",
+    "result": "cocktail crafting"
+  },
+  {
+    "left": "snack creation",
+    "operator": "+",
+    "right": "mixologist",
+    "result": "gourmet cocktails"
+  },
+  {
+    "left": "trail mix",
+    "operator": "+",
+    "right": "mixologist",
+    "result": "snack creation"
+  },
+  {
+    "left": "snack",
+    "operator": "+",
+    "right": "mixologist",
+    "result": "cocktail party"
+  },
+  {
+    "left": "happy hour",
+    "operator": "+",
+    "right": "cocktail",
+    "result": "mixologist"
+  },
+  {
+    "left": "snack",
+    "operator": "+",
+    "right": "cocktails",
+    "result": "happy hour"
+  },
+  {
+    "left": "bartender",
+    "operator": "+",
+    "right": "rave",
+    "result": "cocktails"
+  },
+  {
+    "left": "cocktail",
+    "operator": "+",
+    "right": "mixology",
+    "result": "bartender"
+  },
+  {
+    "left": "cocktail",
+    "operator": "+",
+    "right": "blending",
+    "result": "mixology"
+  },
+  {
+    "left": "fizzy drink",
+    "operator": "+",
+    "right": "fruit cocktail",
+    "result": "fruit soda"
+  },
+  {
+    "left": "healthy snack",
+    "operator": "+",
+    "right": "trail mix",
+    "result": "energy boost"
+  },
+  {
+    "left": "smoothie",
+    "operator": "+",
+    "right": "snack mix",
+    "result": "healthy snack"
+  },
+  {
+    "left": "drink",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "party anthem"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "blender",
+    "result": "animated film"
+  },
+  {
+    "left": "smoothie",
+    "operator": "+",
+    "right": "drink",
+    "result": "blender"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "drink",
+    "result": "caffeine"
+  },
+  {
+    "left": "casserole",
+    "operator": "+",
+    "right": "drink",
+    "result": "dinner party"
+  },
+  {
+    "left": "potluck",
+    "operator": "+",
+    "right": "mix",
+    "result": "casserole"
+  },
+  {
+    "left": "party platter",
+    "operator": "+",
+    "right": "remix",
+    "result": "potluck"
+  },
+  {
+    "left": "cocktail",
+    "operator": "+",
+    "right": "snack mix",
+    "result": "party platter"
+  },
+  {
+    "left": "smoothie bowl",
+    "operator": "+",
+    "right": "drink",
+    "result": "breakfast"
+  },
+  {
+    "left": "orange",
+    "operator": "+",
+    "right": "drink",
+    "result": "orange juice"
+  },
+  {
+    "left": "juice",
+    "operator": "+",
+    "right": "drink",
+    "result": "orange"
+  },
+  {
+    "left": "soda",
+    "operator": "+",
+    "right": "drink",
+    "result": "cola"
+  },
+  {
+    "left": "beverage",
+    "operator": "+",
+    "right": "drink",
+    "result": "refreshment"
+  },
+  {
+    "left": "coffee drink",
+    "operator": "-",
+    "right": "coffee",
+    "result": "drink"
+  },
+  {
+    "left": "affogato",
+    "operator": "+",
+    "right": "affogato",
+    "result": "delicious"
+  },
+  {
+    "left": "frappe",
+    "operator": "+",
+    "right": "affogato",
+    "result": "coffee drink"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "iced coffee",
+    "result": "frappe"
+  },
+  {
+    "left": "carbonated beverage",
+    "operator": "+",
+    "right": "espresso",
+    "result": "affogato"
+  },
+  {
+    "left": "iced coffee",
+    "operator": "+",
+    "right": "cappuccino",
+    "result": "coffee blend"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "still drink",
+    "result": "iced coffee"
+  },
+  {
+    "left": "cappuccino",
+    "operator": "+",
+    "right": "coffee",
+    "result": "espresso"
+  },
+  {
+    "left": "latte",
+    "operator": "+",
+    "right": "coffee",
+    "result": "cappuccino"
+  },
+  {
+    "left": "coffee",
+    "operator": "+",
+    "right": "beverage",
+    "result": "latte"
+  },
+  {
+    "left": "beverage",
+    "operator": "+",
+    "right": "beverage",
+    "result": "coffee"
+  },
+  {
+    "left": "cocktail",
+    "operator": "+",
+    "right": "fizzy drink",
+    "result": "sparkling cocktail"
+  },
+  {
+    "left": "still drink",
+    "operator": "+",
+    "right": "sweet drink",
+    "result": "cocktail"
+  },
+  {
+    "left": "soda",
+    "operator": "+",
+    "right": "still drink",
+    "result": "sparkling water"
+  },
+  {
+    "left": "juice",
+    "operator": "-",
+    "right": "fizzy drink",
+    "result": "still drink"
+  },
+  {
+    "left": "fizzy drink",
+    "operator": "-",
+    "right": "fizz",
+    "result": "refreshing beverage"
+  },
+  {
+    "left": "soda",
+    "operator": "-",
+    "right": "soft drink",
+    "result": "fizz"
+  },
+  {
+    "left": "juice",
+    "operator": "+",
+    "right": "soft drink",
+    "result": "mocktail"
+  },
+  {
+    "left": "soft drink",
+    "operator": "-",
+    "right": "soda",
+    "result": "juice"
+  },
+  {
+    "left": "soft drink",
+    "operator": "+",
+    "right": "soda",
+    "result": "carbonated beverage"
+  },
+  {
+    "left": "soda",
+    "operator": "+",
+    "right": "pop",
+    "result": "soft drink"
+  },
+  {
+    "left": "soda",
+    "operator": "+",
+    "right": "sweet drink",
+    "result": "pop"
+  },
+  {
+    "left": "soda",
+    "operator": "+",
+    "right": "soda",
+    "result": "fizzy drink"
+  },
+  {
+    "left": "sweet drink",
+    "operator": "+",
+    "right": "sweet drink",
+    "result": "soda"
+  },
+  {
+    "left": "beverage",
+    "operator": "-",
+    "right": "dessert",
+    "result": "sweet drink"
+  },
+  {
+    "left": "liquid dessert",
+    "operator": "-",
+    "right": "beverage",
+    "result": "pudding"
+  },
+  {
+    "left": "ice cream",
+    "operator": "-",
+    "right": "beverage",
+    "result": "dessert"
+  },
+  {
+    "left": "beverage",
+    "operator": "-",
+    "right": "smoothie bowl",
+    "result": "liquid dessert"
+  },
+  {
+    "left": "smoothie",
+    "operator": "+",
+    "right": "milkshake",
+    "result": "beverage"
+  },
+  {
+    "left": "smoothie",
+    "operator": "+",
+    "right": "salad",
+    "result": "healthy eating"
+  },
+  {
+    "left": "smoothie bowl",
+    "operator": "+",
+    "right": "blended drink",
+    "result": "healthy breakfast"
+  },
+  {
+    "left": "blended drink",
+    "operator": "+",
+    "right": "fish",
+    "result": "smoothie bowl"
+  },
+  {
+    "left": "smoothie",
+    "operator": "-",
+    "right": "blended drink",
+    "result": "fruit mash"
+  },
+  {
+    "left": "milkshake",
+    "operator": "-",
+    "right": "blended drink",
+    "result": "ice cream"
+  },
+  {
+    "left": "blended drink",
+    "operator": "-",
+    "right": "smoothie",
+    "result": "milkshake"
+  },
+  {
+    "left": "electro house",
+    "operator": "-",
+    "right": "electronic music",
+    "result": "house music"
+  },
+  {
+    "left": "dj",
+    "operator": "+",
+    "right": "party mix",
+    "result": "dance floor"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "remix",
+    "result": "dj"
+  },
+  {
+    "left": "party mix",
+    "operator": "+",
+    "right": "party mix",
+    "result": "snack time"
+  },
+  {
+    "left": "trail mix",
+    "operator": "+",
+    "right": "mix",
+    "result": "snack"
+  },
+  {
+    "left": "snack mix",
+    "operator": "+",
+    "right": "party mix",
+    "result": "trail mix"
+  },
+  {
+    "left": "final mix",
+    "operator": "+",
+    "right": "party mix",
+    "result": "snack mix"
+  },
+  {
+    "left": "mixing",
+    "operator": "+",
+    "right": "vegetable mix",
+    "result": "stirfry"
+  },
+  {
+    "left": "electro remix",
+    "operator": "+",
+    "right": "remix",
+    "result": "electro house"
+  },
+  {
+    "left": "fruit cocktail",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "party mix"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "+",
+    "right": "mix",
+    "result": "fruit cocktail"
+  },
+  {
+    "left": "outrun",
+    "operator": "+",
+    "right": "machine",
+    "result": "video game"
+  },
+  {
+    "left": "nostalgia",
+    "operator": "+",
+    "right": "machine",
+    "result": "time travel"
+  },
+  {
+    "left": "retro music",
+    "operator": "+",
+    "right": "synthwave",
+    "result": "neon nostalgia"
+  },
+  {
+    "left": "synthwave",
+    "operator": "+",
+    "right": "outrun",
+    "result": "retrofuturism"
+  },
+  {
+    "left": "outrun",
+    "operator": "+",
+    "right": "outrun",
+    "result": "marathon"
+  },
+  {
+    "left": "retrowave",
+    "operator": "+",
+    "right": "synthwave",
+    "result": "outrun"
+  },
+  {
+    "left": "nostalgia",
+    "operator": "-",
+    "right": "synthwave",
+    "result": "retro future"
+  },
+  {
+    "left": "retrowave",
+    "operator": "-",
+    "right": "synthwave",
+    "result": "nostalgia"
+  },
+  {
+    "left": "synthwave",
+    "operator": "-",
+    "right": "retrowave",
+    "result": "futuristic nostalgia"
+  },
+  {
+    "left": "electronic music",
+    "operator": "+",
+    "right": "synthwave",
+    "result": "retrowave"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "batter",
+    "result": "cupcake"
+  },
+  {
+    "left": "final mix",
+    "operator": "+",
+    "right": "batter",
+    "result": "cake"
+  },
+  {
+    "left": "synthwave",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "retro music"
+  },
+  {
+    "left": "electronic music",
+    "operator": "+",
+    "right": "synthesizer",
+    "result": "synthwave"
+  },
+  {
+    "left": "synthesizer",
+    "operator": "+",
+    "right": "machine",
+    "result": "electronic music"
+  },
+  {
+    "left": "collaboration",
+    "operator": "+",
+    "right": "machine",
+    "result": "automation"
+  },
+  {
+    "left": "creative sound design",
+    "operator": "+",
+    "right": "machine",
+    "result": "synthesizer"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "machine",
+    "result": "beatmaking"
+  },
+  {
+    "left": "machine",
+    "operator": "+",
+    "right": "machine",
+    "result": "robot"
+  },
+  {
+    "left": "war machine",
+    "operator": "-",
+    "right": "war",
+    "result": "machine"
+  },
+  {
+    "left": "eel",
+    "operator": "+",
+    "right": "baby",
+    "result": "electric shock"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "wind",
+    "result": "ice"
+  },
+  {
+    "left": "heaven",
+    "operator": "+",
+    "right": "evolution",
+    "result": "creation"
+  },
+  {
+    "left": "inferno",
+    "operator": "+",
+    "right": "inferno",
+    "result": "intense heat"
+  },
+  {
+    "left": "planet",
+    "operator": "+",
+    "right": "rock",
+    "result": "solar system"
+  },
+  {
+    "left": "sound mixing",
+    "operator": "+",
+    "right": "grammy award",
+    "result": "best engineered album"
+  },
+  {
+    "left": "grammy award",
+    "operator": "+",
+    "right": "audio production",
+    "result": "best audio engineer"
+  },
+  {
+    "left": "audio engineering",
+    "operator": "+",
+    "right": "mix",
+    "result": "sound mixing"
+  },
+  {
+    "left": "engineering",
+    "operator": "+",
+    "right": "soundtrack",
+    "result": "film score"
+  },
+  {
+    "left": "cement",
+    "operator": "+",
+    "right": "concrete",
+    "result": "construction"
+  },
+  {
+    "left": "concrete",
+    "operator": "+",
+    "right": "mix",
+    "result": "cement"
+  },
+  {
+    "left": "engineering",
+    "operator": "+",
+    "right": "mix",
+    "result": "concrete"
+  },
+  {
+    "left": "soundtrack",
+    "operator": "+",
+    "right": "sound design",
+    "result": "film scoring"
+  },
+  {
+    "left": "noise",
+    "operator": "+",
+    "right": "film",
+    "result": "soundtrack"
+  },
+  {
+    "left": "film",
+    "operator": "+",
+    "right": "audio",
+    "result": "movie"
+  },
+  {
+    "left": "sound design",
+    "operator": "+",
+    "right": "audio",
+    "result": "film"
+  },
+  {
+    "left": "engineering",
+    "operator": "+",
+    "right": "audio",
+    "result": "sound design"
+  },
+  {
+    "left": "engineering",
+    "operator": "+",
+    "right": "engineering",
+    "result": "innovation"
+  },
+  {
+    "left": "audio engineering",
+    "operator": "-",
+    "right": "audio",
+    "result": "engineering"
+  },
+  {
+    "left": "audio production",
+    "operator": "+",
+    "right": "creative sound design",
+    "result": "music composition"
+  },
+  {
+    "left": "mixing",
+    "operator": "-",
+    "right": "audio engineering",
+    "result": "creative sound design"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "sound",
+    "result": "audio engineering"
+  },
+  {
+    "left": "music artist",
+    "operator": "+",
+    "right": "music artist",
+    "result": "collaboration"
+  },
+  {
+    "left": "music creation",
+    "operator": "+",
+    "right": "human",
+    "result": "songwriting"
+  },
+  {
+    "left": "remix culture",
+    "operator": "+",
+    "right": "human",
+    "result": "creativity"
+  },
+  {
+    "left": "chimera",
+    "operator": "+",
+    "right": "human",
+    "result": "genetic engineering"
+  },
+  {
+    "left": "mashup",
+    "operator": "+",
+    "right": "animal",
+    "result": "chimera"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "human",
+    "result": "music artist"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "audio production",
+    "result": "music creation"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "mastering",
+    "result": "selfimprovement"
+  },
+  {
+    "left": "human",
+    "operator": "+",
+    "right": "mashup",
+    "result": "cyborg"
+  },
+  {
+    "left": "remix culture",
+    "operator": "+",
+    "right": "remix culture",
+    "result": "mashup"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "unmixed track",
+    "result": "remix culture"
+  },
+  {
+    "left": "final mix",
+    "operator": "-",
+    "right": "mastering",
+    "result": "raw track"
+  },
+  {
+    "left": "final mix",
+    "operator": "-",
+    "right": "mastering",
+    "result": "unmixed track"
+  },
+  {
+    "left": "final mix",
+    "operator": "+",
+    "right": "mixing",
+    "result": "batter"
+  },
+  {
+    "left": "audio production",
+    "operator": "+",
+    "right": "mastering",
+    "result": "final mix"
+  },
+  {
+    "left": "mastering",
+    "operator": "+",
+    "right": "mastering",
+    "result": "audio production"
+  },
+  {
+    "left": "mixing",
+    "operator": "-",
+    "right": "audio editing",
+    "result": "live performance"
+  },
+  {
+    "left": "audio editing",
+    "operator": "-",
+    "right": "mixing",
+    "result": "mastering"
+  },
+  {
+    "left": "audio editing",
+    "operator": "+",
+    "right": "audio",
+    "result": "podcasting"
+  },
+  {
+    "left": "audio",
+    "operator": "+",
+    "right": "recording",
+    "result": "podcast"
+  },
+  {
+    "left": "recording",
+    "operator": "+",
+    "right": "noise",
+    "result": "audio"
+  },
+  {
+    "left": "electricity",
+    "operator": "+",
+    "right": "music studio",
+    "result": "recording"
+  },
+  {
+    "left": "dance party",
+    "operator": "+",
+    "right": "music studio",
+    "result": "recording session"
+  },
+  {
+    "left": "noise cancellation",
+    "operator": "+",
+    "right": "noise cancellation",
+    "result": "active noise control"
+  },
+  {
+    "left": "noise reduction",
+    "operator": "+",
+    "right": "noise reduction",
+    "result": "audio editing"
+  },
+  {
+    "left": "soundproofing",
+    "operator": "+",
+    "right": "noise reduction",
+    "result": "noise cancellation"
+  },
+  {
+    "left": "sound",
+    "operator": "+",
+    "right": "soundproofing",
+    "result": "noise reduction"
+  },
+  {
+    "left": "soundproofing",
+    "operator": "+",
+    "right": "noise",
+    "result": "quiet"
+  },
+  {
+    "left": "soundproofing",
+    "operator": "+",
+    "right": "silence",
+    "result": "music studio"
+  },
+  {
+    "left": "noise",
+    "operator": "+",
+    "right": "recording studio",
+    "result": "soundproofing"
+  },
+  {
+    "left": "sound",
+    "operator": "+",
+    "right": "music",
+    "result": "melody"
+  },
+  {
+    "left": "noise",
+    "operator": "+",
+    "right": "silence",
+    "result": "peace"
+  },
+  {
+    "left": "noise",
+    "operator": "+",
+    "right": "noise",
+    "result": "sound"
+  },
+  {
+    "left": "music",
+    "operator": "-",
+    "right": "silence",
+    "result": "noise"
+  },
+  {
+    "left": "silence",
+    "operator": "-",
+    "right": "recording studio",
+    "result": "quiet space"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "silence",
+    "result": "headphones"
+  },
+  {
+    "left": "recording studio",
+    "operator": "-",
+    "right": "music",
+    "result": "silence"
+  },
+  {
+    "left": "remix",
+    "operator": "-",
+    "right": "recording studio",
+    "result": "creative space"
+  },
+  {
+    "left": "recording studio",
+    "operator": "-",
+    "right": "remix",
+    "result": "original track"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "music album",
+    "result": "grammy award"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "recording studio",
+    "result": "music album"
+  },
+  {
+    "left": "music production",
+    "operator": "+",
+    "right": "electricity",
+    "result": "recording studio"
+  },
+  {
+    "left": "festival",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "edm party"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "edm",
+    "result": "festival"
+  },
+  {
+    "left": "rave",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "edm festival"
+  },
+  {
+    "left": "dance party",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "rave"
+  },
+  {
+    "left": "dj set",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "dance party"
+  },
+  {
+    "left": "electro remix",
+    "operator": "+",
+    "right": "electro remix",
+    "result": "dj set"
+  },
+  {
+    "left": "electrolysis",
+    "operator": "+",
+    "right": "remix",
+    "result": "electro remix"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "energy",
+    "result": "dance music"
+  },
+  {
+    "left": "concert",
+    "operator": "+",
+    "right": "remix",
+    "result": "music festival"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "music",
+    "result": "concert"
+  },
+  {
+    "left": "dance anthem",
+    "operator": "+",
+    "right": "music",
+    "result": "edm"
+  },
+  {
+    "left": "club hit",
+    "operator": "+",
+    "right": "remix",
+    "result": "dance anthem"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "dance",
+    "result": "club hit"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "music production",
+    "result": "djing"
+  },
+  {
+    "left": "remix",
+    "operator": "+",
+    "right": "sound waves",
+    "result": "music production"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "mix",
+    "result": "remix"
+  },
+  {
+    "left": "energy",
+    "operator": "+",
+    "right": "music",
+    "result": "dance"
+  },
+  {
+    "left": "music",
+    "operator": "+",
+    "right": "electrolysis",
+    "result": "sound waves"
+  },
+  {
+    "left": "electricity",
+    "operator": "+",
+    "right": "music",
+    "result": "electric guitar"
+  },
+  {
+    "left": "electricity",
+    "operator": "+",
+    "right": "mixing",
+    "result": "electrolysis"
+  },
+  {
+    "left": "separation",
+    "operator": "+",
+    "right": "mixing",
+    "result": "emulsion"
+  },
+  {
+    "left": "mixing",
+    "operator": "-",
+    "right": "mix",
+    "result": "separation"
+  },
+  {
+    "left": "bake",
+    "operator": "+",
+    "right": "bake",
+    "result": "cookies"
+  },
+  {
+    "left": "mix",
+    "operator": "+",
+    "right": "mix",
+    "result": "bake"
+  },
+  {
+    "left": "vegetable mix",
+    "operator": "-",
+    "right": "vegetable",
+    "result": "mix"
+  },
+  {
+    "left": "flower",
+    "operator": "-",
+    "right": "fruit salad",
+    "result": "vegetable mix"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "fruit medley",
+    "result": "random assortment"
+  },
+  {
+    "left": "salad",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "vegetable"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "salad",
+    "result": "fruit medley"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "mixing",
+    "result": "salad"
+  },
+  {
+    "left": "stirring",
+    "operator": "-",
+    "right": "mixing",
+    "result": "whipping"
+  },
+  {
+    "left": "mixing",
+    "operator": "-",
+    "right": "stirring",
+    "result": "blending"
+  },
+  {
+    "left": "mixing",
+    "operator": "+",
+    "right": "stirring",
+    "result": "baking"
+  },
+  {
+    "left": "mixing",
+    "operator": "+",
+    "right": "mixing",
+    "result": "stirring"
+  },
+  {
+    "left": "bowl",
+    "operator": "+",
+    "right": "bowl",
+    "result": "mixing"
+  },
+  {
+    "left": "ramen bowl",
+    "operator": "-",
+    "right": "ramen",
+    "result": "bowl"
+  },
+  {
+    "left": "ramen soup",
+    "operator": "+",
+    "right": "ramen",
+    "result": "ramen bowl"
+  },
+  {
+    "left": "noodle soup",
+    "operator": "+",
+    "right": "ramen",
+    "result": "ramen soup"
+  },
+  {
+    "left": "void",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "empty space"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "void",
+    "result": "tropical smoothie"
+  },
+  {
+    "left": "smoothie",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "blended drink"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "smoothie",
+    "result": "chopped fruit"
+  },
+  {
+    "left": "solitary berry",
+    "operator": "+",
+    "right": "solitary berry",
+    "result": "loneliness"
+  },
+  {
+    "left": "companionship",
+    "operator": "+",
+    "right": "companionship",
+    "result": "friendship"
+  },
+  {
+    "left": "lonely fruit",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "solitary berry"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "lonely fruit",
+    "result": "companionship"
+  },
+  {
+    "left": "single fruit",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "lonely fruit"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "mixed fruit",
+    "result": "single fruit"
+  },
+  {
+    "left": "mixed fruit",
+    "operator": "-",
+    "right": "fruit",
+    "result": "smoothie"
+  },
+  {
+    "left": "physics",
+    "operator": "-",
+    "right": "force and motion",
+    "result": "inertia"
+  },
+  {
+    "left": "newtons second law",
+    "operator": "+",
+    "right": "newtons second law",
+    "result": "force and motion"
+  },
+  {
+    "left": "force",
+    "operator": "+",
+    "right": "action",
+    "result": "newtons second law"
+  },
+  {
+    "left": "matrix",
+    "operator": "+",
+    "right": "force",
+    "result": "the matrix"
+  },
+  {
+    "left": "linear transformation",
+    "operator": "+",
+    "right": "linear algebra",
+    "result": "matrix"
+  },
+  {
+    "left": "force",
+    "operator": "+",
+    "right": "vector space",
+    "result": "linear transformation"
+  },
+  {
+    "left": "location",
+    "operator": "+",
+    "right": "force",
+    "result": "geography"
+  },
+  {
+    "left": "force",
+    "operator": "+",
+    "right": "force",
+    "result": "power"
+  },
+  {
+    "left": "physics",
+    "operator": "+",
+    "right": "vector",
+    "result": "force"
+  },
+  {
+    "left": "vector",
+    "operator": "+",
+    "right": "action",
+    "result": "animation"
+  },
+  {
+    "left": "linear algebra",
+    "operator": "+",
+    "right": "linear algebra",
+    "result": "mathematics"
+  },
+  {
+    "left": "vector space",
+    "operator": "+",
+    "right": "vector space",
+    "result": "linear algebra"
+  },
+  {
+    "left": "vector",
+    "operator": "+",
+    "right": "vector",
+    "result": "vector space"
+  },
+  {
+    "left": "physics",
+    "operator": "+",
+    "right": "direction",
+    "result": "vector"
+  },
+  {
+    "left": "momentum",
+    "operator": "+",
+    "right": "velocity",
+    "result": "physics"
+  },
+  {
+    "left": "action",
+    "operator": "+",
+    "right": "speed",
+    "result": "fastpaced"
+  },
+  {
+    "left": "velocity",
+    "operator": "+",
+    "right": "action",
+    "result": "momentum"
+  },
+  {
+    "left": "velocity",
+    "operator": "+",
+    "right": "velocity",
+    "result": "speed"
+  },
+  {
+    "left": "motion",
+    "operator": "+",
+    "right": "direction",
+    "result": "velocity"
+  },
+  {
+    "left": "activity",
+    "operator": "+",
+    "right": "activity",
+    "result": "exercise"
+  },
+  {
+    "left": "motion",
+    "operator": "+",
+    "right": "action",
+    "result": "activity"
+  },
+  {
+    "left": "interaction",
+    "operator": "+",
+    "right": "interaction",
+    "result": "communication"
+  },
+  {
+    "left": "action",
+    "operator": "+",
+    "right": "action",
+    "result": "interaction"
+  },
+  {
+    "left": "movement",
+    "operator": "+",
+    "right": "movement",
+    "result": "action"
+  },
+  {
+    "left": "motion",
+    "operator": "+",
+    "right": "motion",
+    "result": "movement"
+  },
+  {
+    "left": "electric current",
+    "operator": "-",
+    "right": "energy",
+    "result": "motion"
+  },
+  {
+    "left": "wind power",
+    "operator": "+",
+    "right": "direction",
+    "result": "wind vane"
+  },
+  {
+    "left": "electricity",
+    "operator": "+",
+    "right": "direction",
+    "result": "electric current"
+  },
+  {
+    "left": "power outage",
+    "operator": "+",
+    "right": "power outage",
+    "result": "blackout"
+  },
+  {
+    "left": "power outage",
+    "operator": "-",
+    "right": "energy",
+    "result": "darkness"
+  },
+  {
+    "left": "electricity",
+    "operator": "-",
+    "right": "wind power",
+    "result": "power outage"
+  },
+  {
+    "left": "wind",
+    "operator": "-",
+    "right": "wind power",
+    "result": "air"
+  },
+  {
+    "left": "wind power",
+    "operator": "-",
+    "right": "wind",
+    "result": "electricity"
+  },
+  {
+    "left": "direction",
+    "operator": "-",
+    "right": "location",
+    "result": "lost"
+  },
+  {
+    "left": "learning",
+    "operator": "+",
+    "right": "guidance",
+    "result": "mentorship"
+  },
+  {
+    "left": "book",
+    "operator": "+",
+    "right": "direction",
+    "result": "map"
+  },
+  {
+    "left": "evolution",
+    "operator": "+",
+    "right": "direction",
+    "result": "natural selection"
+  },
+  {
+    "left": "learning",
+    "operator": "+",
+    "right": "direction",
+    "result": "guidance"
+  },
+  {
+    "left": "graceful",
+    "operator": "+",
+    "right": "graceful",
+    "result": "elegant"
+  },
+  {
+    "left": "bird",
+    "operator": "+",
+    "right": "swan",
+    "result": "graceful"
+  },
+  {
+    "left": "pet",
+    "operator": "+",
+    "right": "a",
+    "result": "companion"
+  },
+  {
+    "left": "book",
+    "operator": "+",
+    "right": "library",
+    "result": "reading"
+  },
+  {
+    "left": "library",
+    "operator": "+",
+    "right": "house",
+    "result": "book"
+  },
+  {
+    "left": "library",
+    "operator": "+",
+    "right": "knowledge",
+    "result": "education"
+  },
+  {
+    "left": "wind",
+    "operator": "+",
+    "right": "water",
+    "result": "breath"
+  },
+  {
+    "left": "navigation",
+    "operator": "+",
+    "right": "direction",
+    "result": "gps"
+  },
+  {
+    "left": "direction",
+    "operator": "+",
+    "right": "location",
+    "result": "navigation"
+  },
+  {
+    "left": "location",
+    "operator": "+",
+    "right": "location",
+    "result": "coordinates"
+  },
+  {
+    "left": "direction",
+    "operator": "+",
+    "right": "direction",
+    "result": "location"
+  },
+  {
+    "left": "southeast",
+    "operator": "+",
+    "right": "a",
+    "result": "direction"
+  },
+  {
+    "left": "archipelago nation",
+    "operator": "+",
+    "right": "asian",
+    "result": "indonesia"
+  },
+  {
+    "left": "storm",
+    "operator": "+",
+    "right": "water",
+    "result": "rain"
+  },
+  {
+    "left": "island country",
+    "operator": "+",
+    "right": "asia",
+    "result": "maldives"
+  },
+  {
+    "left": "sushi",
+    "operator": "+",
+    "right": "fish",
+    "result": "japan"
+  },
+  {
+    "left": "fish",
+    "operator": "+",
+    "right": "asia",
+    "result": "sushi"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "dust",
+    "result": "soil"
+  },
+  {
+    "left": "dust",
+    "operator": "+",
+    "right": "wind",
+    "result": "sandstorm"
+  },
+  {
+    "left": "wind",
+    "operator": "+",
+    "right": "earth",
+    "result": "dust"
   }
 ]
