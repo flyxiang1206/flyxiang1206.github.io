@@ -20698,5 +20698,2939 @@
     "operator": "+",
     "right": "earth",
     "result": "dust"
+  },
+  {
+    "left": "hole",
+    "operator": "+",
+    "right": "bread",
+    "result": "bagel"
+  },
+  {
+    "left": "b",
+    "operator": "+",
+    "right": "fire",
+    "result": "campfire"
+  },
+  {
+    "left": "tree",
+    "operator": "+",
+    "right": "flame",
+    "result": "wildfire"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "water",
+    "result": "rock planet"
+  },
+  {
+    "left": "stuffed bread",
+    "operator": "+",
+    "right": "bread",
+    "result": "stuffed sandwich"
+  },
+  {
+    "left": "calzone",
+    "operator": "+",
+    "right": "calzone",
+    "result": "delicious meal"
+  },
+  {
+    "left": "stuffed bread",
+    "operator": "+",
+    "right": "stuffed bread",
+    "result": "calzone"
+  },
+  {
+    "left": "stuffed toast",
+    "operator": "+",
+    "right": "stuffed bread",
+    "result": "french toast"
+  },
+  {
+    "left": "stuffing",
+    "operator": "+",
+    "right": "toast",
+    "result": "stuffed toast"
+  },
+  {
+    "left": "stuffing",
+    "operator": "+",
+    "right": "bread",
+    "result": "stuffed bread"
+  },
+  {
+    "left": "stuffing",
+    "operator": "+",
+    "right": "stuffing",
+    "result": "thanksgiving"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "savory",
+    "result": "stuffing"
+  },
+  {
+    "left": "savory",
+    "operator": "+",
+    "right": "savory",
+    "result": "umami"
+  },
+  {
+    "left": "savory",
+    "operator": "-",
+    "right": "savory",
+    "result": "void"
+  },
+  {
+    "left": "bread",
+    "operator": "-",
+    "right": "sweet treat",
+    "result": "savory loaf"
+  },
+  {
+    "left": "bread",
+    "operator": "-",
+    "right": "sweets",
+    "result": "savory"
+  },
+  {
+    "left": "artisan sandwich",
+    "operator": "+",
+    "right": "artisan sandwich",
+    "result": "gourmet meal"
+  },
+  {
+    "left": "sourdough bread",
+    "operator": "+",
+    "right": "sourdough starter",
+    "result": "artisan bread"
+  },
+  {
+    "left": "loaf",
+    "operator": "+",
+    "right": "loaf",
+    "result": "sandwich"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "baking ingredient",
+    "result": "loaf"
+  },
+  {
+    "left": "cinnamon roll",
+    "operator": "+",
+    "right": "bread",
+    "result": "cinnamon bread"
+  },
+  {
+    "left": "baby",
+    "operator": "+",
+    "right": "bread",
+    "result": "baby food"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "icicle",
+    "result": "frozen toast"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "snow white",
+    "result": "fairy tale"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "sugar",
+    "result": "cinnamon roll"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "candy",
+    "result": "sweetener"
+  },
+  {
+    "left": "elsa",
+    "operator": "+",
+    "right": "elsa",
+    "result": "frozen"
+  },
+  {
+    "left": "icicle",
+    "operator": "+",
+    "right": "cream",
+    "result": "frozen dessert"
+  },
+  {
+    "left": "distance",
+    "operator": "+",
+    "right": "stone",
+    "result": "milestone"
+  },
+  {
+    "left": "unit",
+    "operator": "+",
+    "right": "distance",
+    "result": "meter"
+  },
+  {
+    "left": "length",
+    "operator": "+",
+    "right": "distance",
+    "result": "unit"
+  },
+  {
+    "left": "classroom chaos",
+    "operator": "+",
+    "right": "online education",
+    "result": "virtual learning"
+  },
+  {
+    "left": "disruption",
+    "operator": "+",
+    "right": "learning environment",
+    "result": "classroom chaos"
+  },
+  {
+    "left": "educational challenges",
+    "operator": "+",
+    "right": "online education",
+    "result": "elearning obstacles"
+  },
+  {
+    "left": "remote learning",
+    "operator": "+",
+    "right": "disruption",
+    "result": "educational challenges"
+  },
+  {
+    "left": "virus",
+    "operator": "+",
+    "right": "school",
+    "result": "remote learning"
+  },
+  {
+    "left": "country",
+    "operator": "+",
+    "right": "country",
+    "result": "world"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "emotions",
+    "result": "mood"
+  },
+  {
+    "left": "overwhelming feelings",
+    "operator": "+",
+    "right": "feelings",
+    "result": "overwhelming"
+  },
+  {
+    "left": "rain",
+    "operator": "+",
+    "right": "emotions",
+    "result": "rainbow"
+  },
+  {
+    "left": "big",
+    "operator": "+",
+    "right": "emotions",
+    "result": "overwhelming feelings"
+  },
+  {
+    "left": "big cat",
+    "operator": "-",
+    "right": "cat",
+    "result": "big"
+  },
+  {
+    "left": "plant",
+    "operator": "-",
+    "right": "et",
+    "result": "vegetable"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "growth",
+    "result": "personal development"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "plant",
+    "result": "growth"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "anxiety",
+    "result": "mental health"
+  },
+  {
+    "left": "anxiety",
+    "operator": "+",
+    "right": "anxiety",
+    "result": "panic attack"
+  },
+  {
+    "left": "happiness",
+    "operator": "+",
+    "right": "overthinking",
+    "result": "anxiety"
+  },
+  {
+    "left": "happiness",
+    "operator": "+",
+    "right": "emotions",
+    "result": "positive psychology"
+  },
+  {
+    "left": "sadness",
+    "operator": "-",
+    "right": "emotions",
+    "result": "empty void"
+  },
+  {
+    "left": "sadness",
+    "operator": "+",
+    "right": "sadness",
+    "result": "tears"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "sadness",
+    "result": "crying"
+  },
+  {
+    "left": "thoughts",
+    "operator": "+",
+    "right": "thoughts",
+    "result": "overthinking"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "feelings",
+    "result": "thoughts"
+  },
+  {
+    "left": "emotions",
+    "operator": "+",
+    "right": "emotions",
+    "result": "feelings"
+  },
+  {
+    "left": "sadness",
+    "operator": "+",
+    "right": "happiness",
+    "result": "emotions"
+  },
+  {
+    "left": "joy",
+    "operator": "-",
+    "right": "happiness",
+    "result": "contentment"
+  },
+  {
+    "left": "happiness",
+    "operator": "-",
+    "right": "joy",
+    "result": "sadness"
+  },
+  {
+    "left": "joy",
+    "operator": "+",
+    "right": "kids",
+    "result": "playground"
+  },
+  {
+    "left": "happiness",
+    "operator": "+",
+    "right": "joy",
+    "result": "euphoria"
+  },
+  {
+    "left": "happiness",
+    "operator": "+",
+    "right": "laughter",
+    "result": "joy"
+  },
+  {
+    "left": "laughter",
+    "operator": "+",
+    "right": "laughter",
+    "result": "happiness"
+  },
+  {
+    "left": "laughter",
+    "operator": "+",
+    "right": "sleeping",
+    "result": "dreams"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "children",
+    "result": "laughter"
+  },
+  {
+    "left": "breath",
+    "operator": "+",
+    "right": "toddler",
+    "result": "sleeping"
+  },
+  {
+    "left": "children",
+    "operator": "+",
+    "right": "children",
+    "result": "kids"
+  },
+  {
+    "left": "toddler",
+    "operator": "+",
+    "right": "toddler",
+    "result": "children"
+  },
+  {
+    "left": "infant",
+    "operator": "+",
+    "right": "baby",
+    "result": "toddler"
+  },
+  {
+    "left": "infant",
+    "operator": "+",
+    "right": "infant",
+    "result": "twins"
+  },
+  {
+    "left": "baby",
+    "operator": "+",
+    "right": "baby",
+    "result": "infant"
+  },
+  {
+    "left": "vehicle",
+    "operator": "+",
+    "right": "amphibious vehicle",
+    "result": "hovercraft"
+  },
+  {
+    "left": "land vehicle",
+    "operator": "-",
+    "right": "land",
+    "result": "vehicle"
+  },
+  {
+    "left": "amphibious vehicle",
+    "operator": "-",
+    "right": "military vehicle",
+    "result": "civilian transport"
+  },
+  {
+    "left": "military vehicle",
+    "operator": "-",
+    "right": "amphibious vehicle",
+    "result": "land vehicle"
+  },
+  {
+    "left": "amphibious vehicle",
+    "operator": "+",
+    "right": "military vehicle",
+    "result": "lvt landing vehicle tracked"
+  },
+  {
+    "left": "amphibious assault vehicle",
+    "operator": "-",
+    "right": "military vehicle",
+    "result": "amphibious vehicle"
+  },
+  {
+    "left": "military vehicle",
+    "operator": "-",
+    "right": "amphibious assault vehicle",
+    "result": "land warfare"
+  },
+  {
+    "left": "aav7",
+    "operator": "+",
+    "right": "aav7",
+    "result": "gene therapy"
+  },
+  {
+    "left": "amphibious assault vehicle",
+    "operator": "+",
+    "right": "military transport",
+    "result": "aav7"
+  },
+  {
+    "left": "amphibious assault vehicle",
+    "operator": "+",
+    "right": "armored vehicle",
+    "result": "military transport"
+  },
+  {
+    "left": "aav",
+    "operator": "+",
+    "right": "aav",
+    "result": "duplicate"
+  },
+  {
+    "left": "military vehicle",
+    "operator": "+",
+    "right": "amphibious assault vehicle",
+    "result": "aav"
+  },
+  {
+    "left": "amphibious assault vehicle",
+    "operator": "+",
+    "right": "amphibious assault vehicle",
+    "result": "marine corps"
+  },
+  {
+    "left": "amphibious assault vehicle",
+    "operator": "+",
+    "right": "breath",
+    "result": "underwater operation"
+  },
+  {
+    "left": "military vehicle",
+    "operator": "+",
+    "right": "ocean",
+    "result": "amphibious assault vehicle"
+  },
+  {
+    "left": "tank",
+    "operator": "+",
+    "right": "military vehicle",
+    "result": "armored vehicle"
+  },
+  {
+    "left": "tank",
+    "operator": "-",
+    "right": "tank art",
+    "result": "military vehicle"
+  },
+  {
+    "left": "artistic creation",
+    "operator": "+",
+    "right": "tank",
+    "result": "tank art"
+  },
+  {
+    "left": "tank",
+    "operator": "-",
+    "right": "war art",
+    "result": "peaceful canvas"
+  },
+  {
+    "left": "clay sculpture",
+    "operator": "+",
+    "right": "pottery",
+    "result": "ceramics"
+  },
+  {
+    "left": "artillery",
+    "operator": "+",
+    "right": "artistic creation",
+    "result": "war art"
+  },
+  {
+    "left": "clay sculpture",
+    "operator": "+",
+    "right": "tank",
+    "result": "artillery"
+  },
+  {
+    "left": "artistic creation",
+    "operator": "-",
+    "right": "pottery",
+    "result": "sculpture"
+  },
+  {
+    "left": "clay sculpture",
+    "operator": "-",
+    "right": "pottery",
+    "result": "artistic creation"
+  },
+  {
+    "left": "pottery",
+    "operator": "-",
+    "right": "wind",
+    "result": "clay sculpture"
+  },
+  {
+    "left": "fish",
+    "operator": "+",
+    "right": "aquarium",
+    "result": "tank"
+  },
+  {
+    "left": "month",
+    "operator": "+",
+    "right": "3 three",
+    "result": "march"
+  },
+  {
+    "left": "days",
+    "operator": "-",
+    "right": "winter",
+    "result": "seasonal change"
+  },
+  {
+    "left": "january",
+    "operator": "-",
+    "right": "month",
+    "result": "winter"
+  },
+  {
+    "left": "calendar",
+    "operator": "-",
+    "right": "january",
+    "result": "month"
+  },
+  {
+    "left": "weeks",
+    "operator": "-",
+    "right": "months",
+    "result": "seasons"
+  },
+  {
+    "left": "months",
+    "operator": "-",
+    "right": "days",
+    "result": "weeks"
+  },
+  {
+    "left": "january",
+    "operator": "+",
+    "right": "2 two",
+    "result": "january 2nd"
+  },
+  {
+    "left": "months",
+    "operator": "-",
+    "right": "january",
+    "result": "the rest of the year"
+  },
+  {
+    "left": "january",
+    "operator": "+",
+    "right": "3 three",
+    "result": "new year"
+  },
+  {
+    "left": "months",
+    "operator": "+",
+    "right": "one",
+    "result": "january"
+  },
+  {
+    "left": "calendar",
+    "operator": "-",
+    "right": "months",
+    "result": "days"
+  },
+  {
+    "left": "months",
+    "operator": "+",
+    "right": "3 three",
+    "result": "quarter"
+  },
+  {
+    "left": "year",
+    "operator": "-",
+    "right": "calendar",
+    "result": "months"
+  },
+  {
+    "left": "3 three",
+    "operator": "+",
+    "right": "day",
+    "result": "holiday"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "3 three",
+    "result": "time travel"
+  },
+  {
+    "left": "year",
+    "operator": "+",
+    "right": "3 three",
+    "result": "triennium"
+  },
+  {
+    "left": "season",
+    "operator": "+",
+    "right": "3 three",
+    "result": "stranger things"
+  },
+  {
+    "left": "calendar",
+    "operator": "+",
+    "right": "3 three",
+    "result": "trilogy"
+  },
+  {
+    "left": "2 two",
+    "operator": "+",
+    "right": "one",
+    "result": "3 three"
+  },
+  {
+    "left": "2 two",
+    "operator": "+",
+    "right": "2 two",
+    "result": "4 four"
+  },
+  {
+    "left": "one",
+    "operator": "+",
+    "right": "one",
+    "result": "2 two"
+  },
+  {
+    "left": "harvest",
+    "operator": "+",
+    "right": "one",
+    "result": "harvest moon"
+  },
+  {
+    "left": "autumn",
+    "operator": "+",
+    "right": "date",
+    "result": "harvest"
+  },
+  {
+    "left": "change",
+    "operator": "+",
+    "right": "season",
+    "result": "autumn"
+  },
+  {
+    "left": "season",
+    "operator": "+",
+    "right": "moment",
+    "result": "change"
+  },
+  {
+    "left": "moment",
+    "operator": "+",
+    "right": "date",
+    "result": "timestamp"
+  },
+  {
+    "left": "one",
+    "operator": "-",
+    "right": "date",
+    "result": "single"
+  },
+  {
+    "left": "calendar",
+    "operator": "-",
+    "right": "season",
+    "result": "date"
+  },
+  {
+    "left": "season",
+    "operator": "+",
+    "right": "one",
+    "result": "television series"
+  },
+  {
+    "left": "daytime",
+    "operator": "+",
+    "right": "year",
+    "result": "season"
+  },
+  {
+    "left": "year",
+    "operator": "-",
+    "right": "rainbow",
+    "result": "time spectrum"
+  },
+  {
+    "left": "one year",
+    "operator": "-",
+    "right": "day one",
+    "result": "birthday"
+  },
+  {
+    "left": "day",
+    "operator": "+",
+    "right": "one",
+    "result": "day one"
+  },
+  {
+    "left": "one",
+    "operator": "+",
+    "right": "time",
+    "result": "second"
+  },
+  {
+    "left": "infinity",
+    "operator": "+",
+    "right": "one",
+    "result": "eternity"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "one",
+    "result": "infinity"
+  },
+  {
+    "left": "one year",
+    "operator": "-",
+    "right": "year",
+    "result": "one"
+  },
+  {
+    "left": "decade",
+    "operator": "-",
+    "right": "nine years",
+    "result": "one year"
+  },
+  {
+    "left": "decade",
+    "operator": "-",
+    "right": "year",
+    "result": "nine years"
+  },
+  {
+    "left": "a day",
+    "operator": "-",
+    "right": "year",
+    "result": "moment"
+  },
+  {
+    "left": "year",
+    "operator": "-",
+    "right": "a day",
+    "result": "decade"
+  },
+  {
+    "left": "year",
+    "operator": "+",
+    "right": "year",
+    "result": "anniversary"
+  },
+  {
+    "left": "calendar",
+    "operator": "-",
+    "right": "a day",
+    "result": "year"
+  },
+  {
+    "left": "24 hours",
+    "operator": "+",
+    "right": "schedule",
+    "result": "time management"
+  },
+  {
+    "left": "a day",
+    "operator": "+",
+    "right": "rainbow",
+    "result": "hope"
+  },
+  {
+    "left": "schedule",
+    "operator": "+",
+    "right": "a day",
+    "result": "itinerary"
+  },
+  {
+    "left": "24 hours",
+    "operator": "+",
+    "right": "24 hours",
+    "result": "a day"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "clock",
+    "result": "alarm"
+  },
+  {
+    "left": "calendar",
+    "operator": "+",
+    "right": "afternoon",
+    "result": "schedule"
+  },
+  {
+    "left": "calendar",
+    "operator": "+",
+    "right": "day",
+    "result": "appointment"
+  },
+  {
+    "left": "calendar",
+    "operator": "+",
+    "right": "time",
+    "result": "scheduling"
+  },
+  {
+    "left": "calendar",
+    "operator": "+",
+    "right": "calendar",
+    "result": "planner"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "day",
+    "result": "calendar"
+  },
+  {
+    "left": "time",
+    "operator": "+",
+    "right": "time",
+    "result": "clock"
+  },
+  {
+    "left": "24 hours",
+    "operator": "+",
+    "right": "day",
+    "result": "time"
+  },
+  {
+    "left": "morning",
+    "operator": "+",
+    "right": "daytime",
+    "result": "afternoon"
+  },
+  {
+    "left": "dawn",
+    "operator": "+",
+    "right": "daytime",
+    "result": "morning"
+  },
+  {
+    "left": "night",
+    "operator": "+",
+    "right": "daytime",
+    "result": "dawn"
+  },
+  {
+    "left": "steam",
+    "operator": "+",
+    "right": "tornado",
+    "result": "whirlwind"
+  },
+  {
+    "left": "sunshine",
+    "operator": "+",
+    "right": "sun",
+    "result": "daytime"
+  },
+  {
+    "left": "solar system",
+    "operator": "-",
+    "right": "planet",
+    "result": "sun"
+  },
+  {
+    "left": "planet",
+    "operator": "+",
+    "right": "planet",
+    "result": "solar system"
+  },
+  {
+    "left": "precious gem",
+    "operator": "+",
+    "right": "china",
+    "result": "jade"
+  },
+  {
+    "left": "gemstone",
+    "operator": "-",
+    "right": "stone",
+    "result": "precious gem"
+  },
+  {
+    "left": "gemstone",
+    "operator": "+",
+    "right": "gemstone",
+    "result": "jewelry"
+  },
+  {
+    "left": "beverage",
+    "operator": "+",
+    "right": "container",
+    "result": "bottle"
+  },
+  {
+    "left": "cup",
+    "operator": "+",
+    "right": "container",
+    "result": "liquid"
+  },
+  {
+    "left": "container",
+    "operator": "+",
+    "right": "gallon",
+    "result": "liquid measurement"
+  },
+  {
+    "left": "big",
+    "operator": "+",
+    "right": "gallon",
+    "result": "container"
+  },
+  {
+    "left": "gallon",
+    "operator": "+",
+    "right": "cat",
+    "result": "cat litter"
+  },
+  {
+    "left": "beverage",
+    "operator": "+",
+    "right": "big",
+    "result": "gallon"
+  },
+  {
+    "left": "cooler",
+    "operator": "+",
+    "right": "beverage",
+    "result": "refreshment"
+  },
+  {
+    "left": "beverage container",
+    "operator": "+",
+    "right": "beverage container",
+    "result": "cooler"
+  },
+  {
+    "left": "mugs mug",
+    "operator": "-",
+    "right": "cup",
+    "result": "beverage container"
+  },
+  {
+    "left": "beverage",
+    "operator": "+",
+    "right": "cup",
+    "result": "coffee"
+  },
+  {
+    "left": "tankard",
+    "operator": "+",
+    "right": "tankard",
+    "result": "cheers"
+  },
+  {
+    "left": "giant mug",
+    "operator": "+",
+    "right": "tankard",
+    "result": "beer"
+  },
+  {
+    "left": "tankard",
+    "operator": "+",
+    "right": "big",
+    "result": "giant mug"
+  },
+  {
+    "left": "mugs mug",
+    "operator": "+",
+    "right": "big",
+    "result": "tankard"
+  },
+  {
+    "left": "drink",
+    "operator": "+",
+    "right": "drink",
+    "result": "beverage"
+  },
+  {
+    "left": "mugs mug",
+    "operator": "+",
+    "right": "cup",
+    "result": "drink"
+  },
+  {
+    "left": "mugs mug",
+    "operator": "+",
+    "right": "mugs mug",
+    "result": "mugshot"
+  },
+  {
+    "left": "big",
+    "operator": "+",
+    "right": "cup",
+    "result": "mugs mug"
+  },
+  {
+    "left": "forest",
+    "operator": "+",
+    "right": "woods",
+    "result": "trees"
+  },
+  {
+    "left": "fruit salad",
+    "operator": "+",
+    "right": "small",
+    "result": "fruit cup"
+  },
+  {
+    "left": "green",
+    "operator": "+",
+    "right": "insect",
+    "result": "grasshopper"
+  },
+  {
+    "left": "yellow",
+    "operator": "+",
+    "right": "blue",
+    "result": "green"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "yellow",
+    "result": "banana"
+  },
+  {
+    "left": "fruit",
+    "operator": "-",
+    "right": "blue",
+    "result": "yellow"
+  },
+  {
+    "left": "sky",
+    "operator": "-",
+    "right": "blue",
+    "result": "infinite space"
+  },
+  {
+    "left": "color",
+    "operator": "+",
+    "right": "blue",
+    "result": "sky"
+  },
+  {
+    "left": "berry",
+    "operator": "-",
+    "right": "blueberry",
+    "result": "blue"
+  },
+  {
+    "left": "berry",
+    "operator": "+",
+    "right": "small",
+    "result": "blueberry"
+  },
+  {
+    "left": "fruit",
+    "operator": "+",
+    "right": "small",
+    "result": "berry"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "camouflage",
+    "result": "hidden beauty"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "color",
+    "result": "spectrum"
+  },
+  {
+    "left": "color",
+    "operator": "-",
+    "right": "rainbow",
+    "result": "white light"
+  },
+  {
+    "left": "vibrant hue",
+    "operator": "-",
+    "right": "nature",
+    "result": "artificial color"
+  },
+  {
+    "left": "color",
+    "operator": "-",
+    "right": "greenery",
+    "result": "vibrant hue"
+  },
+  {
+    "left": "camouflage",
+    "operator": "+",
+    "right": "camouflage",
+    "result": "military"
+  },
+  {
+    "left": "insect",
+    "operator": "-",
+    "right": "color",
+    "result": "camouflage"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "b",
+    "result": "color"
+  },
+  {
+    "left": "sustainable farming",
+    "operator": "+",
+    "right": "compost",
+    "result": "organic agriculture"
+  },
+  {
+    "left": "agriculture",
+    "operator": "-",
+    "right": "insect",
+    "result": "crop protection"
+  },
+  {
+    "left": "extinction",
+    "operator": "+",
+    "right": "insect",
+    "result": "biodiversity loss"
+  },
+  {
+    "left": "scarcity",
+    "operator": "+",
+    "right": "insect",
+    "result": "extinction"
+  },
+  {
+    "left": "hawaii",
+    "operator": "+",
+    "right": "locusts",
+    "result": "invasive species"
+  },
+  {
+    "left": "japan",
+    "operator": "+",
+    "right": "locusts",
+    "result": "agricultural crisis"
+  },
+  {
+    "left": "tropical paradise",
+    "operator": "-",
+    "right": "locusts",
+    "result": "idyllic escape"
+  },
+  {
+    "left": "dirt",
+    "operator": "-",
+    "right": "locusts",
+    "result": "soil without pests"
+  },
+  {
+    "left": "plant",
+    "operator": "-",
+    "right": "locusts",
+    "result": "ecosystem balance"
+  },
+  {
+    "left": "locusts",
+    "operator": "-",
+    "right": "land",
+    "result": "desert"
+  },
+  {
+    "left": "land",
+    "operator": "-",
+    "right": "locusts",
+    "result": "natures balance"
+  },
+  {
+    "left": "locusts",
+    "operator": "-",
+    "right": "brick",
+    "result": "infestation"
+  },
+  {
+    "left": "palm tree",
+    "operator": "+",
+    "right": "insect",
+    "result": "palm weevil"
+  },
+  {
+    "left": "islands",
+    "operator": "+",
+    "right": "insect",
+    "result": "tropical biodiversity"
+  },
+  {
+    "left": "tree damage",
+    "operator": "+",
+    "right": "butterfly",
+    "result": "ecosystem impact"
+  },
+  {
+    "left": "bark beetle",
+    "operator": "+",
+    "right": "bark beetle",
+    "result": "tree damage"
+  },
+  {
+    "left": "butterfly",
+    "operator": "+",
+    "right": "metamorphosis",
+    "result": "caterpillar"
+  },
+  {
+    "left": "nature",
+    "operator": "+",
+    "right": "metamorphosis",
+    "result": "transformation"
+  },
+  {
+    "left": "landscape",
+    "operator": "-",
+    "right": "greenery",
+    "result": "scenery"
+  },
+  {
+    "left": "season",
+    "operator": "+",
+    "right": "season",
+    "result": "year"
+  },
+  {
+    "left": "spring",
+    "operator": "+",
+    "right": "spring",
+    "result": "season"
+  },
+  {
+    "left": "gardening",
+    "operator": "+",
+    "right": "planting",
+    "result": "spring"
+  },
+  {
+    "left": "gardening",
+    "operator": "-",
+    "right": "garden",
+    "result": "planting"
+  },
+  {
+    "left": "landscape",
+    "operator": "+",
+    "right": "insect",
+    "result": "nature photography"
+  },
+  {
+    "left": "greenery",
+    "operator": "-",
+    "right": "plants",
+    "result": "landscape"
+  },
+  {
+    "left": "plants",
+    "operator": "+",
+    "right": "greenery",
+    "result": "gardening"
+  },
+  {
+    "left": "greenery",
+    "operator": "-",
+    "right": "nature",
+    "result": "plants"
+  },
+  {
+    "left": "nature",
+    "operator": "+",
+    "right": "nature",
+    "result": "environment"
+  },
+  {
+    "left": "greenery",
+    "operator": "+",
+    "right": "greenery",
+    "result": "nature"
+  },
+  {
+    "left": "flower",
+    "operator": "+",
+    "right": "garden",
+    "result": "bouquet"
+  },
+  {
+    "left": "bark",
+    "operator": "+",
+    "right": "insect",
+    "result": "bark beetle"
+  },
+  {
+    "left": "dirt",
+    "operator": "+",
+    "right": "insect",
+    "result": "earthworm"
+  },
+  {
+    "left": "evolution",
+    "operator": "+",
+    "right": "insect",
+    "result": "metamorphosis"
+  },
+  {
+    "left": "rock",
+    "operator": "+",
+    "right": "insect",
+    "result": "fossil"
+  },
+  {
+    "left": "insect",
+    "operator": "+",
+    "right": "lovebug",
+    "result": "romance"
+  },
+  {
+    "left": "romantic attraction",
+    "operator": "+",
+    "right": "insect",
+    "result": "lovebug"
+  },
+  {
+    "left": "insect",
+    "operator": "+",
+    "right": "love",
+    "result": "romantic attraction"
+  },
+  {
+    "left": "pesticide",
+    "operator": "+",
+    "right": "insect",
+    "result": "insecticide"
+  },
+  {
+    "left": "pest",
+    "operator": "+",
+    "right": "insect",
+    "result": "pesticide"
+  },
+  {
+    "left": "compost",
+    "operator": "+",
+    "right": "mouse",
+    "result": "vermin"
+  },
+  {
+    "left": "fertilizer",
+    "operator": "+",
+    "right": "insect",
+    "result": "compost"
+  },
+  {
+    "left": "fertilizer",
+    "operator": "+",
+    "right": "group",
+    "result": "community garden"
+  },
+  {
+    "left": "miracle",
+    "operator": "+",
+    "right": "agriculture",
+    "result": "fertilizer"
+  },
+  {
+    "left": "exotic pet",
+    "operator": "+",
+    "right": "locust",
+    "result": "unusual pet"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "pet",
+    "result": "exotic pet"
+  },
+  {
+    "left": "act of god",
+    "operator": "+",
+    "right": "act of god",
+    "result": "force majeure"
+  },
+  {
+    "left": "miracle",
+    "operator": "+",
+    "right": "divine intervention",
+    "result": "act of god"
+  },
+  {
+    "left": "miracle",
+    "operator": "-",
+    "right": "locust",
+    "result": "divine intervention"
+  },
+  {
+    "left": "plague",
+    "operator": "-",
+    "right": "biblical",
+    "result": "miracle"
+  },
+  {
+    "left": "biblical",
+    "operator": "+",
+    "right": "biblical",
+    "result": "scripture"
+  },
+  {
+    "left": "pollination",
+    "operator": "+",
+    "right": "locust",
+    "result": "agriculture"
+  },
+  {
+    "left": "plague",
+    "operator": "+",
+    "right": "locust",
+    "result": "biblical"
+  },
+  {
+    "left": "arachnid",
+    "operator": "+",
+    "right": "insects",
+    "result": "spiders"
+  },
+  {
+    "left": "pollination",
+    "operator": "+",
+    "right": "insects",
+    "result": "flowers"
+  },
+  {
+    "left": "biodiversity",
+    "operator": "+",
+    "right": "insects",
+    "result": "ecosystem"
+  },
+  {
+    "left": "diverse insect",
+    "operator": "+",
+    "right": "insects",
+    "result": "biodiversity"
+  },
+  {
+    "left": "butterfly",
+    "operator": "+",
+    "right": "insects",
+    "result": "pollination"
+  },
+  {
+    "left": "nonbeetle insect",
+    "operator": "-",
+    "right": "locust",
+    "result": "diverse insect"
+  },
+  {
+    "left": "nonbeetle insect",
+    "operator": "+",
+    "right": "nonbeetle insect",
+    "result": "butterfly"
+  },
+  {
+    "left": "beetle",
+    "operator": "-",
+    "right": "insect",
+    "result": "arachnid"
+  },
+  {
+    "left": "insect",
+    "operator": "-",
+    "right": "beetle",
+    "result": "nonbeetle insect"
+  },
+  {
+    "left": "insect swarm",
+    "operator": "+",
+    "right": "solitary insect",
+    "result": "predatorprey dynamics"
+  },
+  {
+    "left": "solitary insect",
+    "operator": "+",
+    "right": "insects",
+    "result": "beetle"
+  },
+  {
+    "left": "entomology",
+    "operator": "+",
+    "right": "individual insect",
+    "result": "insect behavior"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "entomology",
+    "result": "insect study"
+  },
+  {
+    "left": "entomology",
+    "operator": "+",
+    "right": "insects",
+    "result": "study"
+  },
+  {
+    "left": "entomology",
+    "operator": "+",
+    "right": "entomology",
+    "result": "insects"
+  },
+  {
+    "left": "solitary insect",
+    "operator": "+",
+    "right": "individual insect",
+    "result": "solitary wasp"
+  },
+  {
+    "left": "individual insect",
+    "operator": "+",
+    "right": "individual insect",
+    "result": "entomology"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "swarm",
+    "result": "individual insect"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "neighborhood",
+    "result": "deserted area"
+  },
+  {
+    "left": "solitary insect",
+    "operator": "+",
+    "right": "harmless insect",
+    "result": "bee"
+  },
+  {
+    "left": "swarm",
+    "operator": "-",
+    "right": "insect swarm",
+    "result": "hive mind"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "insect swarm",
+    "result": "solitary insect"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "plague",
+    "result": "insect swarm"
+  },
+  {
+    "left": "independence",
+    "operator": "+",
+    "right": "small",
+    "result": "liberty"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "individualism",
+    "result": "survivalism"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "swarm mentality",
+    "result": "individualism"
+  },
+  {
+    "left": "individuality",
+    "operator": "+",
+    "right": "locust",
+    "result": "swarm mentality"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "collective behavior",
+    "result": "individuality"
+  },
+  {
+    "left": "swarm intelligence",
+    "operator": "+",
+    "right": "swarm intelligence",
+    "result": "collective behavior"
+  },
+  {
+    "left": "individual thought",
+    "operator": "+",
+    "right": "individual thought",
+    "result": "selfreflection"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "swarm intelligence",
+    "result": "individual thought"
+  },
+  {
+    "left": "singularity",
+    "operator": "+",
+    "right": "locust",
+    "result": "swarm intelligence"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "locusts",
+    "result": "singularity"
+  },
+  {
+    "left": "swarm",
+    "operator": "+",
+    "right": "harmless",
+    "result": "bees"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "scarcity",
+    "result": "abundance"
+  },
+  {
+    "left": "harmless",
+    "operator": "+",
+    "right": "pest",
+    "result": "beneficial insect"
+  },
+  {
+    "left": "pest",
+    "operator": "+",
+    "right": "pest",
+    "result": "exterminator"
+  },
+  {
+    "left": "diversity",
+    "operator": "+",
+    "right": "locust",
+    "result": "ecosystem imbalance"
+  },
+  {
+    "left": "insect",
+    "operator": "-",
+    "right": "locusts",
+    "result": "diversity"
+  },
+  {
+    "left": "harmless",
+    "operator": "+",
+    "right": "locust",
+    "result": "biological control"
+  },
+  {
+    "left": "harmless insect",
+    "operator": "-",
+    "right": "insect",
+    "result": "harmless"
+  },
+  {
+    "left": "harmless insect",
+    "operator": "+",
+    "right": "locust",
+    "result": "crop damage"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "pest",
+    "result": "harmless insect"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "small",
+    "result": "pest"
+  },
+  {
+    "left": "loneliness",
+    "operator": "-",
+    "right": "lonely",
+    "result": "connection"
+  },
+  {
+    "left": "soulsearching",
+    "operator": "+",
+    "right": "loneliness",
+    "result": "selfdiscovery"
+  },
+  {
+    "left": "introspection",
+    "operator": "+",
+    "right": "loneliness",
+    "result": "soulsearching"
+  },
+  {
+    "left": "solitude",
+    "operator": "+",
+    "right": "loneliness",
+    "result": "introspection"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "friendship",
+    "result": "loneliness"
+  },
+  {
+    "left": "companionship",
+    "operator": "-",
+    "right": "lonely",
+    "result": "friendship"
+  },
+  {
+    "left": "lonely",
+    "operator": "+",
+    "right": "lonely",
+    "result": "companionship"
+  },
+  {
+    "left": "locusts",
+    "operator": "+",
+    "right": "selfreliance",
+    "result": "sustainable farming"
+  },
+  {
+    "left": "selfreliance",
+    "operator": "+",
+    "right": "locust",
+    "result": "survival"
+  },
+  {
+    "left": "lonely",
+    "operator": "+",
+    "right": "independence",
+    "result": "selfreliance"
+  },
+  {
+    "left": "desolation",
+    "operator": "+",
+    "right": "famine",
+    "result": "apocalypse"
+  },
+  {
+    "left": "lonely",
+    "operator": "-",
+    "right": "locust",
+    "result": "solitude"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "lonely",
+    "result": "isolation"
+  },
+  {
+    "left": "bird",
+    "operator": "-",
+    "right": "flock",
+    "result": "lonely"
+  },
+  {
+    "left": "flock",
+    "operator": "-",
+    "right": "bird",
+    "result": "group"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "void",
+    "result": "desolation"
+  },
+  {
+    "left": "pest control",
+    "operator": "+",
+    "right": "pest control",
+    "result": "extermination"
+  },
+  {
+    "left": "freedom from pests",
+    "operator": "+",
+    "right": "freedom from pests",
+    "result": "pest control"
+  },
+  {
+    "left": "freedom from pests",
+    "operator": "-",
+    "right": "freedom from pests",
+    "result": "void"
+  },
+  {
+    "left": "locust",
+    "operator": "-",
+    "right": "independence",
+    "result": "freedom from pests"
+  },
+  {
+    "left": "independence",
+    "operator": "+",
+    "right": "plague",
+    "result": "quarantine"
+  },
+  {
+    "left": "independent research",
+    "operator": "-",
+    "right": "research",
+    "result": "independence"
+  },
+  {
+    "left": "microbe study",
+    "operator": "-",
+    "right": "school",
+    "result": "independent research"
+  },
+  {
+    "left": "microbe study",
+    "operator": "+",
+    "right": "school",
+    "result": "biology class"
+  },
+  {
+    "left": "library",
+    "operator": "+",
+    "right": "book",
+    "result": "reading"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "famine",
+    "result": "destruction"
+  },
+  {
+    "left": "plague",
+    "operator": "-",
+    "right": "locust",
+    "result": "pestilence"
+  },
+  {
+    "left": "plague",
+    "operator": "+",
+    "right": "hive",
+    "result": "bee disease"
+  },
+  {
+    "left": "swarm",
+    "operator": "+",
+    "right": "swarm",
+    "result": "hive"
+  },
+  {
+    "left": "locust",
+    "operator": "+",
+    "right": "locust",
+    "result": "swarm"
+  },
+  {
+    "left": "plague",
+    "operator": "+",
+    "right": "insect",
+    "result": "locust"
+  },
+  {
+    "left": "famine",
+    "operator": "-",
+    "right": "locusts",
+    "result": "scarcity"
+  },
+  {
+    "left": "plague",
+    "operator": "-",
+    "right": "locusts",
+    "result": "disease"
+  },
+  {
+    "left": "disaster",
+    "operator": "+",
+    "right": "locusts",
+    "result": "crop failure"
+  },
+  {
+    "left": "plague",
+    "operator": "+",
+    "right": "plague",
+    "result": "pandemic"
+  },
+  {
+    "left": "plague",
+    "operator": "+",
+    "right": "locusts",
+    "result": "disaster"
+  },
+  {
+    "left": "locusts",
+    "operator": "+",
+    "right": "locusts",
+    "result": "plague"
+  },
+  {
+    "left": "insect",
+    "operator": "+",
+    "right": "the ten plagues",
+    "result": "locusts"
+  },
+  {
+    "left": "ant",
+    "operator": "+",
+    "right": "animal",
+    "result": "insect"
+  },
+  {
+    "left": "pet",
+    "operator": "+",
+    "right": "pet",
+    "result": "love"
+  },
+  {
+    "left": "small",
+    "operator": "+",
+    "right": "life",
+    "result": "ant"
+  },
+  {
+    "left": "biology",
+    "operator": "+",
+    "right": "cells",
+    "result": "cell biology"
+  },
+  {
+    "left": "microscopy",
+    "operator": "+",
+    "right": "microscopy",
+    "result": "magnification"
+  },
+  {
+    "left": "cells",
+    "operator": "+",
+    "right": "microscopy",
+    "result": "invisibility"
+  },
+  {
+    "left": "science",
+    "operator": "-",
+    "right": "biology",
+    "result": "physics"
+  },
+  {
+    "left": "the ten plagues",
+    "operator": "-",
+    "right": "drought",
+    "result": "suffering of egypt"
+  },
+  {
+    "left": "the ten plagues",
+    "operator": "-",
+    "right": "famine",
+    "result": "egyptian suffering"
+  },
+  {
+    "left": "exodus",
+    "operator": "+",
+    "right": "moses",
+    "result": "journey to freedom"
+  },
+  {
+    "left": "moses",
+    "operator": "+",
+    "right": "moses",
+    "result": "the ten commandments"
+  },
+  {
+    "left": "exodus",
+    "operator": "+",
+    "right": "the bible",
+    "result": "moses"
+  },
+  {
+    "left": "exodus",
+    "operator": "+",
+    "right": "famine",
+    "result": "migration"
+  },
+  {
+    "left": "famine",
+    "operator": "+",
+    "right": "plagues of egypt",
+    "result": "the ten plagues"
+  },
+  {
+    "left": "famine",
+    "operator": "+",
+    "right": "drought",
+    "result": "aid relief"
+  },
+  {
+    "left": "drought",
+    "operator": "+",
+    "right": "plagues of egypt",
+    "result": "famine"
+  },
+  {
+    "left": "plagues of egypt",
+    "operator": "+",
+    "right": "plagues of egypt",
+    "result": "exodus"
+  },
+  {
+    "left": "drought",
+    "operator": "+",
+    "right": "the bible",
+    "result": "plagues of egypt"
+  },
+  {
+    "left": "flowering plant",
+    "operator": "-",
+    "right": "water",
+    "result": "drought"
+  },
+  {
+    "left": "blossom",
+    "operator": "-",
+    "right": "water",
+    "result": "flowering plant"
+  },
+  {
+    "left": "book",
+    "operator": "+",
+    "right": "protestantism",
+    "result": "the bible"
+  },
+  {
+    "left": "knowledge",
+    "operator": "+",
+    "right": "house",
+    "result": "library"
+  },
+  {
+    "left": "lutheran pilgrimage",
+    "operator": "+",
+    "right": "lutheran pilgrimage",
+    "result": "spiritual journey"
+  },
+  {
+    "left": "lutheran pilgrimage",
+    "operator": "+",
+    "right": "protestantism",
+    "result": "reformation"
+  },
+  {
+    "left": "christian pilgrimage",
+    "operator": "+",
+    "right": "protestantism",
+    "result": "lutheran pilgrimage"
+  },
+  {
+    "left": "christian pilgrimage",
+    "operator": "+",
+    "right": "christian pilgrimage",
+    "result": "holy land journey"
+  },
+  {
+    "left": "protestantism",
+    "operator": "+",
+    "right": "holy land",
+    "result": "christian pilgrimage"
+  },
+  {
+    "left": "protestantism",
+    "operator": "-",
+    "right": "catholicism",
+    "result": "religious debate"
+  },
+  {
+    "left": "denomination",
+    "operator": "+",
+    "right": "christianity",
+    "result": "denominations"
+  },
+  {
+    "left": "denomination",
+    "operator": "+",
+    "right": "denomination",
+    "result": "currency"
+  },
+  {
+    "left": "protestantism",
+    "operator": "+",
+    "right": "protestantism",
+    "result": "denomination"
+  },
+  {
+    "left": "christianity",
+    "operator": "-",
+    "right": "catholic church",
+    "result": "protestantism"
+  },
+  {
+    "left": "vatican",
+    "operator": "+",
+    "right": "vatican",
+    "result": "city"
+  },
+  {
+    "left": "vatican city",
+    "operator": "+",
+    "right": "pope",
+    "result": "catholic church"
+  },
+  {
+    "left": "pope",
+    "operator": "+",
+    "right": "pope",
+    "result": "vatican"
+  },
+  {
+    "left": "vatican city",
+    "operator": "+",
+    "right": "catholicism",
+    "result": "pope"
+  },
+  {
+    "left": "israel",
+    "operator": "+",
+    "right": "christianity",
+    "result": "holy land"
+  },
+  {
+    "left": "western wall",
+    "operator": "+",
+    "right": "christianity",
+    "result": "interfaith dialogue"
+  },
+  {
+    "left": "israel",
+    "operator": "+",
+    "right": "jerusalem",
+    "result": "western wall"
+  },
+  {
+    "left": "jerusalem",
+    "operator": "+",
+    "right": "jerusalem",
+    "result": "israel"
+  },
+  {
+    "left": "pilgrimage",
+    "operator": "+",
+    "right": "christianity",
+    "result": "jerusalem"
+  },
+  {
+    "left": "vatican city",
+    "operator": "+",
+    "right": "vatican city",
+    "result": "st peters basilica"
+  },
+  {
+    "left": "catholicism",
+    "operator": "+",
+    "right": "land",
+    "result": "vatican city"
+  },
+  {
+    "left": "religion",
+    "operator": "+",
+    "right": "catholicism",
+    "result": "christianity"
+  },
+  {
+    "left": "mexico",
+    "operator": "+",
+    "right": "religion",
+    "result": "catholicism"
+  },
+  {
+    "left": "religion",
+    "operator": "+",
+    "right": "japan",
+    "result": "shintoism"
+  },
+  {
+    "left": "united states",
+    "operator": "+",
+    "right": "canada",
+    "result": "border"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "canada",
+    "result": "mexico"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "islam",
+    "result": "secular democracy"
+  },
+  {
+    "left": "cultural exchange",
+    "operator": "-",
+    "right": "islam",
+    "result": "cultural diversity"
+  },
+  {
+    "left": "religion",
+    "operator": "-",
+    "right": "islam",
+    "result": "spirituality"
+  },
+  {
+    "left": "religion",
+    "operator": "+",
+    "right": "hajj",
+    "result": "islam"
+  },
+  {
+    "left": "north america",
+    "operator": "-",
+    "right": "america",
+    "result": "canada"
+  },
+  {
+    "left": "north america",
+    "operator": "+",
+    "right": "religion",
+    "result": "diversity of faiths"
+  },
+  {
+    "left": "patriotism",
+    "operator": "+",
+    "right": "religion",
+    "result": "nationalism"
+  },
+  {
+    "left": "belief",
+    "operator": "+",
+    "right": "united states of america",
+    "result": "freedom of religion"
+  },
+  {
+    "left": "america",
+    "operator": "+",
+    "right": "faith",
+    "result": "patriotism"
+  },
+  {
+    "left": "united states of america",
+    "operator": "-",
+    "right": "united states",
+    "result": "america"
+  },
+  {
+    "left": "united states",
+    "operator": "+",
+    "right": "united states",
+    "result": "united states of america"
+  },
+  {
+    "left": "united states",
+    "operator": "+",
+    "right": "island country",
+    "result": "puerto rico"
+  },
+  {
+    "left": "faith",
+    "operator": "+",
+    "right": "faith",
+    "result": "belief"
+  },
+  {
+    "left": "religion",
+    "operator": "+",
+    "right": "religion",
+    "result": "faith"
+  },
+  {
+    "left": "separation of church and state",
+    "operator": "+",
+    "right": "united states",
+    "result": "first amendment"
+  },
+  {
+    "left": "religion",
+    "operator": "+",
+    "right": "united states",
+    "result": "separation of church and state"
+  },
+  {
+    "left": "religious freedom",
+    "operator": "-",
+    "right": "freedom",
+    "result": "religion"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "mecca",
+    "result": "cultural crossroads"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "kaaba",
+    "result": "religious freedom"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "pilgrimage",
+    "result": "freedom journey"
+  },
+  {
+    "left": "kaaba",
+    "operator": "+",
+    "right": "united states",
+    "result": "cultural exchange"
+  },
+  {
+    "left": "mecca",
+    "operator": "+",
+    "right": "mecca",
+    "result": "kaaba"
+  },
+  {
+    "left": "hajj",
+    "operator": "+",
+    "right": "pilgrimage",
+    "result": "mecca"
+  },
+  {
+    "left": "pilgrimage",
+    "operator": "+",
+    "right": "united states",
+    "result": "route 66"
+  },
+  {
+    "left": "hajj",
+    "operator": "+",
+    "right": "united states",
+    "result": "pilgrimage"
+  },
+  {
+    "left": "religious pilgrimage",
+    "operator": "+",
+    "right": "religious pilgrimage",
+    "result": "hajj"
+  },
+  {
+    "left": "mecca of the americas",
+    "operator": "+",
+    "right": "mecca of the americas",
+    "result": "san antonio"
+  },
+  {
+    "left": "religious pilgrimage",
+    "operator": "+",
+    "right": "united states",
+    "result": "mecca of the americas"
+  },
+  {
+    "left": "sacred site",
+    "operator": "+",
+    "right": "temple",
+    "result": "religious pilgrimage"
+  },
+  {
+    "left": "sacred site",
+    "operator": "+",
+    "right": "united states",
+    "result": "mount rushmore"
+  },
+  {
+    "left": "temple",
+    "operator": "-",
+    "right": "united states",
+    "result": "sacred site"
+  },
+  {
+    "left": "united states",
+    "operator": "-",
+    "right": "temple",
+    "result": "freedom"
+  },
+  {
+    "left": "island country",
+    "operator": "+",
+    "right": "tropical paradise",
+    "result": "hawaii"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "ocean",
+    "result": "fish"
+  },
+  {
+    "left": "palm tree",
+    "operator": "+",
+    "right": "bird",
+    "result": "tropical paradise"
+  },
+  {
+    "left": "beach",
+    "operator": "+",
+    "right": "island",
+    "result": "palm tree"
+  },
+  {
+    "left": "sand",
+    "operator": "+",
+    "right": "sand",
+    "result": "beach"
+  },
+  {
+    "left": "stone",
+    "operator": "+",
+    "right": "water",
+    "result": "sand"
+  },
+  {
+    "left": "earth",
+    "operator": "+",
+    "right": "fire",
+    "result": "lava"
+  },
+  {
+    "left": "indonesia",
+    "operator": "+",
+    "right": "brick",
+    "result": "temple"
+  },
+  {
+    "left": "archipelago",
+    "operator": "+",
+    "right": "island",
+    "result": "indonesia"
+  },
+  {
+    "left": "archipelago",
+    "operator": "+",
+    "right": "archipelago",
+    "result": "islands"
+  },
+  {
+    "left": "island",
+    "operator": "+",
+    "right": "island",
+    "result": "archipelago"
+  },
+  {
+    "left": "ocean",
+    "operator": "+",
+    "right": "earth",
+    "result": "island"
+  },
+  {
+    "left": "water",
+    "operator": "+",
+    "right": "sugar",
+    "result": "syrup"
+  },
+  {
+    "left": "board game",
+    "operator": "+",
+    "right": "board game",
+    "result": "chess"
+  },
+  {
+    "left": "candyland",
+    "operator": "+",
+    "right": "candyland",
+    "result": "board game"
+  },
+  {
+    "left": "giant sweets",
+    "operator": "+",
+    "right": "giant sweets",
+    "result": "candyland"
+  },
+  {
+    "left": "candy",
+    "operator": "+",
+    "right": "colossus",
+    "result": "giant sweets"
+  },
+  {
+    "left": "giant",
+    "operator": "+",
+    "right": "big",
+    "result": "colossus"
+  },
+  {
+    "left": "desserts",
+    "operator": "-",
+    "right": "desserts",
+    "result": "void"
+  },
+  {
+    "left": "dessert",
+    "operator": "+",
+    "right": "desserts",
+    "result": "sweet treats"
+  },
+  {
+    "left": "delicious treats",
+    "operator": "+",
+    "right": "sugar",
+    "result": "desserts"
+  },
+  {
+    "left": "bakery",
+    "operator": "+",
+    "right": "pastries",
+    "result": "delicious treats"
+  },
+  {
+    "left": "pastries",
+    "operator": "+",
+    "right": "pastries",
+    "result": "bakery"
+  },
+  {
+    "left": "baked goods",
+    "operator": "+",
+    "right": "sugar",
+    "result": "pastries"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "cookie",
+    "result": "baked goods"
+  },
+  {
+    "left": "cookie",
+    "operator": "+",
+    "right": "cookie",
+    "result": "cookies"
+  },
+  {
+    "left": "dough",
+    "operator": "+",
+    "right": "sugar",
+    "result": "cookie"
+  },
+  {
+    "left": "baking",
+    "operator": "+",
+    "right": "bread",
+    "result": "oven"
+  },
+  {
+    "left": "bread",
+    "operator": "+",
+    "right": "dough",
+    "result": "baking"
+  },
+  {
+    "left": "dough",
+    "operator": "+",
+    "right": "dough",
+    "result": "bread"
+  },
+  {
+    "left": "flour",
+    "operator": "+",
+    "right": "flour",
+    "result": "dough"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "cake",
+    "result": "frosting"
+  },
+  {
+    "left": "truth",
+    "operator": "+",
+    "right": "sugar",
+    "result": "sweet lies"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "deception",
+    "result": "truth"
+  },
+  {
+    "left": "sticky candy",
+    "operator": "+",
+    "right": "glue",
+    "result": "adhesive treat"
+  },
+  {
+    "left": "construction",
+    "operator": "+",
+    "right": "sweet deception",
+    "result": "building illusion"
+  },
+  {
+    "left": "caramel sauce",
+    "operator": "+",
+    "right": "caramel sundae",
+    "result": "caramel drizzle"
+  },
+  {
+    "left": "caramel sundae",
+    "operator": "+",
+    "right": "caramel sundae",
+    "result": "delicious"
+  },
+  {
+    "left": "caramel sauce",
+    "operator": "+",
+    "right": "caramel sauce",
+    "result": "caramel sundae"
+  },
+  {
+    "left": "caramel",
+    "operator": "+",
+    "right": "construction",
+    "result": "caramel sauce"
+  },
+  {
+    "left": "caramel candy",
+    "operator": "+",
+    "right": "caramel candy",
+    "result": "caramel treat"
+  },
+  {
+    "left": "caramel",
+    "operator": "+",
+    "right": "sticky candy",
+    "result": "caramel candy"
+  },
+  {
+    "left": "toffee apple",
+    "operator": "+",
+    "right": "caramel apple",
+    "result": "candy apple"
+  },
+  {
+    "left": "toffee",
+    "operator": "+",
+    "right": "big",
+    "result": "toffee apple"
+  },
+  {
+    "left": "giant candy",
+    "operator": "-",
+    "right": "candy",
+    "result": "giant"
+  },
+  {
+    "left": "glue",
+    "operator": "+",
+    "right": "big",
+    "result": "construction"
+  },
+  {
+    "left": "sweetness",
+    "operator": "+",
+    "right": "big",
+    "result": "giant candy"
+  },
+  {
+    "left": "caramel",
+    "operator": "+",
+    "right": "big",
+    "result": "caramel apple"
+  },
+  {
+    "left": "sticky candy",
+    "operator": "+",
+    "right": "big",
+    "result": "bear gummy bear"
+  },
+  {
+    "left": "starch",
+    "operator": "+",
+    "right": "big",
+    "result": "potato"
+  },
+  {
+    "left": "sugar",
+    "operator": "+",
+    "right": "honey trap",
+    "result": "sweet deception"
+  },
+  {
+    "left": "deception",
+    "operator": "+",
+    "right": "honey trap",
+    "result": "seduction"
+  },
+  {
+    "left": "honey trap",
+    "operator": "+",
+    "right": "honey trap",
+    "result": "deception"
+  },
+  {
+    "left": "sweetness",
+    "operator": "+",
+    "right": "sticky situation",
+    "result": "honey trap"
+  },
+  {
+    "left": "sweetness",
+    "operator": "+",
+    "right": "glue",
+    "result": "sticky candy"
+  },
+  {
+    "left": "caramel",
+    "operator": "+",
+    "right": "sugar",
+    "result": "toffee"
+  },
+  {
+    "left": "sticky situation",
+    "operator": "+",
+    "right": "sugar",
+    "result": "caramel"
+  },
+  {
+    "left": "glue",
+    "operator": "+",
+    "right": "sugar",
+    "result": "sticky situation"
+  },
+  {
+    "left": "starch",
+    "operator": "+",
+    "right": "starch",
+    "result": "glue"
+  },
+  {
+    "left": "sugar",
+    "operator": "-",
+    "right": "carbohydrates",
+    "result": "sweetness"
+  },
+  {
+    "left": "carbohydrates",
+    "operator": "-",
+    "right": "sugar",
+    "result": "starch"
+  },
+  {
+    "left": "food",
+    "operator": "+",
+    "right": "carbohydrates",
+    "result": "pasta"
+  },
+  {
+    "left": "energy",
+    "operator": "+",
+    "right": "glucose",
+    "result": "metabolism"
+  },
+  {
+    "left": "energy",
+    "operator": "+",
+    "right": "carbohydrates",
+    "result": "food"
+  },
+  {
+    "left": "carbohydrates",
+    "operator": "+",
+    "right": "glucose",
+    "result": "energy"
+  },
+  {
+    "left": "sugar",
+    "operator": "+",
+    "right": "glucose",
+    "result": "carbohydrates"
+  },
+  {
+    "left": "photosynthesis",
+    "operator": "+",
+    "right": "sugar",
+    "result": "glucose"
+  },
+  {
+    "left": "light",
+    "operator": "+",
+    "right": "sugar",
+    "result": "photosynthesis"
+  },
+  {
+    "left": "frozen",
+    "operator": "+",
+    "right": "sugar",
+    "result": "ice cream"
+  },
+  {
+    "left": "sweets paradise",
+    "operator": "+",
+    "right": "sugar",
+    "result": "dessert heaven"
+  },
+  {
+    "left": "candy store",
+    "operator": "+",
+    "right": "candy store",
+    "result": "sweets paradise"
+  },
+  {
+    "left": "giant lollipop",
+    "operator": "+",
+    "right": "giant lollipop",
+    "result": "sugar rush"
+  },
+  {
+    "left": "sweets",
+    "operator": "+",
+    "right": "big",
+    "result": "candy store"
+  },
+  {
+    "left": "candy",
+    "operator": "+",
+    "right": "big",
+    "result": "giant lollipop"
+  },
+  {
+    "left": "wild animal",
+    "operator": "+",
+    "right": "cat",
+    "result": "feline"
+  },
+  {
+    "left": "cake",
+    "operator": "+",
+    "right": "dessert",
+    "result": "cupcake"
+  },
+  {
+    "left": "rainbow",
+    "operator": "+",
+    "right": "stone",
+    "result": "prism"
   }
 ]
